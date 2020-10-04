@@ -41,7 +41,7 @@ img {
 }
 
 .texto-brexia {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
 }
 
@@ -654,4 +654,46 @@ a.scrollup i:hover {
         font-weight: bold;
         font-size: 23px;
     }
+}
+
+/*Aquí empieza la sección de la perstaña, como-tratamos-el-cancer*/
+
+.fondo-como-tratamos-c {
+    width: 1200px;
+    height: 298px;
+    background-color: lightgreen;
+    background-image: url(/img/COMO-TRATAMOS-EL-CANCER.jpg);
+    display: block;
+    margin: auto;
+    margin-top: 30px !important;
+}
+
+.fondo-como-tratamos-c h1 {
+    color: #914568;
+    font-size: 40px;
+    padding-left: 10px;
+    text-align: center;
+    float: left;
+    margin-top: 80px;
+    font-weight: bold;
+}
+
+.contenedor-2 {
+    max-width: 750px;
+    /** Igual a 1200 px**/
+    margin: 0 auto;
+    /** atajo, para alinear**/
+    /**es para centrar la mayoria de elementos*/
+}
+
+.formato-h2 {
+    color: #914568;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.contenedor-2 img {
+    width: 50%;
+    display: flex;
+    margin: auto;
 }
