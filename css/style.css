@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700,800|Roboto:400,500,700,900');
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700,800|Roboto:400,500,700,900');
 html {
     box-sizing: border-box;
     /*Pra que no nos afecte el padding*/
@@ -15,6 +15,7 @@ html {
 
 body {
     font-family: 'Open Sans', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
@@ -656,6 +657,7 @@ a.scrollup i:hover {
     }
 }
 
+
 /*Aquí empieza la sección de la perstaña, como-tratamos-el-cancer*/
 
 .fondo-como-tratamos-c {
@@ -696,4 +698,27 @@ a.scrollup i:hover {
     width: 50%;
     display: flex;
     margin: auto;
-}
+    /*##SER PACIENTE EN BREXIA##*/
+    .ser-paciente-h1 h1 {
+        color: #914568;
+        font-size: 38px;
+        font-weight: 700;
+    }
+    .ser-paciente-marco {
+        border: #914568 1px solid;
+        list-style: none;
+    }
+    #lista-horizontal li {
+        display: inline;
+    }
+    #lista-horizontal li a {
+        color: black;
+        font-size: 15px;
+        font-weight: 600;
+        margin-left: 10px;
+    }
+    .titulo-p p {
+        font-size: 17px;
+        font-weight: 600;
+        color: #914568;
+    }
