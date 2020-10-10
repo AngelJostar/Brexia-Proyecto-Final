@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
 html {
     box-sizing: border-box;
@@ -104,97 +103,6 @@ h4 {
 
 
 /*
-=======
-        @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700,800|Roboto:400,500,700,900');
-    html {
-        box-sizing: border-box;
-        /*Pra que no nos afecte el padding*/
-        font-size: 62.5%;
-        /** Reset para rems, -62.5% = 10 px de 16 px*/
-    }
-    
-    *,
-    *:before,
-    *:after {
-        /*Para que siempre se mantenga el ancho y el largo, e ignore al padding*/
-        box-sizing: inherit;
-    }
-    
-    body {
-        font-family: 'Open Sans', sans-serif;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-    /**Globales - contenido que es reutizable.**/
-    /*Para las imagenes que no salgan grandotas, afecta todas las imagenes, para que sean responsivas*/
-    /*Es una declaracion importante*/
-    /*Hace que las imagenes se ajusten al contenedor*/
-    
-    img {
-        max-width: 100%;
-    }
-    
-    .contenedor {
-        width: 95%;
-        max-width: 140rem;
-        /** = 1200px; **/
-        margin: 0 auto;
-    }
-    
-    .texto-brexia {
-        font-size: 18px;
-        font-weight: 300;
-    }
-    /*Sistema para el tama;o de palabras, en los headers*/
-    
-    h1 {
-        font-size: 3.8rem;
-    }
-    
-    h2 {
-        font-size: 3.4rem;
-    }
-    
-    h3 {
-        font-size: 3rem;
-    }
-    
-    h4 {
-        font-size: 2.6rem;
-    }
-    /*Top Header*/
-    
-    .top-header {
-        -webkit-transition: all .4s ease-in-out;
-        -moz-transition: all .4s ease-in-out;
-        transition: all .4s ease-in-out;
-        background-color: #c787a2;
-        padding-top: 0.4rem;
-        padding-bottom: 0.4rem;
-        width: 100% !important;
-    }
-    
-    .top-header p {
-        font-size: 14.5px;
-        font-weight: bold;
-        text-align: center;
-        color: white;
-        margin: 0;
-    }
-    
-    .fixed {
-        position: fixed;
-        top: 0;
-    }
-    /*MId header*/
-    
-    .mid-header {
-        margin: 0rem auto 0rem;
-        padding-top: 3.2rem;
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-    }
-    /*
->>>>>>> 21b4f000bee40c8ad886f88e7908bfbb63a4ce3b
 .mid-header {
     margin: 0rem auto 0rem;
     padding-top: 3.2rem;
@@ -206,7 +114,6 @@ h4 {
     flex-basis: calc(43% - 1rem);
 }
 */
-<<<<<<< HEAD
 
 .mid-font {
     font-size: 18px;
@@ -483,236 +390,163 @@ a:hover {
 @media (min-width: 828px) {
     .contentido {
         display: none;
-=======
-    
-    .mid-font {
-        font-size: 18px;
-        font-weight: bold;
-        color: #a3a3a3 !important;
-        line-height: 2rem;
-        padding-top: 3.5rem;
     }
-    
-    .mid-font a {
-        text-decoration: none;
-        color: #a3a3a3 !important;
->>>>>>> 21b4f000bee40c8ad886f88e7908bfbb63a4ce3b
+    .mostrar-texto {
+        display: none;
     }
-    
-    .mid-font a:hover {
-        color: #a3a3a3 !important;
-    }
-    
-    .mid-font a:hover {
-        color: #a3a3a3 !important;
-    }
-    
-    .mid-font a:focus {
-        color: #a3a3a3 !important;
-    }
-    
-    .mid-image {
-        text-align: center;
-    }
-    /*Redes Sociales*/
-    
+}
+
+@media (max-width: 828px) {
     .icono {
-        /*flex-basis: 20rem; /*para el ancho*/
-        /*pensando mas a futuro usamos procentajes, en lo de responsive web desing*/
-        flex-basis: calc(44.4% - 10px);
-        /*Tomas el 100 por ciento y lo divides entre 3*/
-        /*Usamos calc para realizar una operacion matematica*/
-        text-align: center;
-        /*Alinea al centro el texto e imagenes, además existe right, left,justify.*/
+        display: none;
     }
-    
-    .company-social {
-        margin-left: 0;
-        padding-left: 0;
-        padding-right: 0;
-        margin-top: 3rem;
-        text-align: center;
-        list-style: none;
+    .mid-font {
+        display: none;
     }
-    
-    .company-social li {
-        margin: 0;
-        padding: 0;
-        display: inline-block;
+    .mid-header {
+        margin: 0rem auto 0rem;
+        padding-top: 3.2rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
     }
-    
-    .company-social a {
-        margin: 0 2px 0 0;
+    /*
+    .mid-header {
+        margin: 0rem auto 0rem;
+        padding-top: 3.2rem;
+        display: flex;
+        justify-content: space-evenly;
     }
-    
-    .company-social a:hover {
-        color: #fff;
+    .deepmid-header {
+        flex-basis: calc(20% - 1rem);
     }
-    
-    .company-social a i {
-        border-radius: 50%;
-        color: #ffffff !important;
-        display: inline-block;
-        height: 54px;
-        line-height: 54px;
-        margin: 0px 0px;
-        text-align: center;
-        text-decoration: none;
-        transition: background-color .3s;
-        webkit-transition: background-color .3s;
-        width: 54px;
+    */
+    .contenedor.low-header {
+        display: none;
     }
-    
-    .company-social .social-facebook a i {
-        background-color: #a3a3a3;
+    .mid-image img {
+        min-width: 150px;
+        margin-left: 23px;
     }
-    
-    .company-social .social-twitter a i {
-        background-color: #a3a3a3;
+    .top-header p {
+        font-size: 10px;
     }
-    
-    .company-social .social-instagram a i {
-        background-color: #a3a3a3;
-    }
-    
-    .company-social .social-whatsapp a i {
-        background-color: #a3a3a3;
-    }
-    
-    .company-social .social-youtube a i {
-        background-color: #a3a3a3;
-    }
-    
-    .company-social .social-facebook a:hover i {
-        background: #4893ce;
-    }
-    
-    .company-social .social-twitter a:hover i {
-        background: #82e6ff;
-    }
-    
-    .company-social .social-instagram a:hover i {
-        background: #d6249f;
-        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)
-    }
-    
-    .company-social .social-whatsapp a:hover i {
-        background: #128c7e;
-    }
-    
-    .company-social .social-youtube a:hover i {
-        background: red;
-    }
-    /*Low Header*/
-    
-    .low-header {
-        text-align: center;
-        list-style: none;
-        padding-top: 1rem;
-    }
-    
-    .low-header li {
-        display: inline;
-        padding-right: 3.20rem;
-    }
-    
-    .low-header a {
-        font-size: 18px;
-        font-weight: bold;
-        text-decoration: none;
-        color: #c787a2;
-    }
-    
-    a:focus {
-        color: #914568 !important;
-    }
-    
-    a:hover {
-        color: #914568 !important;
-    }
-    
-    .low-header ul {
-        padding-left: 2.2rem !important;
-    }
-    /*Hamburger Menu*/
-    /* ### GENERAL SITE STYLES ### */
-    
-    #site-wrapper {
-        position: relative;
-        overflow: hidden;
-        width: 100%;
-        height: 100%;
-    }
-    
-    #site-canvas {
-        width: 100%;
-        position: relative;
-        -webkit-transform: translateX(0);
-        transform: translateX(0);
-        -webkit-transform: translate3d(0, 0, 0);
-        transform: translate3d(0, 0, 0);
-        -webkit-transition: 300ms ease all;
-        transition: 300ms ease all;
-        -webkit-backface-visibility: hidden;
-        backface-visibility: hidden;
-    }
-    
-    .show-nav #site-canvas {
-        -webkit-transform: translateX(100vw);
-        transform: translateX(100vw);
-        -webkit-transform: translate3d(100vw, 0, 0);
-        transform: translate3d(100vw, 0, 0);
-    }
-    /* ### MENU STYLES ### */
-    
-    #site-menu {
-        width: 80vw;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: -100vw;
-        background: #222;
-    }
-    
-    .resaltar {
-        list-style: none;
-    }
-    
-    .site-menu-content {
-        width: 100%;
-        max-width: 760px;
-        margin: 0px auto;
-        padding: 20px;
-        font-family: 'Roboto Slab', sans-serif;
-    }
-    
-    .site-menu ul {
-        list-style: none;
-    }
-    
-    #site-menu i {
-        color: white;
-        font-size: 2em;
-    }
-    
-    #site-menu a {
+}
+
+
+/*FOOTER*/
+
+footer {
+    position: relative;
+    width: 100%;
+}
+
+.linea {
+    border-top: 3px solid #914568;
+    height: 10px;
+    max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 18px;
+}
+
+.deepfooter {
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    background-color: #914568;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    width: 100% !important;
+}
+
+.deepfooter p {
+    font-size: 11px;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.contenedor-footer {
+    width: 80%;
+    max-width: 140rem;
+    /** = 1200px; **/
+    margin: 0 auto;
+}
+
+.llamanos-footer a {
+    font-size: 19px;
+    color: #b06b8c;
+}
+
+.boton-brexia-footer {
+    background: #c787a2;
+    font-size: 14px;
+    text-decoration: none;
+    height: 55px;
+    width: 150px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.boton-brexia-footer:hover {
+    color: rgba(255, 255, 255, 1) !important;
+    box-shadow: 0 4px 16px #b46a8a;
+    transition: all 0.2s ease;
+}
+
+.text-footer {
+    font-size: 15px;
+    font-weight: bold;
+    color: #979696 !important;
+    line-height: 2rem;
+}
+
+.redes-footer {
+    flex-basis: calc(44.4% - 10px);
+    text-align: center;
+}
+
+@media (max-width: 828px) {
+    .footer-grid {
         display: block;
-        padding: 0.7em 0em 0.7em 0em;
-        outline: none;
-        box-shadow: none;
+        grid-template-rows: repeat(2, 1fr);
+    }
+    .contenedor-footer {
+        width: 100%;
+        max-width: 140rem;
+        /** = 1200px; **/
+        margin: 0 auto;
+    }
+    .ocultar-text {
+        display: none;
+    }
+    .llamanos-footer {
+        margin-bottom: 2rem;
+    }
+    .text-footer {
+        margin-top: -2rem;
+    }
+    .br-footer {
+        display: none;
+    }
+    .boton-brexia-footer {
+        background: #c787a2;
         font-weight: 500;
+        font-size: 14px;
         text-decoration: none;
+        height: 40px;
+        width: 150px;
+        margin-bottom: 10px;
         color: white;
-        font-family: 'Roboto Slab', sans-serif;
-        font-size: 16px;
-        -webkit-transition: 300ms ease all;
-        transition: 300ms ease all;
     }
-    
-    #site-menu a:hover {
-        color: #f4f4f4;
+    .redes-footer {
+        margin-top: -4rem;
     }
-<<<<<<< HEAD
 }
 
 .scrollup {
@@ -812,17 +646,13 @@ a.scrollup i:hover {
     .boton-brexia {
         background: #c787a2;
         font-weight: bold;
-=======
-    /* ### GENERAL CONTENT STYLES ### */
-    
-    .menu-a {
->>>>>>> 21b4f000bee40c8ad886f88e7908bfbb63a4ce3b
         text-decoration: none;
-        color: rgba(86, 178, 171, 0.5);
-        -webkit-transition: 300ms ease all;
-        transition: 300ms ease all;
+        height: 45px;
+        width: 290px;
+        margin-bottom: 20px;
+        font-size: 14px;
+        color: white;
     }
-<<<<<<< HEAD
     .low-header {
         display: none;
     }
@@ -840,21 +670,12 @@ a.scrollup i:hover {
         font-size: 30px;
         font-weight: bold !important;
         letter-spacing: 1.1pt;
-=======
-    
-    .menu-a:hover {
-        color: rgb(86, 178, 171);
     }
-    
-    .contentido p {
-        font-size: 2px;
->>>>>>> 21b4f000bee40c8ad886f88e7908bfbb63a4ce3b
+    .brexia-h2 h2 {
+        color: #914568;
+        font-weight: bold;
+        font-size: 23px;
     }
-    
-    .nav-icon:hover {
-        color: rgb(86, 178, 171);
-    }
-<<<<<<< HEAD
 }
 
 
@@ -899,532 +720,3 @@ a.scrollup i:hover {
     display: flex;
     margin: auto;
 }
-=======
-    
-    .color-brexia {
-        color: #c787a2;
-        font-size: 4em !important;
-        -webkit-transition: 300ms ease all;
-        transition: 300ms ease all;
-    }
-    
-    .justificar {
-        float: right;
-        padding-top: 0.9rem;
-        padding-right: 5rem;
-    }
-    
-    @media (min-width: 828px) {
-        .contentido {
-            display: none;
-        }
-        .mid-font a {
-            text-decoration: none;
-            color: #a3a3a3 !important;
-        }
-        .mid-font a:hover {
-            color: #a3a3a3 !important;
-        }
-        .mid-font a:hover {
-            color: #a3a3a3 !important;
-        }
-        .mid-font a:focus {
-            color: #a3a3a3 !important;
-        }
-        .mid-image {
-            text-align: center;
-        }
-        /*Redes Sociales*/
-        .icono {
-            /*flex-basis: 20rem; /*para el ancho*/
-            /*pensando mas a futuro usamos procentajes, en lo de responsive web desing*/
-            flex-basis: calc(44.4% - 10px);
-            /*Tomas el 100 por ciento y lo divides entre 3*/
-            /*Usamos calc para realizar una operacion matematica*/
-            text-align: center;
-            /*Alinea al centro el texto e imagenes, además existe right, left,justify.*/
-        }
-        .company-social {
-            margin-left: 0;
-            padding-left: 0;
-            padding-right: 0;
-            margin-top: 3rem;
-            text-align: center;
-            list-style: none;
-        }
-        .company-social li {
-            margin: 0;
-            padding: 0;
-            display: inline-block;
-        }
-        .company-social a {
-            margin: 0 2px 0 0;
-        }
-        .company-social a:hover {
-            color: #fff;
-        }
-        .company-social a i {
-            border-radius: 50%;
-            color: #ffffff !important;
-            display: inline-block;
-            height: 54px;
-            line-height: 54px;
-            margin: 0px 0px;
-            text-align: center;
-            text-decoration: none;
-            transition: background-color .3s;
-            webkit-transition: background-color .3s;
-            width: 54px;
-        }
-        .company-social .social-facebook a i {
-            background-color: #a3a3a3;
-        }
-        .company-social .social-twitter a i {
-            background-color: #a3a3a3;
-        }
-        .company-social .social-instagram a i {
-            background-color: #a3a3a3;
-        }
-        .company-social .social-whatsapp a i {
-            background-color: #a3a3a3;
-        }
-        .company-social .social-youtube a i {
-            background-color: #a3a3a3;
-        }
-        .company-social .social-facebook a:hover i {
-            background: #4893ce;
-        }
-        .company-social .social-twitter a:hover i {
-            background: #82e6ff;
-        }
-        .company-social .social-instagram a:hover i {
-            background: #d6249f;
-            background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)
-        }
-        .company-social .social-whatsapp a:hover i {
-            background: #128c7e;
-        }
-        .company-social .social-youtube a:hover i {
-            background: red;
-        }
-        /*Low Header*/
-        .low-header {
-            text-align: center;
-            list-style: none;
-            padding-top: 1rem;
-        }
-        .low-header li {
-            display: inline;
-            padding-right: 3.20rem;
-        }
-        .low-header a {
-            font-size: 18px;
-            font-weight: bold;
-            text-decoration: none;
-            color: #c787a2;
-        }
-        a:focus {
-            color: #914568 !important;
-        }
-        a:hover {
-            color: #914568 !important;
-        }
-        .low-header ul {
-            padding-left: 2.2rem !important;
-        }
-        /*Hamburger Menu*/
-        /* ### GENERAL SITE STYLES ### */
-        #site-wrapper {
-            position: relative;
-            overflow: hidden;
-            width: 100%;
-            height: 100%;
-        }
-        #site-canvas {
-            width: 100%;
-            position: relative;
-            -webkit-transform: translateX(0);
-            transform: translateX(0);
-            -webkit-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-            -webkit-transition: 300ms ease all;
-            transition: 300ms ease all;
-            -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
-        }
-        .show-nav #site-canvas {
-            -webkit-transform: translateX(100vw);
-            transform: translateX(100vw);
-            -webkit-transform: translate3d(100vw, 0, 0);
-            transform: translate3d(100vw, 0, 0);
-        }
-        /* ### MENU STYLES ### */
-        #site-menu {
-            width: 100vw;
-            height: 100%;
-            position: absolute;
-            top: 0;
-            left: -100vw;
-            background: #c787a2;
-            color: #f5f5f5;
-        }
-        .site-menu-content {
-            width: 100%;
-            max-width: 760px;
-            margin: 0px auto;
-            padding: 40px;
-            font-family: 'Roboto Slab', sans-serif;
-        }
-        #site-menu i {
-            color: white;
-            font-size: 2em;
-        }
-        #site-menu a {
-            text-decoration: none;
-            color: white;
-            -webkit-transition: 300ms ease all;
-            transition: 300ms ease all;
-        }
-        #site-menu a:hover {
-            color: #f4f4f4;
-        }
-        /* ### GENERAL CONTENT STYLES ### */
-        .menu-a {
-            text-decoration: none;
-            color: rgba(86, 178, 171, 0.5);
-            -webkit-transition: 300ms ease all;
-            transition: 300ms ease all;
-        }
-        .menu-a:hover {
-            color: rgb(86, 178, 171);
-        }
-        .contentido p {
-            font-size: 2px;
-        }
-        .nav-icon:hover {
-            color: rgb(86, 178, 171);
-        }
-        .color-brexia {
-            color: #c787a2;
-            font-size: 4em !important;
-            -webkit-transition: 300ms ease all;
-            transition: 300ms ease all;
-        }
-        .justificar {
-            float: right;
-            padding-top: 0.9rem;
-            padding-right: 5rem;
-        }
-        @media (min-width: 828px) {
-            .contentido {
-                display: none;
-            }
-            .mostrar-texto {
-                display: none;
-            }
-        }
-        @media (max-width: 828px) {
-            .icono {
-                display: none;
-            }
-            .mid-font {
-                display: none;
-            }
-            .mid-header {
-                margin: 0rem auto 0rem;
-                padding-top: 3.2rem;
-                display: grid;
-                grid-template-columns: repeat(2, 1fr);
-            }
-            /*
-    .mid-header {
-        margin: 0rem auto 0rem;
-        padding-top: 3.2rem;
-        display: flex;
-        justify-content: space-evenly;
-    }
-    .deepmid-header {
-        flex-basis: calc(20% - 1rem);
-    }
-    */
-            .contenedor.low-header {
-                display: none;
-            }
-            .mid-image img {
-                min-width: 150px;
-                margin-left: 23px;
-            }
-            .top-header p {
-                font-size: 10px;
-            }
-        }
-        /*FOOTER*/
-        footer {
-            position: relative;
-            width: 100%;
-        }
-        .linea {
-            border-top: 3px solid #914568;
-            height: 10px;
-            max-width: 100%;
-            padding-top: 10px;
-            padding-bottom: 18px;
-        }
-        .deepfooter {
-            -webkit-transition: all .4s ease-in-out;
-            -moz-transition: all .4s ease-in-out;
-            transition: all .4s ease-in-out;
-            background-color: #914568;
-            padding-top: 0.3rem;
-            padding-bottom: 0.3rem;
-            width: 100% !important;
-        }
-        .deepfooter p {
-            font-size: 11px;
-            font-weight: lighter;
-            text-align: center;
-            color: white;
-            margin: 0;
-        }
-        .footer-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-        }
-        .contenedor-footer {
-            width: 80%;
-            max-width: 140rem;
-            /** = 1200px; **/
-            margin: 0 auto;
-        }
-        .llamanos-footer a {
-            font-size: 19px;
-            color: #b06b8c;
-        }
-        .boton-brexia-footer {
-            background: #c787a2;
-            font-size: 14px;
-            text-decoration: none;
-            height: 55px;
-            width: 150px;
-            margin-bottom: 10px;
-            color: white;
-        }
-        .boton-brexia-footer:hover {
-            color: rgba(255, 255, 255, 1) !important;
-            box-shadow: 0 4px 16px #b46a8a;
-            transition: all 0.2s ease;
-        }
-        .text-footer {
-            font-size: 15px;
-            font-weight: bold;
-            color: #979696 !important;
-            line-height: 2rem;
-        }
-        .redes-footer {
-            flex-basis: calc(44.4% - 10px);
-            text-align: center;
-        }
-        @media (max-width: 828px) {
-            .footer-grid {
-                display: block;
-                grid-template-rows: repeat(2, 1fr);
-            }
-            .contenedor-footer {
-                width: 100%;
-                max-width: 140rem;
-                /** = 1200px; **/
-                margin: 0 auto;
-            }
-            .ocultar-text {
-                display: none;
-            }
-            .llamanos-footer {
-                margin-bottom: 2rem;
-            }
-            .text-footer {
-                margin-top: -2rem;
-            }
-            .br-footer {
-                display: none;
-            }
-            .boton-brexia-footer {
-                background: #c787a2;
-                font-weight: 500;
-                font-size: 14px;
-                text-decoration: none;
-                height: 40px;
-                width: 150px;
-                margin-bottom: 10px;
-                color: white;
-            }
-            .redes-footer {
-                margin-top: -4rem;
-            }
-        }
-        .scrollup {
-            position: fixed;
-            width: 32px;
-            height: 32px;
-            bottom: 0px;
-            right: 20px;
-            background: #222;
-            -webkit-border-radius: 2px 2px 0 0;
-            -moz-border-radius: 2px 2px 0 0;
-            border-radius: 2px 2px 0 0;
-        }
-        a.scrollup {
-            outline: 0;
-            text-align: center;
-        }
-        a.scrollup:hover,
-        a.scrollup:active,
-        a.scrollup:focus {
-            opacity: 1;
-            text-decoration: none;
-        }
-        a.scrollup i {
-            margin-top: 10px;
-            color: #fff;
-        }
-        a.scrollup i:hover {
-            text-decoration: none;
-        }
-        /*PAGINA PRINCIPAL*/
-        .intro-content img {
-            padding-top: 0px;
-            max-width: 100%;
-            height: auto;
-            display: block;
-        }
-        .principal-content {
-            background: #FFF;
-            padding-top: 35px;
-            padding-right: 110px;
-            padding-left: 110px;
-        }
-        .boton-brexia {
-            background: #c787a2;
-            font-weight: bold;
-            text-decoration: none;
-            height: 45px;
-            width: 290px;
-            margin-bottom: 20px;
-            font-size: 14px;
-            color: white;
-        }
-        .boton-brexia:hover {
-            color: rgba(255, 255, 255, 1) !important;
-            box-shadow: 0 4px 16px #b46a8a;
-            transition: all 0.2s ease;
-        }
-        .video-size {
-            width: 100%;
-            min-height: 310px;
-        }
-        .brexia-h1 h1 {
-            color: #914568;
-            font-size: 45px;
-            font-weight: bold !important;
-            letter-spacing: -2pt;
-        }
-        .brexia-h2 h2 {
-            color: #914568;
-            font-weight: bold;
-            font-size: 33px;
-        }
-        .mostrar-texto {
-            font-size: 15px;
-            font-weight: bold;
-            color: #979696 !important;
-            line-height: 2rem;
-        }
-        @media (max-width: 828px) {
-            .boton-brexia {
-                background: #c787a2;
-                font-weight: bold;
-                text-decoration: none;
-                height: 45px;
-                width: 290px;
-                margin-bottom: 20px;
-                font-size: 14px;
-                color: white;
-            }
-            .principal-content {
-                background: #FFF;
-                padding-top: 35px;
-                padding-right: 23px;
-                padding-left: 23px;
-            }
-            .brexia-h1 h1 {
-                color: #914568;
-                font-size: 34px;
-                font-weight: bold !important;
-                letter-spacing: -1pt;
-            }
-            .brexia-h2 h2 {
-                color: #914568;
-                font-weight: bold;
-                font-size: 23px;
-            }
-        }
-        /*Aquí empieza la sección de la perstaña, como-tratamos-el-cancer*/
-        .fondo-como-tratamos-c {
-            width: 1200px;
-            height: 298px;
-            background-color: lightgreen;
-            background-image: url(/img/COMO-TRATAMOS-EL-CANCER.jpg);
-            display: block;
-            margin: auto;
-            margin-top: 30px !important;
-        }
-        .fondo-como-tratamos-c h1 {
-            color: #914568;
-            font-size: 40px;
-            padding-left: 10px;
-            text-align: center;
-            float: left;
-            margin-top: 80px;
-            font-weight: bold;
-        }
-        .contenedor-2 {
-            max-width: 750px;
-            /** Igual a 1200 px**/
-            margin: 0 auto;
-            /** atajo, para alinear**/
-            /**es para centrar la mayoria de elementos*/
-        }
-        .formato-h2 {
-            color: #914568;
-            font-size: 30px;
-            font-weight: 500;
-        }
-        .contenedor-2 img {
-            width: 50%;
-            display: flex;
-            margin: auto;
-            /*##SER PACIENTE EN BREXIA##*/
-        }
-        .ser-paciente-h1 h1 {
-            color: #914568;
-            font-size: 38px;
-            font-weight: 700;
-        }
-        .ser-paciente-marco {
-            border: #914568 1px solid;
-            list-style: none;
-        }
-        #lista-horizontal li {
-            display: inline;
-        }
-        #lista-horizontal li a {
-            color: black;
-            font-size: 15px;
-            font-weight: 600;
-            margin-left: 10px;
-        }
-        .titulo-p p {
-            font-size: 17px;
-            font-weight: 600;
-            color: #914568;
-        }
->>>>>>> 21b4f000bee40c8ad886f88e7908bfbb63a4ce3b
