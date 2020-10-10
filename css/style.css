@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700,800|Roboto:400,500,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
 html {
     box-sizing: border-box;
     /*Pra que no nos afecte el padding*/
@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 
@@ -41,8 +41,9 @@ img {
 }
 
 .texto-brexia {
-    font-size: 18px;
-    font-weight: 300;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 2.1rem;
 }
 
 
@@ -245,7 +246,7 @@ h4 {
 
 .low-header li {
     display: inline;
-    padding-right: 3.20rem;
+    padding-right: 4.4rem;
 }
 
 .low-header a {
@@ -310,10 +311,9 @@ a:hover {
     top: 0;
     left: -100vw;
     background: #222;
-    
 }
 
-.resaltar{
+.resaltar {
     list-style: none;
 }
 
@@ -325,7 +325,7 @@ a:hover {
     font-family: 'Roboto Slab', sans-serif;
 }
 
-.site-menu ul{
+.site-menu ul {
     list-style: none;
 }
 
@@ -587,7 +587,8 @@ a.scrollup i:hover {
 
 .intro-content img {
     padding-top: 0px;
-    max-width: 100%;
+    max-width: 75%;
+    margin: 0 auto;
     height: auto;
     display: block;
 }
@@ -595,8 +596,8 @@ a.scrollup i:hover {
 .principal-content {
     background: #FFF;
     padding-top: 35px;
-    padding-right: 110px;
-    padding-left: 110px;
+    max-width: 65%;
+    margin: 0 auto;
 }
 
 .boton-brexia {
@@ -652,17 +653,23 @@ a.scrollup i:hover {
         font-size: 14px;
         color: white;
     }
+    .low-header {
+        display: none;
+    }
+    .intro-content img {
+        max-width: 100%;
+    }
     .principal-content {
         background: #FFF;
-        padding-top: 35px;
-        padding-right: 23px;
-        padding-left: 23px;
+        padding-top: 5px;
+        max-width: 90%;
+        margin: 0 auto;
     }
     .brexia-h1 h1 {
         color: #914568;
-        font-size: 34px;
+        font-size: 30px;
         font-weight: bold !important;
-        letter-spacing: -1pt;
+        letter-spacing: 1.1pt;
     }
     .brexia-h2 h2 {
         color: #914568;
@@ -670,6 +677,7 @@ a.scrollup i:hover {
         font-size: 23px;
     }
 }
+
 
 /*Aquí empieza la sección de la perstaña, como-tratamos-el-cancer*/
 
