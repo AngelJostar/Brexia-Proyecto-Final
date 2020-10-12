@@ -387,7 +387,7 @@ a:hover {
     padding-right: 5rem;
 }
 
-@media (min-width: 828px) {
+@media (min-width: 886px) {
     .contentido {
         display: none;
     }
@@ -396,7 +396,7 @@ a:hover {
     }
 }
 
-@media (max-width: 828px) {
+@media (max-width: 886px) {
     .icono {
         display: none;
     }
@@ -511,7 +511,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 828px) {
+@media (max-width: 886px) {
     .footer-grid {
         display: block;
         grid-template-rows: repeat(2, 1fr);
@@ -617,6 +617,8 @@ a.scrollup i:hover {
     transition: all 0.2s ease;
 }
 
+
+
 .video-size {
     width: 100%;
     min-height: 310px;
@@ -642,7 +644,7 @@ a.scrollup i:hover {
     line-height: 2rem;
 }
 
-@media (max-width: 828px) {
+@media (max-width: 886px) {
     .boton-brexia {
         background: #c787a2;
         font-weight: bold;
@@ -665,6 +667,23 @@ a.scrollup i:hover {
         max-width: 90%;
         margin: 0 auto;
     }
+
+    .contenedor-2 {
+        max-width: 90% !important; 
+        /** Igual a 1200 px**/
+        margin: 0 auto;
+        /** atajo, para alinear**/
+        /**es para centrar la mayoria de elementos*/
+    }
+
+    .contenedor-3 {
+        max-width: 80% !important;
+        /** Igual a 1200 px**/
+        margin: 0 auto;
+        /** atajo, para alinear**/
+        /**es para centrar la mayoria de elementos*/
+    }
+
     .brexia-h1 h1 {
         color: #914568;
         font-size: 30px;
@@ -702,7 +721,24 @@ a.scrollup i:hover {
 }
 
 .contenedor-2 {
-    max-width: 750px;
+    max-width: 40%;
+    /** Igual a 1200 px**/
+    margin: 0 auto;
+    /** atajo, para alinear**/
+    /**es para centrar la mayoria de elementos*/
+}
+
+.contenedor-3 {
+    max-width: 70%;
+    /** Igual a 1200 px**/
+    margin: 0 auto;
+    /** atajo, para alinear**/
+    /**es para centrar la mayoria de elementos*/
+}
+
+.contenedor-3 p{
+    font-size: 16px;
+    max-width: 65%;
     /** Igual a 1200 px**/
     margin: 0 auto;
     /** atajo, para alinear**/
@@ -719,4 +755,11 @@ a.scrollup i:hover {
     width: 50%;
     display: flex;
     margin: auto;
+}
+
+
+/*Tipos de cancer*/
+
+.espacio-boton button{
+    margin-bottom: 2.65rem;
 }
