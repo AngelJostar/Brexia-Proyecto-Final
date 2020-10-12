@@ -247,7 +247,7 @@ h4 {
 
 .low-header li {
     display: inline;
-    padding-right: 4.4rem;
+    padding-right: 2.3vw;
 }
 
 .low-header a {
@@ -684,6 +684,17 @@ a.scrollup i:hover {
         font-weight: bold;
         font-size: 23px;
     }
+    .fondo-tipos-de-cancer h1 {
+        color: #914568;
+        font-size: 48px;
+        padding-top: 6rem;
+        text-align: center;
+        font-weight: 700;
+        padding-left: 10rem;
+    }
+}
+
+@media (max-width: 910px) {
     .ocultar-h1 {
         display: none;
     }
@@ -707,7 +718,7 @@ a.scrollup i:hover {
 
 .fondo-tipos-de-cancer h1 {
     color: #914568;
-    font-size: 48px;
+    font-size: 3vw;
     padding-top: 6rem;
     text-align: center;
     font-weight: 700;
