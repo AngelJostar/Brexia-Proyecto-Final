@@ -669,7 +669,7 @@ a.scrollup i:hover {
     }
 
     .contenedor-2 {
-        max-width: 90% !important; 
+        max-width: 70% !important; 
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/
@@ -682,6 +682,36 @@ a.scrollup i:hover {
         margin: 0 auto;
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
+    }
+
+    .contenedor-4 {
+        max-width: 80% !important; 
+        /** Igual a 1200 px**/
+        margin: 0 auto;
+        /** atajo, para alinear**/
+        /**es para centrar la mayoria de elementos*/
+    }
+
+    .contenedor-5 {
+        max-width: 80% !important;
+        /** Igual a 1200 px**/
+        margin: 0 auto;
+        /** atajo, para alinear**/
+        /**es para centrar la mayoria de elementos*/
+    }
+
+    .contenedor-5 img{
+        max-width: 100% !important;
+        /** Igual a 1200 px**/
+        margin: 0 auto;
+        /** atajo, para alinear**/
+        /**es para centrar la mayoria de elementos*/
+    }
+
+    .contenedor-4 img {
+        width: 100% !important;
+        display: flex;
+        margin: auto;
     }
 
     .brexia-h1 h1 {
@@ -736,6 +766,22 @@ a.scrollup i:hover {
     /**es para centrar la mayoria de elementos*/
 }
 
+.contenedor-4 {
+    max-width: 50%;
+    /** Igual a 1200 px**/
+    margin: 0 auto;
+    /** atajo, para alinear**/
+    /**es para centrar la mayoria de elementos*/
+}
+
+.contenedor-5 {
+    max-width: 100%;
+    /** Igual a 1200 px**/
+    margin: 0 auto;
+    /** atajo, para alinear**/
+    /**es para centrar la mayoria de elementos*/
+}
+
 .contenedor-3 p{
     font-size: 16px;
     max-width: 65%;
@@ -747,8 +793,8 @@ a.scrollup i:hover {
 
 .formato-h2 {
     color: #914568;
-    font-size: 30px;
-    font-weight: 500;
+    font-size: 35px;
+    font-weight: 700;
 }
 
 .contenedor-2 img {
@@ -757,9 +803,118 @@ a.scrollup i:hover {
     margin: auto;
 }
 
+.contenedor-4 img {
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+
+
+.contenedor-5 img{
+    max-width: 100%;
+    /** Igual a 1200 px**/
+    margin: 0 auto;
+    /** atajo, para alinear**/
+    /**es para centrar la mayoria de elementos*/
+}
 
 /*Tipos de cancer*/
 
 .espacio-boton button{
     margin-bottom: 2.65rem;
+}
+
+/*Contacto*/
+
+.linea-c {
+    border-top: 1px solid #914568;
+    height: 10px;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.llama-tel {
+    color: #914568;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/*Redes sociales de contacto-*/
+.company-social-c {
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 3rem;
+    text-align: center;
+    list-style: none;
+}
+
+.company-social-c li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.company-social-c a {
+    margin: 0 2px 0 0;
+}
+
+.company-social-c a:hover {
+    color: #fff;
+}
+
+.company-social-c a i {
+    border-radius: 50%;
+    color: #ffffff !important;
+    display: inline-block;
+    height: 54px;
+    line-height: 54px;
+    margin: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .3s;
+    webkit-transition: background-color .3s;
+    width: 54px;
+}
+
+.company-social-c .social-facebook a i {
+    background-color:  #914568;
+}
+
+.company-social-c .social-map-marker a i {
+    background-color:  #914568;
+}
+
+.company-social-c .social-waze a i {
+    background-color:   #914568;
+}
+
+.company-social-c .social-whatsapp a i {
+    background-color:  #914568;
+}
+
+.company-social-c .social-youtube a i {
+    background-color:  #914568;
+}
+
+.company-social-c .social-facebook a:hover i {
+    background: #4893ce;
+}
+
+.company-social-c .social-map-marker a:hover i {
+    background: #82e6ff;
+}
+
+.company-social-c .social-waze a:hover i {
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)
+}
+
+.company-social-c .social-whatsapp a:hover i {
+    background: #128c7e;
+}
+
+.company-social-c .social-youtube a:hover i {
+    background: red;
 }
