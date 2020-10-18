@@ -239,14 +239,15 @@ h4 {
 /*Low Header*/
 
 .low-header {
+    padding-top: 7rem;
     text-align: center;
     list-style: none;
-    padding-top: 1rem;
+    padding-top: 3rem;
 }
 
 .low-header li {
     display: inline;
-    padding-right: 4.4rem;
+    padding-right: 2.3vw;
 }
 
 .low-header a {
@@ -587,7 +588,7 @@ a.scrollup i:hover {
 
 .intro-content img {
     padding-top: 0px;
-    max-width: 75%;
+    max-width: 100%;
     margin: 0 auto;
     height: auto;
     display: block;
@@ -616,8 +617,6 @@ a.scrollup i:hover {
     box-shadow: 0 4px 16px #b46a8a;
     transition: all 0.2s ease;
 }
-
-
 
 .video-size {
     width: 100%;
@@ -667,15 +666,13 @@ a.scrollup i:hover {
         max-width: 90%;
         margin: 0 auto;
     }
-
     .contenedor-2 {
-        max-width: 70% !important; 
+        max-width: 70% !important;
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
-
     .contenedor-3 {
         max-width: 80% !important;
         /** Igual a 1200 px**/
@@ -683,15 +680,13 @@ a.scrollup i:hover {
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
-
     .contenedor-4 {
-        max-width: 80% !important; 
+        max-width: 80% !important;
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
-
     .contenedor-5 {
         max-width: 80% !important;
         /** Igual a 1200 px**/
@@ -699,21 +694,18 @@ a.scrollup i:hover {
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
-
-    .contenedor-5 img{
+    .contenedor-5 img {
         max-width: 100% !important;
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
-
     .contenedor-4 img {
         width: 100% !important;
         display: flex;
         margin: auto;
     }
-
     .brexia-h1 h1 {
         color: #914568;
         font-size: 30px;
@@ -725,29 +717,45 @@ a.scrollup i:hover {
         font-weight: bold;
         font-size: 23px;
     }
+    .fondo-tipos-de-cancer h1 {
+        color: #914568;
+        font-size: 48px;
+        padding-top: 6rem;
+        text-align: center;
+        font-weight: 700;
+        padding-left: 10rem;
+    }
+}
+
+@media (max-width: 910px) {
+    .ocultar-h1 {
+        display: none;
+    }
+    .fondo-tipos-de-cancer {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        justify-content: center;
+        column-gap: 1rem;
+    }
 }
 
 
 /*Aquí empieza la sección de la perstaña, como-tratamos-el-cancer*/
 
-.fondo-como-tratamos-c {
-    width: 1200px;
-    height: 298px;
-    background-color: lightgreen;
-    background-image: url(/img/COMO-TRATAMOS-EL-CANCER.jpg);
-    display: block;
-    margin: auto;
-    margin-top: 30px !important;
+.fondo-tipos-de-cancer {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    justify-content: center;
+    column-gap: 1rem;
 }
 
-.fondo-como-tratamos-c h1 {
+.fondo-tipos-de-cancer h1 {
     color: #914568;
-    font-size: 40px;
-    padding-left: 10px;
+    font-size: 3vw;
+    padding-top: 6rem;
     text-align: center;
-    float: left;
-    margin-top: 80px;
-    font-weight: bold;
+    font-weight: 700;
+    padding-left: 20rem;
 }
 
 .contenedor-2 {
@@ -782,7 +790,7 @@ a.scrollup i:hover {
     /**es para centrar la mayoria de elementos*/
 }
 
-.contenedor-3 p{
+.contenedor-3 p {
     font-size: 16px;
     max-width: 65%;
     /** Igual a 1200 px**/
@@ -809,8 +817,7 @@ a.scrollup i:hover {
     margin: auto;
 }
 
-
-.contenedor-5 img{
+.contenedor-5 img {
     max-width: 100%;
     /** Igual a 1200 px**/
     margin: 0 auto;
@@ -818,11 +825,13 @@ a.scrollup i:hover {
     /**es para centrar la mayoria de elementos*/
 }
 
+
 /*Tipos de cancer*/
 
-.espacio-boton button{
+.espacio-boton button {
     margin-bottom: 2.65rem;
 }
+
 
 /*Contacto*/
 
@@ -840,7 +849,9 @@ a.scrollup i:hover {
     font-weight: 700;
 }
 
+
 /*Redes sociales de contacto-*/
+
 .company-social-c {
     margin-left: 0;
     padding-left: 0;
@@ -879,23 +890,23 @@ a.scrollup i:hover {
 }
 
 .company-social-c .social-facebook a i {
-    background-color:  #914568;
+    background-color: #914568;
 }
 
 .company-social-c .social-map-marker a i {
-    background-color:  #914568;
+    background-color: #914568;
 }
 
 .company-social-c .social-waze a i {
-    background-color:   #914568;
+    background-color: #914568;
 }
 
 .company-social-c .social-whatsapp a i {
-    background-color:  #914568;
+    background-color: #914568;
 }
 
 .company-social-c .social-youtube a i {
-    background-color:  #914568;
+    background-color: #914568;
 }
 
 .company-social-c .social-facebook a:hover i {

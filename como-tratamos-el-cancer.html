@@ -5,12 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brexia</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/bootstrap.min.css" rel="preload" media="screen" as="style" onload="this.rel='stylesheet'">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 
@@ -96,23 +95,31 @@
 
             <!--SECCION INTERMEDIA-->
 
-            <section class="fondo-como-tratamos-c">
-                <div>
-                    <h1>¿Cómo tratamos el <br> Cáncer?</h1>
+            <section>
+                <div class="fondo-tipos-de-cancer ">
+                    <div class="ocultar-h1">
+                        <h1>¿Cómo tratamos <br> el Cáncer?</h1>
+                    </div>
+                    <div>
+                        <img src="/img/COMO-TRATAMOS-EL-CANCER-mini.jpg" alt="">
+                    </div>
+
                 </div>
             </section>
 
             <div class="contenedor-4 text-justify texto-brexia">
                 <h2 class="formato-h2 text-center pt-5 ">Enfoque Multidisciplinario en Brexia</h2>
-                <p>En Brexia un equipo de médicos se reunirá para diseñar un plan de atención diseñado para satisfacer sus necesidades y objetivos de tratamiento. Algunos miembros del equipo, como el médico oncólogo se dedican al tratamiento del cáncer. Otros,
-                    como el nutriólogo o el médico para el manejo del dolor, lo ayudarán a controlar los efectos secundarios del cáncer y a mejorar su calidad de vida.
+                <p>En Brexia un equipo de médicos se reunirá para diseñar un plan de atención diseñado para satisfacer sus necesidades y objetivos de tratamiento. Algunos miembros del equipo, como el médico oncólogo se dedican al tratamiento del cáncer.
+                    Otros, como el nutriólogo o el médico para el manejo del dolor, lo ayudarán a controlar los efectos secundarios del cáncer y a mejorar su calidad de vida.
                     <br> <br> Conoce cómo cada integrante del equipo de Brexia asistirá en el tratamiento de tu cáncer explorando el enlace a continuación:
                 </p>
                 <div class="text-center">
                     <button class="btn boton-brexia"> Equipo Multidisciplinario en Brexia </button>
                 </div>
                 <p class="paddingtop-30">Los pacientes y sus cuidadores estarán involucrados en cada paso del camino, facultados para tomar decisiones informadas sobre su atención. El siguiente mapa muestra el enfoque de atención integral que recibirás en Brexia.</p>
-                <img src="/img/COMO-TRATAMOS-EL-CANCER-768x840.png" alt="como-tratamos-el-cancer">
+                <div>
+                    <img src="/img/COMO-TRATAMOS-EL-CANCER-768x840.png" alt="como-tratamos-el-cancer">
+                </div>
                 <h2 class="formato-h2 text-center paddingtop-50 ">Enfoque Humano centrado en el paciente</h2>
                 <p>Nuestros expertos en cáncer tratan el cáncer con una amplia gama de técnicas y enfoques innovadores y estándar de atención, que incluyen herramientas de diagnóstico de alta tecnología, radioterapia dirigida, técnicas quirúrgicas mínimamente
                     invasivas y tratamientos identificados a través de las herramientas de la medicina de precisión.
@@ -131,13 +138,13 @@
                 <div class="text-center paddingtop-20">
                     <button class="btn boton-brexia"> Convertirse en Paciente</button>
                 </div>
-    
+
             </div>
 
 
 
             <!--FIN DE LA SECCION INTERMEDIA-->
-            
+
 
             <!--####FOOTER####-->
             <footer class="relativo">
@@ -189,12 +196,11 @@
 
     </section>
     <!--####HEADER####-->
-     
 
-   
+
+
     <!--    <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
     ####FOOTER####-->
-
 
 
 
