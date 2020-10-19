@@ -805,6 +805,12 @@ a.scrollup i:hover {
     font-weight: 700;
 }
 
+.formato-h1 {
+    color: #914568;
+    font-size: 40px;
+    font-weight: 700;
+}
+
 .contenedor-2 img {
     width: 50%;
     display: flex;
@@ -928,36 +934,65 @@ a.scrollup i:hover {
 
 .company-social-c .social-youtube a:hover i {
     background: red;
-<<<<<<< HEAD
-}
-=======
 }
 
-.paddingTop-5{
+
+/*UTILIDADES*/
+
+.imagen-80 {
+    max-width: 80%
+}
+
+.font-16 {
+    font-size: 1.6em;
+    line-height: 22px;
+}
+
+.font-18 {
+    font-size: 1.8em;
+}
+
+.font-25 {
+    font-size: 2.5em;
+}
+
+.fontW-400 {
+    font-weight: 400;
+}
+
+.brexia-color {
+    color: #914568;
+}
+
+.paddingTop-5 {
     padding-top: 50px;
 }
-.paddingTop-4{
+
+.paddingTop-4 {
     padding-top: 40px;
 }
 
-.paddingTop-3{
+.paddingTop-3 {
     padding-top: 30px;
 }
-.paddingTop-2{
+
+.paddingTop-2 {
     padding-top: 20px;
 }
 
-.paddingBottom-5{
+.paddingBottom-5 {
     padding-bottom: 50px;
 }
-.paddingBottom-4{
+
+.paddingBottom-4 {
     padding-bottom: 40px;
 }
 
-.paddingBottom-3{
+.paddingBottom-3 {
     padding-bottom: 30px;
 }
-.paddingBottom-2{
+
+.paddingBottom-2 {
     padding-bottom: 20px;
 }
 
@@ -968,4 +1003,89 @@ a.scrollup i:hover {
 .justificar-texto {
     text-align: justify;
 }
->>>>>>> contacto
+
+.centrar-imagen {
+    margin: 0 auto;
+}
+
+
+/*NAV TABS*/
+
+.wrap {
+    max-width: 70%;
+    margin: 2px auto;
+}
+
+ul.tabs {
+    width: 100%;
+    background: white;
+    border: 1px solid #914568;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+}
+
+ul.tabs li {
+    width: 30%;
+    flex-basis: calc(40% - 1rem);
+}
+
+.active {
+    background-color: #d6a2b8;
+}
+
+ul.tabs li a {
+    color: #914568;
+    text-decoration: none;
+    font-size: 1.8em;
+    font-weight: 600;
+    text-align: center;
+    display: block;
+    padding: 10px 0;
+}
+
+ul.tabs li a:focus {
+    color: white !important;
+}
+
+.secciones {
+    width: 48%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.secciones-enumeradas {
+    padding-left: 20px;
+}
+
+.secciones article {
+    text-align: justify;
+}
+
+@media screen and (max-width: 886px) {
+    ul.tabs li a {
+        text-align: center;
+        padding: 10px 20px;
+        font-size: 1.6em;
+        font-weight: 800;
+    }
+    ul.tabs li {
+        width: 100%;
+        flex-basis: calc(100% - 1rem);
+    }
+    .tabs-desktop {
+        display: none;
+    }
+    .secciones {
+        width: 90%;
+        margin: 0 auto;
+        background-color: #fff;
+    }
+}
+
+@media screen and (min-width: 886px) {
+    .tabs-movil {
+        display: none;
+    }
+}
