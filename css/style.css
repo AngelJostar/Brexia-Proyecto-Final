@@ -254,15 +254,15 @@ h4 {
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
-    color: #c787a2;
+    color: #a86182;
 }
 
 a:focus {
-    color: #914568 !important;
+    color: #7a3a58 !important;
 }
 
 a:hover {
-    color: #914568 !important;
+    color: #7a3a58!important;
 }
 
 .low-header ul {
@@ -449,6 +449,13 @@ footer {
     padding-bottom: 18px;
 }
 
+.linea-1 {
+    border-top: 2px solid #914568;
+    max-width: 34%;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
 .deepfooter {
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
@@ -588,7 +595,7 @@ a.scrollup i:hover {
 
 .intro-content img {
     padding-top: 0px;
-    max-width: 100%;
+    max-width: 70%;
     margin: 0 auto;
     height: auto;
     display: block;
@@ -952,16 +959,28 @@ a.scrollup i:hover {
     font-size: 1.8em;
 }
 
+.font-19 {
+    font-size: 1.9em;
+}
+
 .font-25 {
     font-size: 2.5em;
+}
+
+.font-20 {
+    font-size: 2em;
 }
 
 .fontW-400 {
     font-weight: 400;
 }
 
+.fontW-700 {
+    font-weight: 700;
+}
+
 .brexia-color {
-    color: #914568;
+    color: #864566;
 }
 
 .paddingTop-5 {
