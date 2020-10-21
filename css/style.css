@@ -257,11 +257,15 @@ h4 {
     color: #a86182;
 }
 
-a:focus {
+.low-header ul li a:focus {
     color: #7a3a58 !important;
 }
 
-a:hover {
+.low-header ul li a:hover {
+    color: #7a3a58!important;
+}
+
+.low-header ul li a:active {
     color: #7a3a58!important;
 }
 
