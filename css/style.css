@@ -72,9 +72,11 @@ h4 {
     background-color: #c787a2;
     padding-top: 0.4rem;
     padding-bottom: 0.4rem;
-    position: fixed;
-    top: 0;
     width: 100%;
+    position: fixed;
+    text-align: center;
+    word-wrap: break-word;
+    z-index: 1;
 }
 
 .top-header p {
@@ -83,12 +85,6 @@ h4 {
     text-align: center;
     color: white;
     margin: 0;
-}
-
-.fixed {
-    position: fixed;
-    top: 0;
-    width: 100%;
 }
 
 
@@ -280,6 +276,7 @@ h4 {
 /* ### GENERAL SITE STYLES ### */
 
 #site-wrapper {
+    z-index: 0;
     position: relative;
     overflow: hidden;
     width: 100%;
