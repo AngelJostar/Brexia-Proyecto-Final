@@ -1019,6 +1019,10 @@ a.scrollup i:hover {
     font-size: 1.6em !important;
 }
 
+.font-17 {
+    font-size: 1.7em !important;
+}
+
 .font-18 {
     font-size: 1.8em;
 }
@@ -1155,6 +1159,10 @@ ul.tabs li a:focus {
 
 .secciones-enumeradas {
     padding-left: 20px;
+}
+
+.secciones-enumeradas li {
+    padding-top: 1rem;
 }
 
 .secciones article {
