@@ -20,8 +20,8 @@ body {
 }
 
 p {
-    font-weight: 300 !important;
-    font-size: 20px;
+    font-weight: 300;
+    font-size: 19px;
 }
 
 li {
@@ -122,12 +122,17 @@ h4 {
 }
 */
 
+.menu-literal {
+    color: #c787a2;
+    font-size: 12px !important;
+    margin-top: 0px;
+}
+
 .mid-font {
-    font-size: 18px;
-    font-weight: bold;
     color: #a3a3a3 !important;
-    line-height: 2rem;
     padding-top: 3.5rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
 }
 
 .mid-font a {
@@ -149,6 +154,16 @@ h4 {
 
 .mid-image {
     text-align: center;
+    max-width: 75%;
+    max-height: 100%;
+    margin-top: 2%;
+    margin-left: 4rem;
+}
+
+@media (max-width: 1300px) and (min-width: 852px) {
+    .mid-image {
+        padding-top: 50px;
+    }
 }
 
 
@@ -168,7 +183,7 @@ h4 {
     margin-left: 0;
     padding-left: 0;
     padding-right: 0;
-    margin-top: 3rem;
+    margin-top: 4.6rem;
     text-align: center;
     list-style: none;
 }
@@ -181,6 +196,7 @@ h4 {
 
 .company-social a {
     margin: 0 2px 0 0;
+    font-size: 12px !important;
 }
 
 .company-social a:hover {
@@ -191,14 +207,14 @@ h4 {
     border-radius: 50%;
     color: #ffffff !important;
     display: inline-block;
-    height: 54px;
-    line-height: 54px;
+    height: 45px;
+    line-height: 45px;
     margin: 0px 0px;
     text-align: center;
     text-decoration: none;
     transition: background-color .3s;
     webkit-transition: background-color .3s;
-    width: 54px;
+    width: 45px;
 }
 
 .company-social .social-facebook a i {
@@ -359,13 +375,13 @@ h4 {
 }
 
 .linea-menu {
-    border-top: 1px solid #00000054;
+    border-top: 1px solid #755160;
     height: 10px;
     padding-top: 1rem;
 }
 
 .icono-menu {
-    margin-left: 22rem;
+    margin-left: 85%;
 }
 
 #site-menu {
@@ -450,8 +466,8 @@ h4 {
 
 .justificar {
     float: right;
-    padding-top: 0.9rem;
-    padding-right: 5rem;
+    padding-top: 1.7rem;
+    padding-right: 3rem;
 }
 
 @media (min-width: 886px) {
@@ -490,8 +506,8 @@ h4 {
     .contenedor.low-header {
         display: none;
     }
-    .mid-image img {
-        min-width: 150px;
+    .mid-image {
+        max-width: 100%;
         margin-left: 23px;
     }
     .top-header p {
@@ -650,6 +666,7 @@ a.scrollup i:hover {
     margin: 0 auto;
     height: auto;
     display: block;
+    padding-top: 1rem;
 }
 
 .principal-content {
@@ -1041,48 +1058,60 @@ a.scrollup i:hover {
 
 /*UTILIDADES*/
 
+.interlineado {
+    line-height: 3.4rem;
+}
+
 .imagen-80 {
     max-width: 80%
 }
 
 .font-12 {
-    font-size: 1.2em !important;
+    font-size: calc(1.2em + 1vw);
 }
 
 .font-16 {
-    font-size: 1.6em !important;
+    font-size: calc(1.6em + 1vw);
 }
 
 .font-17 {
-    font-size: 1.7em !important;
+    font-size: calc(1.7em + 1vw);
 }
 
 .font-18 {
-    font-size: 1.8em;
+    font-size: calc(1.8em + 1vw);
 }
 
 .font-19 {
-    font-size: 1.9em;
+    font-size: calc(1.9em + 1vw);
 }
 
 .font-25 {
-    font-size: 2.5em !important;
+    font-size: calc(2.5em + 1vw);
 }
 
 .font-20 {
-    font-size: 2em !important;
+    font-size: calc(2em + 1vw);
+}
+
+.font-30 {
+    font-size: calc(3em + 1vw);
 }
 
 .fontW-300 {
-    font-weight: 300;
+    font-weight: 300 !important;
 }
 
 .fontW-400 {
-    font-weight: 400;
+    font-weight: 400 !important;
 }
 
 .fontW-700 {
-    font-weight: 700;
+    font-weight: 700 !important;
+}
+
+.fontW-900 {
+    font-weight: 900 !important;
 }
 
 .brexia-color {
