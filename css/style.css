@@ -1083,6 +1083,10 @@ a.scrollup i:hover {
     padding-top: 20px;
 }
 
+.paddingTop-1 {
+    padding-top: 10px;
+}
+
 .paddingBottom-5 {
     padding-bottom: 50px;
 }
