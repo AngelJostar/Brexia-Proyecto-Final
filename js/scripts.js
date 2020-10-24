@@ -9,13 +9,16 @@ $(function() {
 function toggleNav() {
     if ($('#site-wrapper').hasClass('show-nav')) {
         // Do things on Nav Close
+        $('.top-header').addClass('Zindex-1');
         $('#site-wrapper').removeClass('show-nav');
     } else {
         // Do things on Nav Open
+        $('.top-header').removeClass('Zindex-1');
         $('#site-wrapper').addClass('show-nav');
     }
     //$('#site-wrapper').toggleClass('show-nav');
 }
+
 
 
 
@@ -33,7 +36,6 @@ $(document).ready(function() {
         $(activeTab).show();
         return false;
     });
-
 });
 
 // When the user scrolls the page, execute myFunction

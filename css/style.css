@@ -76,6 +76,9 @@ h4 {
     position: fixed;
     text-align: center;
     word-wrap: break-word;
+}
+
+.Zindex-1 {
     z-index: 1;
 }
 
@@ -303,6 +306,18 @@ h4 {
     transform: translate3d(80vw, 0, 0);
 }
 
+#top-header {
+    width: 100%;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-transition: 1000ms ease all;
+    transition: 1000ms ease all;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
 
 /* ### MENU STYLES ### */
 
@@ -372,7 +387,7 @@ h4 {
 
 #site-menu i {
     color: white;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 #site-menu a {
@@ -588,7 +603,7 @@ footer {
     height: 32px;
     bottom: 0px;
     right: 20px;
-    background: #222;
+    background: #c787a2;
     -webkit-border-radius: 2px 2px 0 0;
     -moz-border-radius: 2px 2px 0 0;
     border-radius: 2px 2px 0 0;
@@ -597,6 +612,7 @@ footer {
 a.scrollup {
     outline: 0;
     text-align: center;
+    transition: all 0.3s ease-out 0s;
 }
 
 a.scrollup:hover,
