@@ -55,7 +55,6 @@ img {
 .texto-brexia {
     font-size: 17px;
     font-weight: 400;
-    line-height: 2.1rem;
 }
 
 
@@ -1037,7 +1036,7 @@ a.scrollup i:hover {
 /*UTILIDADES*/
 
 .interlineado {
-    line-height: 3.4rem;
+    line-height: 3.4rem !important;
 }
 
 .imagen-80 {
