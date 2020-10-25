@@ -5,44 +5,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brexia</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="/css/bootstrap.min.css" rel="preload" media="screen" as="style" onload="this.rel='stylesheet'">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/all.min.css">
 
 </head>
 
 <body>
 
+    <div id="top-header" class="top-header ">
+        <p>Llámanos, estamos disponibles: (55) 5523 8959</p>
+    </div>
     <!--####HEADER####-->
     <section id="site-wrapper">
         <!-- CANVAS -->
         <section id="site-canvas">
 
             <header>
-                <div class="top-header fixed">
-                    <p>Llámanos, estamos disponibles: (55) 5523 8959</p>
-                </div>
                 <div class="contenedor">
-                    <div class="mid-header  ">
+                    <div class="mid-header">
                         <div class="mid-image deepmid-header">
-                            <img src="img/logo.png " alt="imagen-logo ">
+                            <img src="img/logo-Brexia-con-colores-(2).png" alt="imagen-logo ">
                         </div>
                         <div class="mid-font">
-                            <p class="text-center">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
+                            <p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
                         </div>
                         <div class="mid-font">
-                            <p class="text-center">Escríbenos por Whatsapp <br> <a href="#">(celular): 52 (1) 55 5135 8125</a></p>
+                            <p class="centrar-texto fontW-700">Escríbenos por Whatsapp <br> <a href="#">(celular): 52 (1) 55 5135 8125</a></p>
                         </div>
                         <div class="icono">
-                            <div class="wow fadeInDown" data-wow-delay="0.1s">
-                                <div class="widget">
+                            <div data-wow-delay="0.1s">
+                                <div>
                                     <ul class="company-social">
-                                        <li class="social-facebook"><a href="#"><i class="fa fa-facebook fa-2x"></i></a></li>
-                                        <li class="social-youtube"><a href="#"><i class="fa fa-youtube fa-2x"></i></a></li>
-                                        <li class="social-whatsapp"><a href="#"><i class="fa fa-whatsapp fa-2x"></i></a></li>
-                                        <li class="social-instagram"><a href="#"><i class="fa fa-instagram fa-2x"></i></a></li>
-                                        <li class="social-twitter"><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
+                                        <li class="social-facebook"><a href="#"><i class="fab fa-facebook-f fa-2x"></i></a></li>
+                                        <li class="social-youtube"><a href="#"><i class="fab fa-youtube fa-2x"></i></a></li>
+                                        <li class="social-whatsapp"><a href="#"><i class="fab fa-whatsapp fa-2x"></i></a></li>
+                                        <li class="social-instagram"><a href="#"><i class="fab fa-instagram fa-2x"></i></a></li>
+                                        <li class="social-twitter"><a href="#"><i class="fab fa-twitter fa-2x"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -50,16 +52,29 @@
                         <!-- MENU -->
                         <div id="site-menu">
                             <div class="site-menu-content">
-                                <a href="#" class="toggle-nav"><i class="fa fa-times"></i></a>
+                                <a href="#" class="toggle-nav icono-menu"><i class="fas fa-times"></i></a>
                                 <ul class="resaltar">
                                     <li><a href="index.html" class="menu-a">Inicio</a></li>
+                                    <div class="linea-menu"></div>
                                     <li><a href="como-tratamos-el-cancer.html" class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
-                                    <li><a href="#doctor " class="menu-a">Ser paciente en Brexia</a></li>
+                                    <div class="linea-menu"></div>
+                                    <li><a href="ser-paciente.html" class="menu-a">Ser paciente en Brexia</a></li>
+                                    <div class="linea-menu"></div>
                                     <li><a href="aspectos-basicos-cancer.html" class="menu-a">Aspectos básicos del Cáncer</a></li>
+                                    <div class="linea-menu"></div>
                                     <li><a href="tipos-de-cancer.html" class="menu-a">Tipos de Cáncer</a></li>
-                                    <li><a href="#pricing " class="menu-a">Segunda Opinión</a></li>
+                                    <div class="linea-menu"></div>
+                                    <li><a href="#pricing" class="menu-a">Segunda Opinión</a></li>
+                                    <div class="linea-menu"></div>
                                     <li><a href="contacto.html" class="menu-a">Contacto</a></li>
+                                    <div class="linea-menu"></div>
                                 </ul>
+                                <div class="centrar-texto">
+                                    <button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button>
+                                </div>
+                                <div class="centrar-texto">
+                                    <button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button>
+                                </div>
                             </div>
                         </div>
                         <!-- CANVAS CONTENT -->
@@ -67,7 +82,7 @@
                             <!-- MENU TOGGLE -->
                             <div class="justificar">
                                 <a href="#" class="toggle-nav nav-icon"><i class="fa fa-bars color-brexia"></i></a>
-                                <p style="color:#c787a2; font-size: 12px;">MENU</p>
+                                <p class="menu-literal">MENU</p>
                                 <!-- CONTENT -->
                             </div>
                         </div>
@@ -199,8 +214,8 @@
                             <div class="font-16 fontW-400">
                                 <p>Si está interesado en obtener más información sobre cómo convertirse en paciente en Brexia, contáctenos para comenzar el proceso de verificación de su seguro de gastos médicos.</p>
                                 <h2 class="centrar-texto brexia-color encabezados-brexia">Tomar la decisión correcta</h2>
-                                <div class="text-center ">
-                                    <button class="btn boton-brexia-footer ">Contacto</button>
+                                <div class="centrar-texto ">
+                                    <button class="boton boton-brexia-footer ">Contacto</button>
                                 </div>
                                 <p>Después de obtener la información de su póliza de seguro, realizaremos una verificación preliminar para determinar cómo podríamos trabajar en conjunto Brexia, usted y su aseguradora y, si es posible, programar una cita.</p>
                                 <div class="imagen-80 centrar-imagen paddingTop-2">
@@ -223,49 +238,49 @@
             <div>
                 <p class="font-19 centrar-texto brexia-color fontW-700">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ </p>
             </div>
-            <div class="text-center ">
-                <button class="btn boton-brexia-footer ">Contacto</button>
+            <div class="centrar-texto ">
+                <button class="boton boton-brexia-footer ">Contacto</button>
             </div>
             <div class="font-20 centrar-texto brexia-color fontW-700">
                 <p>Regresar al inicio de esta pestaña para obtener más <br> información de como ser paciente en Brexia</p>
             </div>
-            <div class="text-center ">
-                <button class="btn boton-brexia-footer">Regresar al inicio</button>
+            <div class="centrar-texto ">
+                <button class="boton boton-brexia-footer">Regresar al inicio</button>
             </div>
 
 
 
             <!--####FOOTER####-->
-            <footer class=" relativo ">
-                <div class="linea "></div>
-                <div class="contenedor footer-grid ">
-                    <div class="contenedor-footer ">
-                        <div class="footer-grid ">
-                            <div class="text-center llamanos-footer ">
-                                <a href="# "> <strong>Llámanos ahora:</strong> <br class="br-footer "> (55) 5523 8959</a>
+            <footer class="relativo">
+                <div class="linea"></div>
+                <div class="contenedor footer-grid">
+                    <div class="contenedor-footer">
+                        <div class="footer-grid">
+                            <div class="centrar-texto llamanos-footer">
+                                <a href="#"> <strong>Llámanos ahora:</strong> <br class="br-footer"> (55) 5523 8959</a>
                             </div>
-                            <div class="text-center ">
-                                <button class="btn boton-brexia-footer ">Contacto</button>
+                            <div class="centrar-texto">
+                                <button class="boton boton-brexia-footer">Contacto</button>
                             </div>
                         </div>
-                        <div class="text-center text-footer ">
-                            <p class="pt-5 pb-5 ">San Francisco 524, Col. Del Valle CDMX, México</p>
+                        <div class="centrar-texto text-footer">
+                            <p class="paddingTop-3 paddingBottom-3 fontW-400">San Francisco 524, Col. Del Valle CDMX, México</p>
                         </div>
                     </div>
-                    <div class="contenedor-footer ">
-                        <div class="text-center text-footer ocultar-text ">
-                            <p>El cáncer en ningún caso se debe de auto diagnosticar ni auto medicar. </p>
+                    <div class="contenedor-footer">
+                        <div class="centrar-texto text-footer ocultar-text ">
+                            <p class="fontW-400">El cáncer en ningún caso se debe de auto diagnosticar ni auto medicar. </p>
                         </div>
-                        <div class="text-center ">
-                            <div class="redes-footer ">
-                                <div class="wow fadeInDown " data-wow-delay="0.1s ">
-                                    <div class="widget ">
-                                        <ul class="company-social ">
-                                            <li class="social-facebook "><a href="# "><i class="fa fa-facebook fa-2x "></i></a></li>
-                                            <li class="social-youtube "><a href="# "><i class="fa fa-youtube fa-2x "></i></a></li>
-                                            <li class="social-whatsapp "><a href="# "><i class="fa fa-whatsapp fa-2x "></i></a></li>
-                                            <li class="social-instagram "><a href="# "><i class="fa fa-instagram fa-2x "></i></a></li>
-                                            <li class="social-twitter "><a href="# "><i class="fa fa-twitter fa-2x "></i></a></li>
+                        <div class="centrar-texto">
+                            <div class="redes-footer">
+                                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                                    <div class="widget">
+                                        <ul class="company-social">
+                                            <li class="social-facebook"><a href="#"><i class="fab fa-facebook-f fa-2x"></i></a></li>
+                                            <li class="social-youtube"><a href="#"><i class="fab fa-youtube fa-2x"></i></a></li>
+                                            <li class="social-whatsapp"><a href="#"><i class="fab fa-whatsapp fa-2x"></i></a></li>
+                                            <li class="social-instagram"><a href="#"><i class="fab fa-instagram fa-2x"></i></a></li>
+                                            <li class="social-twitter"><a href="#"><i class="fab fa-twitter fa-2x"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -273,7 +288,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="deepfooter ">
+                <div class="deepfooter">
                     <p>Aviso de Privacidad/Mapa de Sitio/ Permiso COFEPRIS: 193300201A0691 / 193300201A0861</p>
                 </div>
 

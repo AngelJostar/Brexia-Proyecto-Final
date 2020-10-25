@@ -559,6 +559,7 @@ footer {
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    column-gap: 2rem;
 }
 
 .contenedor-footer {
@@ -792,29 +793,8 @@ a.scrollup i:hover {
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
-    .contenedor-3 {
-        max-width: 80% !important;
-        /** Igual a 1200 px**/
-        margin: 0 auto;
-        /** atajo, para alinear**/
-        /**es para centrar la mayoria de elementos*/
-    }
     .contenedor-4 {
         max-width: 80% !important;
-        /** Igual a 1200 px**/
-        margin: 0 auto;
-        /** atajo, para alinear**/
-        /**es para centrar la mayoria de elementos*/
-    }
-    .contenedor-5 {
-        max-width: 80% !important;
-        /** Igual a 1200 px**/
-        margin: 0 auto;
-        /** atajo, para alinear**/
-        /**es para centrar la mayoria de elementos*/
-    }
-    .contenedor-5 img {
-        max-width: 100% !important;
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/
@@ -824,6 +804,13 @@ a.scrollup i:hover {
         width: 100% !important;
         display: flex;
         margin: auto;
+    }
+    .contenedor-3 {
+        max-width: 80% !important;
+        margin: 0 auto;
+        /** Igual a 1200 px**/
+        /** atajo, para alinear**/
+        /**es para centrar la mayoria de elementos*/
     }
     .brexia-h1 h1 {
         color: #914568;
@@ -886,9 +873,9 @@ a.scrollup i:hover {
 }
 
 .contenedor-3 {
-    max-width: 70%;
-    /** Igual a 1200 px**/
+    max-width: 60%;
     margin: 0 auto;
+    /** Igual a 1200 px**/
     /** atajo, para alinear**/
     /**es para centrar la mayoria de elementos*/
 }
@@ -903,15 +890,6 @@ a.scrollup i:hover {
 
 .contenedor-5 {
     max-width: 100%;
-    /** Igual a 1200 px**/
-    margin: 0 auto;
-    /** atajo, para alinear**/
-    /**es para centrar la mayoria de elementos*/
-}
-
-.contenedor-3 p {
-    font-size: 16px;
-    max-width: 65%;
     /** Igual a 1200 px**/
     margin: 0 auto;
     /** atajo, para alinear**/
@@ -1265,5 +1243,44 @@ ul.tabs li a:focus {
 @media screen and (min-width: 886px) {
     .tabs-movil {
         display: none;
+    }
+}
+
+
+/*SEGUNDA OPINION*/
+
+.opinion-grid {
+    text-align: justify;
+    display: grid;
+    width: 800px;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 auto;
+}
+
+.opinion-grid img {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    padding-left: 6rem;
+}
+
+.opinion-secciones {
+    text-align: justify;
+    width: 750px;
+    margin: 0 auto;
+}
+
+@media (max-width: 886px) {
+    .opinion-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        max-width: 85%;
+    }
+    .opinion-secciones {
+        max-width: 90%;
+    }
+    .opinion-grid img {
+        margin-top: 0;
+        padding-top: 0;
+        padding-left: 2rem;
     }
 }
