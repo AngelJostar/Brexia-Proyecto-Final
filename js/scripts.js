@@ -1,31 +1,28 @@
-$(function() {
-    // Toggle Nav on Click
-    $('.toggle-nav').click(function() {
-        // Calling a function in case you want to expand upon this.
-        toggleNav();
-    });
-});
-
-
-function toggleNav() {
-    if ($('#site-wrapper').hasClass('show-nav')) {
-        // Do things on Nav Close
-        $('#site-wrapper').removeClass('show-nav');
-        $('#top-header').removeClass('mover-header');
-    } else {
-        // Do things on Nav Open
-        $('#site-wrapper').addClass('show-nav');
-        $('#top-header').addClass('mover-header');
-    }
-    //$('#site-wrapper').toggleClass('show-nav');
-}
-
-
-
-
-
-
 $(document).ready(function() {
+
+    $(function() {
+        // Toggle Nav on Click
+        $('.toggle-nav').click(function() {
+            // Calling a function in case you want to expand upon this.
+            toggleNav();
+        });
+    });
+
+
+    function toggleNav() {
+        if ($('#site-wrapper').hasClass('show-nav')) {
+            // Do things on Nav Close
+            $('#site-wrapper').removeClass('show-nav');
+            $('#top-header').removeClass('mover-header');
+        } else {
+            // Do things on Nav Open
+            $('#site-wrapper').addClass('show-nav');
+            $('#top-header').addClass('mover-header');
+        }
+        //$('#site-wrapper').toggleClass('show-nav');
+    }
+
+
     $('ul.tabs li a:first').addClass('active');
     $('.secciones article').hide();
     $('.secciones article:first').show();
@@ -39,22 +36,24 @@ $(document).ready(function() {
         $(activeTab).show();
         return false;
     });
-});
-
-// When the user scrolls the page, execute myFunction
 
 
-// Get the header
-var header = document.getElementById("myHeader");
+    // When the user scrolls the page, execute myFunction
 
-// Get the offset position of the navbar
-var sticky = header.offsetTop;
 
-// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-function myFunction() {
-    if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
-    } else {
-        header.classList.remove("sticky");
+    // Get the header
+    var header = document.getElementById("myHeader");
+
+    // Get the offset position of the navbar
+    var sticky = header.offsetTop;
+
+    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+    function myFunction() {
+        if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+        } else {
+            header.classList.remove("sticky");
+        }
     }
-}
+
+});
