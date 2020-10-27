@@ -1186,7 +1186,7 @@ ul.tabs li {
 ul.tabs li a {
     color: #914568;
     text-decoration: none;
-    font-size: 0.9em;
+    font-size: 1.5ch;
     font-weight: 600;
     text-align: center;
     display: block;
