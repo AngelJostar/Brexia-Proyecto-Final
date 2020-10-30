@@ -42,7 +42,7 @@ li {
 /*Hace que las imagenes se ajusten al contenedor*/
 
 img {
-    max-width: 100%;
+    width: 100%
 }
 
 .contenedor {
@@ -265,7 +265,7 @@ h4 {
     text-align: center;
     list-style: none;
     padding-top: 3rem;
-    word-spacing: 0.2em;
+    word-spacing: -0.2em;
 }
 
 .low-header li {
@@ -558,7 +558,7 @@ footer {
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 2rem;
+    column-gap: 2em;
 }
 
 .contenedor-footer {
@@ -804,6 +804,16 @@ a.scrollup i:hover {
         display: flex;
         margin: auto;
     }
+    .contacto-imagen {
+        max-width: 100% !important;
+        display: flex;
+        margin: 0 auto;
+    }
+    .contacto-imagen img {
+        max-width: 100% !important;
+        display: flex;
+        margin: 0 auto;
+    }
     .contenedor-3 {
         max-width: 80% !important;
         margin: 0 auto;
@@ -833,6 +843,9 @@ a.scrollup i:hover {
 }
 
 @media (max-width: 910px) {
+    .fondo-tipos-de-cancer {
+        max-width: 100%;
+    }
     .ocultar-h1 {
         display: none;
     }
@@ -844,22 +857,27 @@ a.scrollup i:hover {
     }
 }
 
+@media (min-width: 910px) {
+    .fondo-tipos-de-cancer {
+        margin: 0 auto;
+        max-width: 77%;
+        display: grid;
+        grid-template-columns: 40% 60%;
+        justify-content: center;
+        column-gap: 1rem;
+    }
+}
+
 
 /*Aquí empieza la sección de la perstaña, como-tratamos-el-cancer*/
 
-.fondo-tipos-de-cancer {
-    display: grid;
-    grid-template-columns: 40% 60%;
-    justify-content: center;
-    column-gap: 1rem;
-}
-
 .fondo-tipos-de-cancer h1 {
+    z-index: 2;
     color: #914568;
-    font-size: 3vw;
+    font-size: 2vw;
     padding-top: 6rem;
     text-align: center;
-    font-weight: 700;
+    font-weight: 900;
     padding-left: 20rem;
 }
 
@@ -872,7 +890,7 @@ a.scrollup i:hover {
 }
 
 .contenedor-3 {
-    max-width: 60%;
+    max-width: 55%;
     margin: 0 auto;
     /** Igual a 1200 px**/
     /** atajo, para alinear**/
@@ -881,14 +899,6 @@ a.scrollup i:hover {
 
 .contenedor-4 {
     max-width: 50%;
-    /** Igual a 1200 px**/
-    margin: 0 auto;
-    /** atajo, para alinear**/
-    /**es para centrar la mayoria de elementos*/
-}
-
-.contenedor-5 {
-    max-width: 100%;
     /** Igual a 1200 px**/
     margin: 0 auto;
     /** atajo, para alinear**/
@@ -919,12 +929,16 @@ a.scrollup i:hover {
     margin: auto;
 }
 
-.contenedor-5 img {
-    max-width: 100%;
-    /** Igual a 1200 px**/
+.contacto-imagen {
+    max-width: 50%;
+    display: flex;
     margin: 0 auto;
-    /** atajo, para alinear**/
-    /**es para centrar la mayoria de elementos*/
+}
+
+.contacto-imagen img {
+    max-width: 80%;
+    display: flex;
+    margin: 0 auto;
 }
 
 
@@ -932,6 +946,41 @@ a.scrollup i:hover {
 
 .espacio-boton button {
     margin-bottom: 2.65rem;
+}
+
+.tipos-cancer-img {
+    max-width: 774px;
+    height: auto;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 558px) {
+    .tipos-cancer-img {
+        position: relative;
+        z-index: 1;
+    }
+    .tipos-cancer-regresar {
+        position: absolute;
+        top: 125px;
+        z-index: 2;
+        background: rgb(233, 232, 232);
+        font-size: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        border-radius: 7px;
+    }
+    .tipos-cancer-regresar a {
+        text-decoration: none;
+        color: #914568;
+        font-weight: 400;
+    }
+}
+
+@media screen and (min-width: 558px) {
+    .tipos-cancer-regresar {
+        display: none;
+    }
 }
 
 
@@ -1152,7 +1201,7 @@ a.scrollup i:hover {
 /*NAV TABS*/
 
 .wrap {
-    max-width: 70%;
+    max-width: 1400px;
     margin: 2px auto;
 }
 
@@ -1198,7 +1247,7 @@ ul.tabs li a:focus {
 }
 
 .secciones {
-    width: 50%;
+    width: 720px;
     margin: 0 auto;
     background-color: #fff;
     word-spacing: 0.30em;
@@ -1234,7 +1283,7 @@ ul.tabs li a:focus {
         background-color: #fff;
     }
     .wrap {
-        max-width: 88%;
+        max-width: 100%;
         margin: 2px auto;
     }
 }
