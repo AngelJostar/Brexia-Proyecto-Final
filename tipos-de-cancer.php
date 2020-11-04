@@ -34,32 +34,32 @@
                 </div>
                 <div class="footer-grid justificar-texto paddingTop-3 ">
                     <div class="centrar-texto espacio-boton ">
-                        <a href="TiposDeCancer/CancerCervicouterino.html"> <button class="boton boton-brexia ">Cáncer Cervicouterino </button></a>
-                        <a href="TiposDeCancer/CancerDeCabezaCuello.html"> <button class="boton boton-brexia ">Cáncer de Cabeza y Cuello</button></a>
-                        <a href="TiposDeCancer/CancerDeCerebro.html"> <button class="boton boton-brexia ">Cáncer de Cerebro</button></a>
-                        <a href="TiposDeCancer/CancerDeColonRecto.html"> <button class="boton boton-brexia ">Cáncer de Colon y Recto</button></a>
-                        <a href="TiposDeCancer/CancerDeEndometrio.html"> <button class="boton boton-brexia ">Cáncer de Endometrio (Útero)</button></a>
-                        <a href="TiposDeCancer/CancerDeEsofago.html"> <button class="boton boton-brexia ">Cáncer de Esófago</button></a>
-                        <a href="TiposDeCancer/CancerDeEstomago.html"></a> <button class="boton boton-brexia ">Cáncer de Estómago</button>
-                        <a href="TiposDeCancer/CancerDeHigado.html"> <button class="boton boton-brexia ">Cáncer de Hígado</button></a>
-                        <a href="TiposDeCancer/CancerDeMama.html"><button class="boton boton-brexia ">Cáncer de Mama</button></a>
-                        <a href="TiposDeCancer/CancerDeOvario.html"><button class="boton boton-brexia ">Cáncer de Ovario</button></a>
-                        <a href="TiposDeCancer/CancerDePancreas.html"><button class="boton boton-brexia ">Cáncer de Páncreas</button></a>
+                        <a href="TiposDeCancer/CancerCervicouterino.php"> <button class="boton boton-brexia ">Cáncer Cervicouterino </button></a>
+                        <a href="TiposDeCancer/CancerDeCabezaCuello.php"> <button class="boton boton-brexia ">Cáncer de Cabeza y Cuello</button></a>
+                        <a href="TiposDeCancer/CancerDeCerebro.php"> <button class="boton boton-brexia ">Cáncer de Cerebro</button></a>
+                        <a href="TiposDeCancer/CancerDeColonRecto.php"> <button class="boton boton-brexia ">Cáncer de Colon y Recto</button></a>
+                        <a href="TiposDeCancer/CancerDeEndometrio.php"> <button class="boton boton-brexia ">Cáncer de Endometrio (Útero)</button></a>
+                        <a href="TiposDeCancer/CancerDeEsofago.php"> <button class="boton boton-brexia ">Cáncer de Esófago</button></a>
+                        <a href="TiposDeCancer/CancerDeEstomago.php"></a> <button class="boton boton-brexia ">Cáncer de Estómago</button>
+                        <a href="TiposDeCancer/CancerDeHigado.php"> <button class="boton boton-brexia ">Cáncer de Hígado</button></a>
+                        <a href="TiposDeCancer/CancerDeMama.php"><button class="boton boton-brexia ">Cáncer de Mama</button></a>
+                        <a href="TiposDeCancer/CancerDeOvario.php"><button class="boton boton-brexia ">Cáncer de Ovario</button></a>
+                        <a href="TiposDeCancer/CancerDePancreas.php"><button class="boton boton-brexia ">Cáncer de Páncreas</button></a>
                     </div>
                     <div class="centrar-texto ">
                         <div class="centrar-texto ">
-                            <a href="TiposDeCancer/CancerDeProstata.html"><button class="boton boton-brexia ">Cáncer de Próstata</button></a>
-                            <a href="TiposDeCancer/CancerDePulmon.html"><button class="boton boton-brexia ">Cáncer de Pulmón</button></a>
-                            <a href="TiposDeCancer/CancerDeRinon.html"><button class="boton boton-brexia ">Cáncer de Rinón</button></a>
-                            <a href="TiposDeCancer/CancerDeTesticulo.html"><button class="boton boton-brexia ">Cáncer de Testículo</button></a>
-                            <a href="TiposDeCancer/CancerDeVejiga.html"><button class="boton boton-brexia ">Cáncer de Vejiga</button></a>
-                            <a href="TiposDeCancer/CancerDeViasBiliares.html"><button class="boton boton-brexia ">Cáncer de Vías Biliares</button></a>
-                            <a href="TiposDeCancer/Melanoma.html"><button class="boton boton-brexia ">Melanoma</button></a>
-                            <a href="TiposDeCancer/Mesotelioma.html"><button class="boton boton-brexia ">Mesotelioma</button></a>
-                            <a href="TiposDeCancer/SarcomasDeTejidosBlandos.html"><button class="boton boton-brexia ">Sarcomas de Tejidos Blandos</button></a>
-                            <a href="TiposDeCancer/SarcomasDeTejidosOseos.html"><button class="boton boton-brexia ">Sarcomas de Tejidos Óseos</button></a>
-                            <a href="TiposDeCancer/TumoresNeuroendocrinos.html"><button class="boton boton-brexia ">Tumores Neuroendocrinos</button></a>
-                            <a href="TiposDeCancer/OtrosTiposDeCancer.html"><button class="boton boton-brexia ">Otros tipos de cáncer</button></a>
+                            <a href="TiposDeCancer/CancerDeProstata.php"><button class="boton boton-brexia ">Cáncer de Próstata</button></a>
+                            <a href="TiposDeCancer/CancerDePulmon.php"><button class="boton boton-brexia ">Cáncer de Pulmón</button></a>
+                            <a href="TiposDeCancer/CancerDeRinon.php"><button class="boton boton-brexia ">Cáncer de Rinón</button></a>
+                            <a href="TiposDeCancer/CancerDeTesticulo.php"><button class="boton boton-brexia ">Cáncer de Testículo</button></a>
+                            <a href="TiposDeCancer/CancerDeVejiga.php"><button class="boton boton-brexia ">Cáncer de Vejiga</button></a>
+                            <a href="TiposDeCancer/CancerDeViasBiliares.php"><button class="boton boton-brexia ">Cáncer de Vías Biliares</button></a>
+                            <a href="TiposDeCancer/Melanoma.php"><button class="boton boton-brexia ">Melanoma</button></a>
+                            <a href="TiposDeCancer/Mesotelioma.php"><button class="boton boton-brexia ">Mesotelioma</button></a>
+                            <a href="TiposDeCancer/SarcomasDeTejidosBlandos.php"><button class="boton boton-brexia ">Sarcomas de Tejidos Blandos</button></a>
+                            <a href="TiposDeCancer/SarcomasDeTejidosOseos.php"><button class="boton boton-brexia ">Sarcomas de Tejidos Óseos</button></a>
+                            <a href="TiposDeCancer/TumoresNeuroendocrinos.php"><button class="boton boton-brexia ">Tumores Neuroendocrinos</button></a>
+                            <a href="TiposDeCancer/OtrosTiposDeCancer.php"><button class="boton boton-brexia ">Otros tipos de cáncer</button></a>
                         </div>
                     </div>
                 </div>
