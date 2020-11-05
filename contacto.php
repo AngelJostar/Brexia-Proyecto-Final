@@ -85,6 +85,22 @@
                 <img src="/img/MAPA-BREXIA-768x410.jpg" alt="">
             </div>
 
+            <div class="formulario">
+                <form action="enviar.php" method="post">
+                <h2 class="contacto-h2">Envíanos tus dudas y comentarios</h2>
+                <p>NOMBRE *</p>
+                <input type="text" name="nombre" placeholder="Nombre" required>
+                <p>CORREO *</p>
+                <input type="text" name="correo" placeholder="Correo" required>
+                <p>TELÉFONO</p>
+                <input type="text" name="telefono" placeholder="Teléfono">
+                <p>ASUNTO</p>
+                <input type="text" name="asunto" placeholder="Asunto">
+                <p>MENSAJE</p>
+                <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
+                <input type="submit" value="ENVIAR" id="boton">
+                </form>
+            </div>
 
 
             <!--####FOOTER####-->

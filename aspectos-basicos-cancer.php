@@ -50,7 +50,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2">
-                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.html"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
+                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.php"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Quién trata el cáncer?</h2>
                 <p>En Brexia tratamos el cáncer con un enfoque multidisciplinario que junta tratamientos convencionales con terapias de apoyo, administrados simultáneamente por un equipo colaborativo de médicos. El objetivo de la atención integral del cáncer
@@ -59,7 +59,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2">
-                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.html"><button class="boton boton-brexia">Equipo multidisciplinario</button></a>
+                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.php"><button class="boton boton-brexia">Equipo multidisciplinario</button></a>
                 </div>
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">Sentimientos y Emociones</h2>
@@ -68,7 +68,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2 paddingBottom-3">
-                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer.html"><button class="boton boton-brexia">Sentimientos y el Cáncer</button></a>
+                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer.php"><button class="boton boton-brexia">Sentimientos y el Cáncer</button></a>
                 </div>
 
             </div>

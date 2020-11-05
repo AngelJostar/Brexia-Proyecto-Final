@@ -1332,3 +1332,62 @@ ul.tabs li a:focus {
         padding-left: 2rem;
     }
 }
+
+
+/* FORMULARIO*/
+
+.formulario p {
+    font-size: 10px;
+}
+
+form {
+    width: 700px;
+    margin: auto;
+    background: #c1859e;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+.contacto-h2 {
+    color: #353535;
+    text-align: center;
+    margin: 0;
+    font-size: 3fr;
+    margin-bottom: 20px;
+}
+
+input,
+textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+    min-height: 50px;
+}
+
+textarea {
+    min-height: 250px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+#boton {
+    background: #914568;
+    color: #FFF;
+    max-width: 140px;
+    padding: 15px 0;
+}
+
+#boton:hover {
+    cursor: pointer;
+}
+
+@media (max-width:480px) {
+    form {
+        width: 100%;
+    }
+}

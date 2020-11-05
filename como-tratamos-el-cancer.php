@@ -42,7 +42,7 @@
                     <br> <br> Conoce cómo cada integrante del equipo de Brexia asistirá en el tratamiento de tu cáncer explorando el enlace a continuación:
                 </p>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/equipo-multidisciplinario.html"><button class="boton boton-brexia"> Equipo Multidisciplinario en Brexia </button></a>
+                    <a href="Como-tratramos-el-cancer/equipo-multidisciplinario.php"><button class="boton boton-brexia"> Equipo Multidisciplinario en Brexia </button></a>
                 </div>
                 <p class="paddingtop-30">Los pacientes y sus cuidadores estarán involucrados en cada paso del camino, facultados para tomar decisiones informadas sobre su atención. El siguiente mapa muestra el enfoque de atención integral que recibirás en Brexia.</p>
                 <img src="/img/COMO-TRATAMOS-EL-CANCER-768x840.png" alt="como-tratamos-el-cancer">
@@ -52,14 +52,14 @@
                     continuación para aprender más acerca de los sentimientos y el cáncer y como los tratamos en Brexia:
                 </p>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer.html"><button class="boton boton-brexia"> Sentimientos y el Cáncer </button></a>
+                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer.php"><button class="boton boton-brexia"> Sentimientos y el Cáncer </button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingtop-50 ">Enfoque Moderno y Vanguardista</h2>
                 <p>Nuestros expertos en cáncer tratan el cáncer con una amplia gama de técnicas y enfoques innovadores y estándar de atención, que incluyen herramientas de diagnóstico de alta tecnología, radioterapia dirigida, técnicas quirúrgicas mínimamente
                     invasivas y tratamientos identificados a través de las herramientas de la medicina de precisión.</p>
                 <p>Obtenga más información sobre el cáncer como se trata y diagnostica explorando los enlaces a continuación.</p>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.html"><button class="boton boton-brexia"> Opciones de tratamiento </button></a>
+                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.php"><button class="boton boton-brexia"> Opciones de tratamiento </button></a>
                 </div>
                 <div class="centrar-texto">
                     <a href="#"><button class="boton boton-brexia">Diagnosticcando el cáncer </button></a>
@@ -69,10 +69,10 @@
                     cancer.
                 </p>
                 <div class="centrar-texto">
-                    <a href="segundo-opinion.html"><button class="boton boton-brexia"> Segunda opinión </button></a>
+                    <a href="segundo-opinion.php"><button class="boton boton-brexia"> Segunda opinión </button></a>
                 </div>
                 <div class="centrar-texto ">
-                    <a href="ser-paciente.html"><button class="boton boton-brexia"> Convertirse en Paciente</button></a>
+                    <a href="ser-paciente.php"><button class="boton boton-brexia"> Convertirse en Paciente</button></a>
                 </div>
 
             </div>
