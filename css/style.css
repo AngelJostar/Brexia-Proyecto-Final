@@ -1450,3 +1450,25 @@ div.youtube-play:hover {
     top: 0;
     left: 0;
 }
+
+.mensaje-gracias {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 3ch;
+    max-width: 90%;
+}
+
+.mensaje-gracias h1 {
+    font-weight: 100;
+}
+
+.boton-gracias {
+    background: #c787a2;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    height: 80px;
+    width: 300px;
+    margin-bottom: 10px;
+    color: white;
+}

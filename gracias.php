@@ -24,47 +24,16 @@
 
             <?php include_once 'includes/templates/header.php';?>
 
-            <section id="intro-content" class="intro-content">
-                <img src="img/especialistas.jpg" alt="Doctores">
+            
+            <section class="mensaje-gracias">
+                <div class="centrar-texto">
+                    <h1>¡GRACIAS POR TU MENSAJE, EN BREVE TE RESPONDEMOS!</h1>
+                </div>
+                <div class="centrar-texto paddingTop-2">
+                    <a href="como-tratramos-el-cancer.html"><button class="boton boton-gracias"> Mas información sobre ¿Como tratar tu cáncer?</button></a>
+                </div>
+                
             </section>
-            <h1 class="brexia-color centrar-texto fontW-700 font-30">Somos especialistas en Cáncer</h1>
-            <div class="principal-content texto-brexia">
-                <div class="justificar-texto fontW-300">
-                    <p>Brexia es un Centro de Alta Especialidad en Cáncer formado por médicos especialistas dedicados únicamente al diagnóstico y tratamiento del cáncer.</p>
-                    <p>Creemos que cada cáncer es tan único como la persona que lo combate y que afecta a cada persona de manera diferente. Nuestro equipo de médicos diagnosticará de manera multidisciplinaria cada caso para encontrar el tratamiento más adecuado
-                        para cada paciente. Explora el enlace a continuación para conocer el enfoque de atención que te ofrecemos en Brexia.</p>
-                    <div class="centrar-texto">
-                        <a href="como-tratamos-el-cancer.php"><button class="boton boton-brexia">¿Cómo tratamos el cáncer?</button></a>
-                    </div>
-                    <p>a lucha contra el cáncer requiere una atención verdaderamente personalizada con un plan de cuidado único e individualizado. Es por eso que es indispensable encontrar a un equipo de atención en el que usted pueda confiar.</p>
-                    <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando información sobre tu cáncer?</h2>
-                    <p>Parte de nuestra promesa en Brexia para usted y su familia es ofrecer información clara. Es por eso que le ofrecemos información útil para que conozca su enfermedad. Explore los enlaces a continuación para obtener información sobre
-                        los diferentes tipos de cáncer, además de información útil sobre síntomas, diagnóstico, tratamiento y más.</p>
-                    <div class="centrar-texto">
-                        <a href="aspectos-basicos-cancer.php"><button class="boton boton-brexia">Información del cáncer en general</button></a>
-                    </div>
-                    <div class="centrar-texto">
-                        <a href="tipos-de-cancer.php"><button class="boton boton-brexia">Información por tipo de cáncer</button></a>
-                    </div>
-                </div>
-
-
-                <div>
-                    <iframe class="video-size" src="https://www.youtube.com/embed/-rYObnyuhUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando una segunda opinión?</h2>
-                    <p>Buscar una segunda opinión puede ayudarlo a tomar una decisión más informada sobre su tratamiento contra el cáncer. Da click en el enlace a continuación para aprender de los beneficios de obtener una segunda opinión para su atención
-                        del cáncer.</p>
-                    <div class="centrar-texto">
-                        <a href="segundo-opinion.php"><button class="boton boton-brexia">Segunda Opinión</button></a>
-                    </div>
-                    <div class="centrar-texto">
-                        <a href="ser-paciente.php"><button class="boton boton-brexia">Convertirse en paciente</button></a>
-                    </div>
-
-                </div>
-            </div>
-
-
 
 
             <!--####FOOTER####-->
