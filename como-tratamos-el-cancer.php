@@ -98,9 +98,7 @@
     <!--####HEADER####-->
 
 
-
-    <!--    <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
-    ####FOOTER####-->
+    <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
 
 
     <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

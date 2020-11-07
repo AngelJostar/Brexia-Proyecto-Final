@@ -87,10 +87,8 @@
 
 
 
-    <!--    <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
-    ####FOOTER####-->
-
-
+    <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
+    
     <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
     <script src="../js/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

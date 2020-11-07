@@ -248,7 +248,7 @@
     </section>
     <!--####HEADER####-->
 
-    <a href="# " class="scrollup "><i class="fa fa-angle-up active "></i></a>
+    <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
     <!--####FOOTER####-->
 
 
