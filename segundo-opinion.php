@@ -71,9 +71,9 @@
                         Una oportunidad para la esperanza: Si un médico dice que su cáncer no se puede tratar, otro médico puede explorar opciones de tratamiento adicionales con usted. No tiene nada que perder y mucho que ganar obteniendo una segunda opinión.
                     </li>
                     <p>Si está buscando una segunda opinión, los expertos de Brexia realizarán una evaluación completa, para confirmar su diagnóstico y ayudarlo a comprender las opciones de tratamiento disponibles para usted.</p>
-
-                </ol>
-
+                </ol>   
+            <p> </p>
+            <p> </p>
 
             </section>
 
