@@ -24,20 +24,22 @@
 
         <?php include_once '../includes/templates/header_tipos.php';?>
 
-            <section>
+        <section>
                 <div class="fondo-tipos-de-cancer ">
-
-                    <div class="tipos-cancer-regresar">
-                        <a href="../tipos-de-cancer.html">
-                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                    </div>
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Hígado</h1>
+                        <h1>Cáncer de Higado</h1>
                     </div>
-                    <div>
-                        <img src="/img/cancer-de-higado/Portada-Cáncer-de-Higado.webp" alt="">
+                    <div class="tipos-cancer-img">
+                        <img src="/img/Doctores.webp" alt="">
                     </div>
                 </div>
+                <div class="tipos-cancer-regresar">
+                    <a href="../tipos-de-cancer.php">
+                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
+                    <a href="../contacto.php">
+                            &nbsp; CONTACTANOS >></a>
+                </div>
+
             </section>
 
 

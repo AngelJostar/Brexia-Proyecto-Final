@@ -24,19 +24,22 @@
 
         <?php include_once '../includes/templates/header_tipos.php';?>
 
-            <section>
+        <section>
                 <div class="fondo-tipos-de-cancer ">
-                    <div class="tipos-cancer-regresar">
-                        <a href="../tipos-de-cancer.html">
-                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                    </div>
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Color Recto</h1>
+                        <h1>Cáncer de Colon y Recto</h1>
                     </div>
-                    <div>
-                        <img src="/img/cancer-de-colon-y-recto/Cancer-de-colon.webp" alt="">
+                    <div class="tipos-cancer-img">
+                        <img src="/img/Doctores.webp" alt="">
                     </div>
                 </div>
+                <div class="tipos-cancer-regresar">
+                    <a href="../tipos-de-cancer.php">
+                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
+                    <a href="../contacto.php">
+                            &nbsp; CONTACTANOS >></a>
+                </div>
+
             </section>
 
 

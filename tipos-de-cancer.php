@@ -40,7 +40,7 @@
                         <a href="TiposDeCancer/CancerDeColonRecto.php"> <button class="boton boton-brexia ">Cáncer de Colon y Recto</button></a>
                         <a href="TiposDeCancer/CancerDeEndometrio.php"> <button class="boton boton-brexia ">Cáncer de Endometrio (Útero)</button></a>
                         <a href="TiposDeCancer/CancerDeEsofago.php"> <button class="boton boton-brexia ">Cáncer de Esófago</button></a>
-                        <a href="TiposDeCancer/CancerDeEstomago.php"></a> <button class="boton boton-brexia ">Cáncer de Estómago</button>
+                        <a href="TiposDeCancer/CancerDeEstomago.php"> <button class="boton boton-brexia ">Cáncer de Estómago</button></a>
                         <a href="TiposDeCancer/CancerDeHigado.php"> <button class="boton boton-brexia ">Cáncer de Hígado</button></a>
                         <a href="TiposDeCancer/CancerDeMama.php"><button class="boton boton-brexia ">Cáncer de Mama</button></a>
                         <a href="TiposDeCancer/CancerDeOvario.php"><button class="boton boton-brexia ">Cáncer de Ovario</button></a>
