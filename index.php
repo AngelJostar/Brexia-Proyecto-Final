@@ -52,8 +52,10 @@
                 <div>
 
                 <div class="contenedor-video">
-                    <div class="reproductor" data-id="-rYObnyuhUc" alt=""></div>
+                    <div class="reproductor" data-id="QMgSELBA7kw"></div>
                 </div>
+
+
                     <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando una segunda opinión?</h2>
                     <p>Buscar una segunda opinión puede ayudarlo a tomar una decisión más informada sobre su tratamiento contra el cáncer. Da click en el enlace a continuación para aprender de los beneficios de obtener una segunda opinión para su atención
                         del cáncer.</p>

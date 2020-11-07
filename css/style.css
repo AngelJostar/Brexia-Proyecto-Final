@@ -1404,18 +1404,20 @@ textarea {
 .reproductor {
     display: block;
     width: 100%;
-    height: 100%;
     padding-bottom: 56.25%;
     overflow: hidden;
     position: relative;
+    width: 100%;
+    height: 100%;
     cursor: hand;
     cursor: pointer;
+    display: block;
 }
 
 img.imagen-previa {
+    bottom: 0;
     display: block;
     left: 0;
-    bottom: 0;
     margin: auto;
     max-width: 100%;
     width: 100%;

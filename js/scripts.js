@@ -66,7 +66,7 @@ $(document).ready(function() {
     })();
 
     function labnolThumb(id) {
-        return '<img alt="" class="imagen-previa" src="//i.ytimg.com/vi/' + id + '/hqdefault.jpg"><div class="youtube-play"></div>';
+        return '<img class="imagen-previa" src="//i.ytimg.com/vi/' + id + '/hqdefault.jpg"><div class="youtube-play"></div>';
     }
 
     function labnolIframe() {
@@ -76,4 +76,5 @@ $(document).ready(function() {
         iframe.setAttribute("id", "youtube-iframe");
         this.parentNode.replaceChild(iframe, this);
     }
+
 });
