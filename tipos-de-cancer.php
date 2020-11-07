@@ -28,7 +28,7 @@
             </div>
 
             <section class="contenedor-3 texto-brexia">
-                <div class="centrar-texto brexia-h1">
+                <div class="centrar-imagen centrar-texto brexia-h1">
                     <h1> Aprende de tu cáncer </h1>
                     <p class="justificar-texto">Obtén información sobre cada tipo de cáncer, incluida la información sobre síntomas, diagnóstico, tratamiento, estadificación y más, explorando los enlaces a continuación:</p>
                 </div>

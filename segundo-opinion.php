@@ -30,10 +30,8 @@
                         <h1>¿Cómo tratamos <br> el Cáncer?</h1>
                     </div>
                     <div>
-                        <img src="img/Segunda-Opinión-1.webp" alt="">
+                        <img src="img/Segunda-opinion.webp" alt="">
                     </div>
-
-
                 </div>
             </section>
 

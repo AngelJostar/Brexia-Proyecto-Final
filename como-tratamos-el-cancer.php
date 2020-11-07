@@ -42,7 +42,7 @@
             </section>
 
             <div class="contenedor-4 justificar-texto">
-                <h2 class="formato-h2 centrar-texto paddingTop-3">Enfoque Multidisciplinario en Brexia</h2>
+                <h2 class="brexia-color centrar-texto paddingTop-3">Enfoque Multidisciplinario en Brexia</h2>
                 <p>En Brexia un equipo de médicos se reunirá para diseñar un plan de atención diseñado para satisfacer sus necesidades y objetivos de tratamiento. Algunos miembros del equipo, como el médico oncólogo se dedican al tratamiento del cáncer.
                     Otros, como el nutriólogo o el médico para el manejo del dolor, lo ayudarán a controlar los efectos secundarios del cáncer y a mejorar su calidad de vida.
                     <br> <br> Conoce cómo cada integrante del equipo de Brexia asistirá en el tratamiento de tu cáncer explorando el enlace a continuación:
@@ -68,7 +68,7 @@
                     <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.php"><button class="boton boton-brexia"> Opciones de tratamiento </button></a>
                 </div>
                 <div class="centrar-texto">
-                    <a href="#"><button class="boton boton-brexia">Diagnosticcando el cáncer </button></a>
+                    <a href="Como-tratramos-el-cancer/diagnosticando-el-cancer.php"><button class="boton boton-brexia">Diagnosticando el cáncer </button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingtop-50 ">¿Estás buscando una segunda opinión?</h2>
                 <p>Buscar una segunda opiniòn puede ayudarlo a tomar una decision mas informada sobre su tratamiento contra el cancer. Da click en el enlace a continuacion para aprender de los beneficios de obtener una segunda opinion para su atencion del

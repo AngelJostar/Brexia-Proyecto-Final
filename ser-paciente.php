@@ -34,7 +34,7 @@
 
        
             <section class="wrap">
-                <div>
+                <div class="centrar-imagen">
                     <h1 class="centrar-texto formato-h1">Ser paciente en Brexia</h1>
                 </div>
                 <div class="tabs-desktop">

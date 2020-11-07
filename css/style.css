@@ -61,19 +61,32 @@ img {
 /*Sistema para el tama;o de palabras, en los headers*/
 
 h1 {
-    font-size: 3.8rem;
+    font-size: 40px !important;
 }
 
 h2 {
-    font-size: 3.4rem;
+    font-size: 3.4rem !important;
 }
 
 h3 {
-    font-size: 3rem;
+    font-size: 3rem !important;
 }
 
 h4 {
-    font-size: 2.6rem;
+    font-size: 2.6rem !important;
+}
+
+@media (max-width: 886px) {
+    .centrar-imagen h1 {
+        margin: 0 auto;
+    }
+    h1 {
+        max-width: 70%;
+        font-size: 25px !important;
+    }
+    h2 {
+        font-size: 2.5rem !important;
+    }
 }
 
 
@@ -787,14 +800,14 @@ a.scrollup i:hover {
         margin: 0 auto;
     }
     .contenedor-2 {
-        max-width: 70% !important;
+        max-width: 85% !important;
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/
         /**es para centrar la mayoria de elementos*/
     }
     .contenedor-4 {
-        max-width: 80% !important;
+        max-width: 90% !important;
         /** Igual a 1200 px**/
         margin: 0 auto;
         /** atajo, para alinear**/

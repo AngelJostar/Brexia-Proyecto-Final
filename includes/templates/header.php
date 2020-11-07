@@ -5,10 +5,10 @@
                 <a href="index.php"><img src="img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
             </div>
             <div class="mid-font">
-                <p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
+            <a href="tel:+5555238959"><p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p></a>
             </div>
             <div class="mid-font">
-                <p class="centrar-texto fontW-700">Escríbenos por Whatsapp <br> <a href="#">(celular): 52 (1) 55 5135 8125</a></p>
+                <p class="centrar-texto fontW-700">Escríbenos por Whatsapp <br> <a href="https://api.whatsapp.com/send?phone=5215551358125&text=">(celular): 52 (1) 55 5135 8125</a></p>
             </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">
@@ -44,10 +44,10 @@
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
-                        <button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button>
+                        <a href="tel:+5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
                     </div>
                     <div class="centrar-texto">
-                        <button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button>
+                        <a href="../contacto.php"><button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button></a>
                     </div>
                 </div>
             </div>

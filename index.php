@@ -25,7 +25,9 @@
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
             </section>
-            <h1 class="brexia-color centrar-texto fontW-700 font-30">Somos especialistas en Cáncer</h1>
+            <div class="centrar-imagen">
+                <h1 class="brexia-color centrar-texto fontW-700">Somos especialistas en Cáncer</h1>
+            </div>
             <div class="principal-content texto-brexia">
                 <div class="justificar-texto fontW-300">
                     <p>Brexia es un Centro de Alta Especialidad en Cáncer formado por médicos especialistas dedicados únicamente al diagnóstico y tratamiento del cáncer.</p>
