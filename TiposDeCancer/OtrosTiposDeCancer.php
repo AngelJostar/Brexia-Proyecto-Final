@@ -22,19 +22,24 @@
         <section id="site-canvas">
 
         <?php include_once '../includes/templates/header_tipos.php';?>
+            
+        
             <section>
                 <div class="fondo-tipos-de-cancer ">
-                    <div class="tipos-cancer-regresar">
-                        <a href="../aspectos-basicos-cancer.html">
-                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                    </div>
                     <div class="ocultar-h1">
-                        <h1> </h1>
+                        <h1>Otros Tipos de Cancer</h1>
                     </div>
-                    <div>
-                        <img src="/img/otros-tipos-de-cancer/EXIA-Especialistas-en-c195161ncer_2_.webp" alt="Cancer-prostata">
+                    <div class="tipos-cancer-img">
+                        <img src="/img/Doctores.webp" alt="">
                     </div>
                 </div>
+                <div class="tipos-cancer-regresar">
+                    <a href="../tipos-de-cancer.php">
+                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
+                    <a href="../contacto.php">
+                            &nbsp; CONTACTANOS >></a>
+                </div>
+
             </section>
 
             <div class="secciones">
