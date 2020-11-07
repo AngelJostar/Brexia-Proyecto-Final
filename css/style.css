@@ -265,7 +265,7 @@ h4 {
     text-align: center;
     list-style: none;
     padding-top: 3rem;
-    word-spacing: -0.2em;
+    word-spacing: 0em;
 }
 
 .low-header li {
@@ -571,6 +571,7 @@ footer {
 .llamanos-footer a {
     font-size: 19px;
     color: #b06b8c;
+    text-decoration: none;
 }
 
 .text-footer {
@@ -874,11 +875,10 @@ a.scrollup i:hover {
 .fondo-tipos-de-cancer h1 {
     z-index: 2;
     color: #914568;
-    font-size: 2vw;
+    font-size: 40px;
     padding-top: 6rem;
     text-align: center;
     font-weight: 900;
-    padding-left: 20rem;
 }
 
 .contenedor-2 {
@@ -955,10 +955,6 @@ a.scrollup i:hover {
 }
 
 @media screen and (max-width: 558px) {
-    .tipos-cancer-img {
-        position: relative;
-        z-index: 1;
-    }
     .tipos-cancer-regresar {
         background: rgb(233, 232, 232);
         font-size: 10px;
@@ -1289,6 +1285,9 @@ ul.tabs li a:focus {
 
 @media screen and (min-width: 886px) {
     .tabs-movil {
+        display: none;
+    }
+    .mostrar-text {
         display: none;
     }
 }
