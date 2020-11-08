@@ -11,7 +11,7 @@
                     <a href="#"> <strong>Llámanos ahora:</strong> <br class="br-footer"> (55) 5523 8959</a>
                 </div>
                 <div class="centrar-texto">
-                    <button class="boton boton-brexia-footer">Contacto</button>
+                    <a href="../contacto.php"><button class="boton boton-brexia-footer">Contacto</button></a>
                 </div>
             </div>
             <div class="centrar-texto text-footer">

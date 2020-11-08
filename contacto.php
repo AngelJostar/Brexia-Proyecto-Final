@@ -38,9 +38,9 @@
                     </p>
                     <div class="widget">
                         <ul class="company-social-c">
-                            <li class="social-facebook"><a href="#"><i class="fab fa-facebook "></i></a></li>
-                            <li class="social-youtube"><a href="#"><i class="fab fa-youtube "></i></a></li>
-                            <li class="social-whatsapp"><a href="#"><i class="fab fa-whatsapp "></i></a></li>
+                            <li class="social-facebook"><a href="https://www.facebook.com/CentroBrexia/?ref=br_rs"><i class="fab fa-facebook "></i></a></li>
+                            <li class="social-youtube"><a href="https://www.youtube.com/channel/UCTG33NkFEG3LtPXwwzJFXYA?view_as=subscriber"><i class="fab fa-youtube "></i></a></li>
+                            <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=5215551358125&text=%22Hola!%20me%20gustar%C3%ADa%20obtener%20mas%20informaci%C3%B3n%22"><i class="fab fa-whatsapp "></i></a></li>
                         </ul>
                     </div>
 
@@ -69,8 +69,8 @@
 
                     <div class="widget">
                         <ul class="company-social-c">
-                            <li class="social-waze"><a href="#"><i class="fab fa-waze "></i></a></li>
-                            <li class="social-map-marker"><a href="#"><i class="fa fa-map-marker "></i></a></li>
+                            <li class="social-waze"><a href="https://www.waze.com/livemap/directions?latlng=19.391448%2C-99.171031&utm_expid=.NrMyf32jTECwHHBJyA6DAA.0&utm_referrer="><i class="fab fa-waze "></i></a></li>
+                            <li class="social-map-marker"><a href="https://www.google.com/maps/place/San+Francisco+524,+Col+del+Valle+Nte,+Benito+Ju%C3%A1rez,+03100+Del+Valle+Nte,+CDMX/@19.3914515,-99.1732129,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff739a4b6a91:0x7c7a837073b2a412!8m2!3d19.3914515!4d-99.1710242"><i class="fa fa-map-marker "></i></a></li>
 
                         </ul>
                     </div>

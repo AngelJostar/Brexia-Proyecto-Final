@@ -162,13 +162,13 @@
                 <p class="font-17 centrar-texto brexia-color fontW-700">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ </p>
             </div>
             <div class="centrar-texto ">
-                <button class="boton boton-brexia-footer ">Contacto</button>
+                <a href="../contacto.php"><button class="boton boton-brexia-footer ">Contacto</button></a>
             </div>
             <div class="font-20 centrar-texto brexia-color ">
                 <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más <br> información de como ser paciente en Brexia</p>
             </div>
             <div class="centrar-texto ">
-                <button class="boton boton-brexia-footer">Regresar al inicio</button>
+                <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
 
