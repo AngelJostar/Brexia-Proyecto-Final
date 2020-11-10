@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MÉDICOS ESPECIALISTAS EN CÁNCER</title>
@@ -19,7 +20,7 @@
 
         <!-- CANVAS -->
         <section id="site-canvas">
-            
+
             <?php include_once 'includes/templates/header.php';?>
 
             <section id="intro-content" class="intro-content">
@@ -51,9 +52,9 @@
 
                 <div>
 
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="-rYObnyuhUc"></div>
-                </div>
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="-rYObnyuhUc"></div>
+                    </div>
 
 
                     <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando una segunda opinión?</h2>

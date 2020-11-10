@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+<link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cancer de Estómago</title>
@@ -367,13 +368,13 @@
                                 a cinco años para las personas diagnosticadas con cáncer de estómago en etapa IV es del 4 por ciento.</p>
                         </div>
                     </article>
-                    <article id="tab7">
+                    <article id="tab8">
                         <h2 class="centrar-texto brexia-color encabezados-brexia ">Tratamiento del Cáncer de Estómago</h2>
                         <div class="font-16 fontW-400">
                             <p>En Brexia nuestros oncólogos médicos y oncólogos quirúrgicos tienen años de experiencia en el tratamiento del cáncer de estómago. Nuestro modelo de atención integral también está diseñado para satisfacer las necesidades nutricionales
                                 de los pacientes, controlar su dolor y abordar otros efectos secundarios a lo largo de su viaje de tratamiento. </p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/factores_riesgo_cancer_de_estomago-768x512" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/factores_riesgo_cancer_de_estomago-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Las opciones de tratamiento del cáncer de estómago varían ampliamente dependiendo de varios factores, incluyendo la etapa, el tipo y la progresión de la enfermedad. Nuestros expertos en cáncer están capacitados y tienen experiencia
                                 en los tratamientos disponibles, y se mantienen actualizados sobre las opciones y tecnologías nuevas y emergentes. Las opciones más comunes para tratar cáncer de estómago son:</p>
