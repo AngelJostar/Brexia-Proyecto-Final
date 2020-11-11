@@ -60,14 +60,14 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cáncer de Pulmón</a></li>
                             <li class="paddingTop-1"><a href="#tab2">Detección</a></li>
                             <li class="paddingTop-2"><a href="#tab3">Diagnóstico</a></li>
                             <li class="paddingTop-2"><a href="#tab4">Tipos</a></li>
                             <li><a href="#tab5">Tratamiento General</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab6">Síntomas</a></li>
                             <li><a href="#tab7">Tratamiento en <br>células NO pequeñas</a></li>
                             <li><a href="#tab8">Tratamiento en <br> células pequeñas</a></li>

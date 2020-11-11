@@ -59,13 +59,13 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cáncer Colorrectal</a></li>
                             <li><a href="#tab2">Diagnóstico</a></li>
                             <li><a href="#tab3">Tratamiento</a></li>
                             <li><a href="#tab4">Estadísticas</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab5">Síntomas</a></li>
                             <li><a href="#tab6">Factores de Riesgo</a></li>
                             <li><a href="#tab7">tipos</a></li>

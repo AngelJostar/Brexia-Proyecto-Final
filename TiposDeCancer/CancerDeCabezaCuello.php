@@ -58,13 +58,13 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cáncer de Cabeza y Cuello</a></li>
                             <li><a href="#tab2">Diagnóstico</a></li>
                             <li><a href="#tab3">Tratamiento</a></li>
                             <li><a href="#tab4">Factores de Riesgo</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li class="paddingTop-1"><a href="#tab5">Síntomas</a></li>
                             <li class="paddingTop-1"><a href="#tab6">Estadificación</a></li>
                             <li class="paddingTop-1"><a href="#tab8">Estadísticas</a></li>

@@ -56,12 +56,12 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cáncer de Cerebro</a></li>
                             <li><a href="#tab2">Factores de Riesgo</a></li>
                             <li><a href="#tab3">Estadísticas</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab4">Síntomas</a></li>
                             <li><a href="#tab5">Diagnóstico</a></li>
                             <li><a href="#tab6">Tratamiento</a></li>
