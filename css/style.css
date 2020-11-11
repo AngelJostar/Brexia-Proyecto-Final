@@ -87,6 +87,35 @@ h4 {
     h2 {
         font-size: 2.5rem !important;
     }
+    .maxW-90 {
+        max-width: 90% !important;
+    }
+    .maxW-80 {
+        max-width: 90% !important;
+    }
+    .maxW-70 {
+        max-width: 90% !important;
+    }
+    .maxW-60 {
+        margin: 0 auto;
+        max-width: 90% !important;
+    }
+    .maxW-50 {
+        margin: 0 auto;
+        max-width: 90% !important;
+    }
+    .maxW-40 {
+        margin: 0 auto;
+        max-width: 90% !important;
+    }
+    .maxW-30 {
+        margin: 0 auto;
+        max-width: 90% !important;
+    }
+    .maxW-20 {
+        margin: 0 auto;
+        max-width: 90% !important;
+    }
 }
 
 
@@ -617,7 +646,9 @@ footer {
         margin-bottom: 2rem;
     }
     .text-footer {
-        margin-top: -2rem;
+        margin: 0 auto;
+        max-width: 90%;
+        margin-top: 3rem;
     }
     .br-footer {
         display: none;
@@ -762,13 +793,6 @@ a.scrollup i:hover {
     color: #914568;
     font-weight: bold;
     font-size: 33px;
-}
-
-.mostrar-texto {
-    font-size: 15px;
-    font-weight: bold;
-    color: #979696 !important;
-    line-height: 2rem;
 }
 
 @media (max-width: 886px) {
@@ -1101,31 +1125,31 @@ a.scrollup i:hover {
 }
 
 .font-12 {
-    font-size: calc(1.2em + 1vw);
+    font-size: calc(1.2em + 1vw) !important;
 }
 
 .font-16 {
-    font-size: calc(1.6em + 1vw);
+    font-size: calc(1.6em + 1vw) !important;
 }
 
 .font-17 {
-    font-size: 17px !important;
+    font-size: calc(1.7em + 1vw) !important;
 }
 
 .font-18 {
-    font-size: calc(1.8em + 1vw);
+    font-size: calc(1.8em + 1vw) !important;
 }
 
 .font-19 {
-    font-size: calc(1.9em + 1vw);
+    font-size: calc(1.9em + 1vw) !important;
 }
 
 .font-25 {
-    font-size: calc(2.5em + 1vw);
+    font-size: calc(2.5em + 1vw) !important;
 }
 
 .font-20 {
-    font-size: calc(2em + 1vw);
+    font-size: calc(2em + 1vw) !important;
 }
 
 .font-30 {
@@ -1205,6 +1229,47 @@ a.scrollup i:hover {
     font-weight: 800;
 }
 
+.maxW-100 {
+    max-width: 100%;
+}
+
+.maxW-90 {
+    max-width: 90%;
+}
+
+.maxW-80 {
+    max-width: 80%;
+}
+
+.maxW-70 {
+    max-width: 70%;
+}
+
+.maxW-60 {
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+.maxW-50 {
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+.maxW-40 {
+    margin: 0 auto;
+    max-width: 40%;
+}
+
+.maxW-30 {
+    margin: 0 auto;
+    max-width: 30%;
+}
+
+.maxW-20 {
+    margin: 0 auto;
+    max-width: 20%;
+}
+
 
 /*NAV TABS*/
 
@@ -1275,10 +1340,6 @@ ul.tabs li a:focus {
 }
 
 @media screen and (max-width: 886px) {
-    ul.tabs li a {
-        text-align: center;
-        font-weight: 800;
-    }
     ul.tabs li {
         width: 100%;
     }
@@ -1487,4 +1548,8 @@ div.youtube-play:hover {
     width: 300px;
     margin-bottom: 10px;
     color: white;
+}
+
+section h1 {
+    margin: 0 auto;
 }

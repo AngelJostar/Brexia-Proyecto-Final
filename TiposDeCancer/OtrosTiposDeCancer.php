@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brexia</title>
@@ -22,9 +22,9 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-        <?php include_once '../includes/templates/header_tipos.php';?>
-            
-        
+            <?php include_once '../includes/templates/header_tipos.php';?>
+
+
             <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
@@ -45,16 +45,18 @@
 
             <div class="secciones">
                 <h2 class="centrar-texto brexia-color encabezados-brexia ">Otros Tipos de Cáncer</h2>
-                <div class="font-16 fontW-400 justificar-texto">
+                <div class="font-16 fontW-400woo justificar-texto">
                     <p>Si tu tipo especifico de cáncer no se encuentra en nuestras lista de “Tipos de Cáncer” seguramente es porque este es un tipo de cáncer poco común. Sin embargo, no tiene nada de que preocuparse. Nuestros Especialistas en cáncer atienden
                         cualquier tipo de cáncer.</p>
                     <p>Contáctenos para recibir la asesoría de un especialista.</p>
                 </div>
             </div>
         </section>
-        <h3 class="centrar-texto brexia-color encabezados-brexia font-17">APRENDE MÁS DEL CÁNCER</h3>
+        <div class="font-20 centrar-texto brexia-color maxW-40 ">
+            <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información sobre Otros Tipos de Cáncer </p>
+        </div>
         <div class="centrar-texto">
-            <button class="boton boton-brexia">Información del Cáncer</button>
+            <a href="../Como-tratramos-el-cancer/informacion-del-cancer.php"><button class="boton boton-brexia">Información del Cáncer</button></a>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

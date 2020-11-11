@@ -159,16 +159,16 @@
                 <P>Llámanos: (55) 5523 8959 </P>
             </div>
             <div class="linea-1"> </div>
-            <div>
-                <p class="font-17 centrar-texto brexia-color fontW-700">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ </p>
+            <div class="maxW-40">
+                <p class="font-12 centrar-texto brexia-color fontW-700">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ </p>
             </div>
-            <div class="centrar-texto ">
+            <div class="centrar-texto">
                 <a href="../contacto.php"><button class="boton boton-brexia-footer ">Contacto</button></a>
             </div>
-            <div class="font-20 centrar-texto brexia-color ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más <br> información de como ser paciente en Brexia</p>
+            <div class="font-20 centrar-texto brexia-color maxW-40 ">
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información de como ser paciente en Brexia</p>
             </div>
-            <div class="centrar-texto ">
+            <div class="centrar-texto maxW-40 ">
                 <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 

@@ -314,9 +314,11 @@
                     </article>
                 </div>
             </section>
-            <h3 class="centrar-texto brexia-color encabezados-brexia font-17">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Cáncer de Ovario</h3>
+            <div class="font-20 centrar-texto brexia-color maxW-40 ">
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Ovario</p>
+            </div>
             <div class="centrar-texto">
-                <button class="boton boton-brexia-footer">Regresar al inicio</button>
+            <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
             <?php include_once '../includes/templates/footer.php';?>
