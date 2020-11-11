@@ -30,7 +30,7 @@
                     <div class="ocultar-h1">
                         <h1>¿Cómo tratamos <br> el Cáncer?</h1>
                     </div>
-                    <div>
+                    <div class="tipos-cancer-img">
                         <img src="img/Segunda-opinion.webp" alt="">
                     </div>
                 </div>

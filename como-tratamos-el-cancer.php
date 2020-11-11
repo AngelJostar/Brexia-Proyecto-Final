@@ -30,7 +30,9 @@
                         <h1>¿Cómo tratamos <br> el Cáncer?</h1>
                     </div>
                     <div>
+                    <div class="tipos-cancer-img">
                         <img src="/img/COMO-TRATAMOS-EL-CANCER-mini.webp" alt="">
+                    </div>
                         <div class="tipos-cancer-regresar">
                             <a href="../tipos-de-cancer.php">
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
