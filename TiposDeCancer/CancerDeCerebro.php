@@ -62,7 +62,7 @@
                             <li><a href="#tab2">Síntomas</a></li>
                             <li><a href="#tab3">Factores de Riesgo</a></li>
                         </div>
-                        <div class="right-movil-tab">
+                        <div class="left-movil-tab">
                             <li class="paddingTop-1"><a href="#tab4">Diagnóstico</a></li>
                             <li class="paddingTop-1"><a href="#tab5">Tratamiento</a></li>
                         </div>

@@ -57,7 +57,7 @@
                             <li><a href="#tab1">Cáncer de Vías Biliares</a></li>
                             <li><a href="#tab2">Síntomas</a></li>
                         </div>
-                        <div class="right-movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab3">Diagnostico</a></li>
                             <li><a href="#tab4">Tratamiento</a></li>
                         </div>

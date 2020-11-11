@@ -67,7 +67,7 @@
                             <li><a href="#tab4">Tratamiento</a></li>
                             <li><a href="#tab5">Estadísticas</a></li>
                         </div>
-                        <div class="right-movil-tab">
+                        <div class="left-movil-tab">
                             <li class="paddingTop-1"><a href="#tab6">Síntomas</a></li>
                             <li class="paddingTop-1"><a href="#tab7">Factores de riesgo</a></li>
                             <li class="paddingTop-1"><a href="#tab8">Tipos</a></li>
