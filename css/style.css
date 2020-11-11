@@ -1346,6 +1346,12 @@ ul.tabs li a:focus {
     .tabs-desktop {
         display: none;
     }
+    .left-movil-tab li {
+        padding-left: 20%;
+    }
+    .right-movil-tab li {
+        padding-right: 20%;
+    }
     .secciones {
         width: 95%;
         margin: 0 auto;

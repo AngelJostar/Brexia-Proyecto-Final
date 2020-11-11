@@ -60,14 +60,14 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cáncer de mama</li>
                             <li><a href="#tab2">Diagnóstico</a></li>
                             <li><a href="#tab3">Detección</a></li>
                             <li><a href="#tab4">Tratamiento</a></li>
                             <li><a href="#tab5">Estadísticas</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li class="paddingTop-1"><a href="#tab6">Síntomas</a></li>
                             <li class="paddingTop-1"><a href="#tab7">Factores de riesgo</a></li>
                             <li class="paddingTop-1"><a href="#tab8">Tipos</a></li>

@@ -54,12 +54,12 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Sarcomas de Tejido Blando</a></li>
                             <li><a href="#tab2">Factores de Riesgo</a></li>
                             <li><a href="#tab3">Síntomas</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab4">Diagnostico</a></li>
                             <li><a href="#tab5">Tratamiento</a></li>
                         </div>

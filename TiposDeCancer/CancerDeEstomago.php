@@ -59,13 +59,13 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cáncer de Estómago</a></li>
                             <li><a href="#tab2">Estadísticas</a></li>
                             <li><a href="#tab3">Factores de Riesgo</a></li>
                             <li><a href="#tab4">Tipos</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab5">Síntomas</a></li>
                             <li><a href="#tab6">Diagnóstico</a></li>
                             <li><a href="#tab7">Estadificación</a></li>
