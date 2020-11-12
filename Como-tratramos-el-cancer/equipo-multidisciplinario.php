@@ -333,7 +333,9 @@
                     </article>
                 </div>
             </section>
-            <h3 class="centrar-texto brexia-color encabezados-brexia font-17">Regresar al inicio de esta pestaña para obtener más información del Equipo Multidisciplinario</h3>
+            <div class="font-20 centrar-texto brexia-color maxW-40 ">
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Mama</p>
+            </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>

@@ -61,7 +61,7 @@
                 <div class="tabs-movil">
                     <ul class="tabs">
                         <div class="right-movil-tab">
-                            <li><a href="#tab1">Cáncer de mama</li>
+                            <li><a href="#tab1">Cáncer de mama</a></li>
                             <li><a href="#tab2">Diagnóstico</a></li>
                             <li><a href="#tab3">Detección</a></li>
                             <li><a href="#tab4">Tratamiento</a></li>

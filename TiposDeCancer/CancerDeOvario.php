@@ -59,8 +59,8 @@
                 <div class="tabs-movil">
                     <ul class="tabs">
                         <div class="right-movil-tab">
-                            <li><a href="#tab1">Cáncer de Ovario</li>
-                                <li><a href="#tab2">Diagnóstico</a></li>
+                            <li><a href="#tab1">Cáncer de Ovario</a></li>
+                            <li><a href="#tab2">Diagnóstico</a></li>
                             <li><a href="#tab3">Tratamiento</a></li>
                             <li><a href="#tab4">Tipos</a></li>
                         </div>
