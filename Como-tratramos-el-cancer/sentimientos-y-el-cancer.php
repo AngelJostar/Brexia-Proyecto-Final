@@ -57,13 +57,13 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Sentimientos</a></li>
                             <li><a href="#tab2">Ansiedad</a></li>
                             <li><a href="#tab3">Depresión</a></li>
                             <li><a href="#tab4">Familia</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab5">Duelo y Perdida</a></li>
                             <li><a href="#tab6">Temor</a></li>
                             <li><a href="#tab7">Apoyo Espiritual</a></li>
@@ -338,7 +338,7 @@
             </section>
             <h3 class="centrar-texto brexia-color encabezados-brexia font-17">Regresar al inicio de esta pestaña para obtener más información del Sentimientos y el Cáncer</h3>
             <div class="centrar-texto">
-                <button class="boton boton-brexia-footer">Regresar al inicio</button>
+            <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
             <?php include_once '../includes/templates/footer.php';?>

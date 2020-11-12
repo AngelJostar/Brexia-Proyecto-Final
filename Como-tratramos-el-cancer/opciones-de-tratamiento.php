@@ -57,13 +57,13 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Cirugía</a></li>
                             <li><a href="#tab2">Radioterapia</a></li>
                             <li><a href="#tab3">Quimioterapia</a></li>
                             <li><a href="#tab4">Terapia Hormonal</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab5">Terapia Dirigida</a></li>
                             <li><a href="#tab6">Inmunoterapia</a></li>
                             <li><a href="#tab7">Efectos Secundarios</a></li>
@@ -388,7 +388,7 @@
             </section>
             <h3 class="centrar-texto brexia-color encabezados-brexia font-17">Regresar al inicio de esta pestaña para obtener más información del Opciones de Tratamiento</h3>
             <div class="centrar-texto">
-                <button class="boton boton-brexia-footer">Regresar al inicio</button>
+            <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
             <?php include_once '../includes/templates/footer.php';?>

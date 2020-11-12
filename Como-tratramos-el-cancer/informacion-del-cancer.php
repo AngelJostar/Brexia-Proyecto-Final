@@ -56,12 +56,12 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">¿Qué es el Cáncer?</a></li>
                             <li><a href="#tab2">Estadísticas</a></li>
                             <li><a href="#tab3">Tipos</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab4">Detección Temprana</a></li>
                             <li><a href="#tab5">Prevención</a></li>
                             <li><a href="#tab6">Factores de Riesgo</a></li>
@@ -272,7 +272,7 @@
             </section>
             <h3 class="centrar-texto brexia-color encabezados-brexia font-17">Regresa al inicio de esta pestaña para obtener más información del Cáncer</h3>
             <div class="centrar-texto">
-                <button class="boton boton-brexia-footer">Regresar al inicio</button>
+            <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
             <?php include_once '../includes/templates/footer.php';?>

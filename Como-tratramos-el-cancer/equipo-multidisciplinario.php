@@ -59,14 +59,14 @@
                 </div>
                 <div class="tabs-movil">
                     <ul class="tabs">
-                        <div class="movil-tab">
+                        <div class="right-movil-tab">
                             <li><a href="#tab1">Enfoque Integral</a></li>
                             <li><a href="#tab2">Equipo Médico</a></li>
                             <li><a href="#tab3">Nutrición</a></li>
                             <li><a href="#tab4">Concierge</a></li>
                             <li><a href="#tab5">Psicología</a></li>
                         </div>
-                        <div class="movil-tab">
+                        <div class="left-movil-tab">
                             <li><a href="#tab6">Cuidados Paliativos</a></li>
                             <li><a href="#tab7">Clínica del Dolor</a></li>
                             <li><a href="#tab8">Rehabilitación</a></li>
@@ -335,7 +335,7 @@
             </section>
             <h3 class="centrar-texto brexia-color encabezados-brexia font-17">Regresar al inicio de esta pestaña para obtener más información del Equipo Multidisciplinario</h3>
             <div class="centrar-texto">
-                <button class="boton boton-brexia-footer">Regresar al inicio</button>
+            <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
             <?php include_once '../includes/templates/footer.php';?>
