@@ -40,6 +40,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="brexia-color centrar-texto aparecer paddingBottom-2">
+                    <h1>Opciones de tratamiento</h1>
+                </div>
             </section>
 
 

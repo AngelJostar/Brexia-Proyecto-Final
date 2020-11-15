@@ -40,6 +40,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="brexia-color centrar-texto aparecer paddingBottom-2">
+                    <h1>Sentimientos y el cáncer</h1>
+                </div>
             </section>
 
 

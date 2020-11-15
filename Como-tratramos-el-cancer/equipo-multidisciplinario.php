@@ -37,8 +37,11 @@
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
                             <a href="../contacto.php">
                             &nbsp; CONTACTANOS >></a>
-                </div>
                     </div>
+                    </div>
+                </div>
+                <div class="brexia-color centrar-texto aparecer paddingBottom-2">
+                    <h1>Equipo Multidisciplinario</h1>
                 </div>
             </section>
 

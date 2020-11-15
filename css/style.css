@@ -129,10 +129,12 @@ h4 {
     position: fixed;
     text-align: center;
     word-wrap: break-word;
+    text-decoration: none;
 }
 
 .top-header p {
     font-size: 14.5px;
+    text-decoration: none;
     font-weight: bold;
     text-align: center;
     color: white;
@@ -1361,6 +1363,9 @@ ul.tabs li a:focus {
         max-width: 100%;
         margin: 2px auto;
     }
+    .aparecer {
+        padding-top: 20px;
+    }
 }
 
 @media screen and (min-width: 886px) {
@@ -1368,6 +1373,9 @@ ul.tabs li a:focus {
         display: none;
     }
     .mostrar-text {
+        display: none;
+    }
+    .aparecer {
         display: none;
     }
 }
@@ -1558,4 +1566,9 @@ div.youtube-play:hover {
 
 section h1 {
     margin: 0 auto;
+}
+
+a[href^=tel] {
+    color: inherit;
+    text-decoration: none;
 }

@@ -40,7 +40,9 @@
                             &nbsp; CONTACTANOS >></a>
                         </div>
                     </div>
-
+                </div>
+                <div class="brexia-color centrar-texto aparecer">
+                    <h1>¿Cómo tratamos <br> el Cáncer?</h1>
                 </div>
             </section>
 

@@ -5,6 +5,7 @@
 <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
     <title>contacto</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
@@ -13,7 +14,7 @@
 
 <body>
     <div id="top-header" class="top-header ">
-        <p>Llámanos, estamos disponibles: (55) 5523 8959</p>
+        <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
     <!--####HEADER####-->
     <section id="site-wrapper">
@@ -32,7 +33,7 @@
                     </p>
                     <div class="linea-c"></div>
                     <div class="centrar-texto llama-tel">
-                        <p>Llámanos: (55) 5523 8959</p>
+                        <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
                     </div>
                     <div class="linea-c"></div>
                     <p>Contáctanos para que podamos ayudarte a vencer el cáncer. Estamos disponibles para ti por teléfono, mail, whatsapp o redes sociales.
@@ -65,7 +66,6 @@
                         <p>
                             ¿Cómo llegar? <br>
                         </p>
-                        Waze <br> Map-marker-alt <br>
                     </div>
 
                     <div class="widget">

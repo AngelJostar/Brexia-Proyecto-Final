@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header">
-                <a href="index.php"><img src="/img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
+                <a href="../index.php"><img src="/img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
             </div>
             <div class="mid-font">
                 <p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
