@@ -554,7 +554,11 @@ h4 {
         margin-left: 23px;
     }
     .top-header p {
-        font-size: 10px;
+        font-size: 12px;
+    }
+    .top-header {
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
     }
 }
 
