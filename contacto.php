@@ -50,13 +50,13 @@
                     <div class="centrar-texto">
                         <p>
                             Horarios de atención: <br> Lunes a Viernes de 8:00 – 19:00 <br> Sábados de 8:00 a 13:00 <br>
-                        </p>
-                        <p class="paddingTop-3 paddingBottom-3">
-                            Tel: (55) 5523 8959 <br>
-                        </p>
-                        <p class="paddingBottom-3">
-                            WhatsApp: 55 5135 8125 <br>
-                        </p>
+                        </p>    
+                        <div class="centrar-texto llama-tel">
+                        <a href="tel:+5555238959"><p>Tel: (55) 5523 8959</p></a>
+                        </div>
+                        <div class="centrar-texto llama-tel">
+                        <a href="tel:+5555238959"><p>WhatsApp:  55 5135 8125</p></a>
+                    </div>
                         <p class="paddingBottom-3">
                             Correo: contacto@brexia.mx <br>
                         </p>
