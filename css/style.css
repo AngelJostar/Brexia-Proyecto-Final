@@ -850,12 +850,10 @@ a.scrollup i:hover {
     }
     .contacto-imagen {
         max-width: 100% !important;
-        display: flex;
         margin: 0 auto;
     }
     .contacto-imagen img {
         max-width: 100% !important;
-        display: flex;
         margin: 0 auto;
     }
     .contenedor-3 {
@@ -974,7 +972,6 @@ a.scrollup i:hover {
 
 .contacto-imagen {
     max-width: 50%;
-    display: flex;
     margin: 0 auto;
 }
 
