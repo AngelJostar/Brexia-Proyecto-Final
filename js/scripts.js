@@ -77,4 +77,10 @@ $(document).ready(function() {
         this.parentNode.replaceChild(iframe, this);
     }
 
+    (function() {
+        setTimeout(function() {
+            $('#ventana-modal').modal()
+        }, 5000);
+    }());
+
 });

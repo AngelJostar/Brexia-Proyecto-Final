@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <title>Cancer de mama</title>
-
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" rel="preload" href="../css/normalize.css">
     <link rel="stylesheet" rel="preload" href="../css/style.css">
 
@@ -412,13 +412,47 @@
     <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
     <!--####FOOTER####-->
 
+    <div id="ventana-modal" class="modal">
+        <div class="modal-contenido">
+
+            <div class="header-imagen">
+                <img src="img/doctores.jpg" alt="Imagen Brexia">
+            </div>
+            <div class="tipo-letra centrar-texto texto-principal">
+                <p><strong>¿Quieres curar tu</strong></p>
+                <p><strong>cáncer de hígado?</strong></p>
+            </div>
+            <div class="tipo-letra centrar-texto texto-abajo">
+                <P style="font-size: 14px; font-weight: 400; line-height: 6px; padding-top: 5px;">Llámanos, y un especialista en <strong>Cáncer de hígado</strong> </P>
+                <p style="font-size: 14px; font-weight: 400; line-height: 6px; padding-bottom: 5px;">te dará un tratamiento para <strong>curar tu cáncer.</strong> </p>
+                <a href="contacto.html" class="boton boton-vino">Contáctanos</a>
+                <div class="boton-no">
+                    <a style="padding-bottom: 20px;" type="button" class="btn waves-effect" data-dismiss="modal">No, gracias</a>
+                </div>
+                <p> </p>
+                <p> </p>
+                <p style="line-height: 5px; color:#6c757d;">Se parte de los + 1000 pacientes</p>
+                <p style="line-height: 5px; color: #6c757d;">Que han logrado vencer el cáncer.</p>
+                <p style="line-height: 5px; color: #6c757d;">gracias a los especialistas de Brexia</p>
+                <p style="line-height: 55px; color: #6c757d;">Tu salud es primero, el cáncer no espera</p>
+
+                <a style="font-size: 10px; color: black; letter-spacing:10px; text-decoration: none;" type="button" class=" waves-effect" data-dismiss="modal">CERRAR</a>
+            </div>
+        </div>
+
+    </div>
+
 
 
     <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
     <script src="../js/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
     <!-- ### EDITABLE JS/JQUERY INCLUDE ### -->
     <script src="../js/scripts.js "></script>
 
