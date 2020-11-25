@@ -1214,6 +1214,9 @@ a.scrollup i:hover {
 .paddingBottom-2 {
     padding-bottom: 20px;
 }
+.paddingBottom-1 {
+    padding-bottom: 10px;
+}
 
 .centrar-texto {
     text-align: center;
@@ -1580,26 +1583,26 @@ a[href^=tel] {
 @media (max-width: 768px) {
     .modal-contenido {
         background-color: white;
-        width: 100px;
+        width: 80px;
         height: 300px;
         padding: none;
         margin: 20% auto;
         position: relative;
         bottom: 0;
         top: 50px;
-        font-family: 'Heebo', sans-serif;
+
     }
 }
 
 .modal-contenido {
     background-color: white;
-    width: 350px;
-    height: 520px;
+    width: 300px;
+    height: 510px;
     padding: none;
     margin: 20% auto;
     position: relative;
     bottom: 190px;
-    font-family: 'Heebo', sans-serif;
+    
 }
 
 .modal {
@@ -1611,25 +1614,24 @@ a[href^=tel] {
     left: 0;
 }
 
-.tipo-letra {
-    font-family: 'Heebo', sans-serif;
-    padding: .3em;
-}
-
-.texto-principal {
-    font-size: 2.6rem;
-    color: #914568;
-    line-height: 3rem;
-}
-
-.texto-secundario {
+.texto-principal p {
     font-size: 2rem;
-    line-height: 1.5625rem;
+    font-weight: 700;
+    color: #914568;
+    line-height: 2rem;
 }
 
-.texto-abajo {
-    font-size: 1.2rem;
-    line-height: 15px;
+.texto-secundario p{
+    font-size: 14px; 
+    font-weight: 400; 
+    line-height: 10px; 
+}
+
+.texto-secundario-2 p{
+    font-size: 14px; 
+    font-weight: 400; 
+    line-height: 10px; 
+    color:#6c757d;
 }
 
 .boton-vino {
@@ -1637,10 +1639,10 @@ a[href^=tel] {
     font-weight: 700;
     text-decoration: none;
     font-size: 20px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-left: 112px;
-    padding-right: 112px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 50px;
+    padding-right: 50px;
     margin-top: 8px;
     margin-bottom: 5px;
     display: inline-block;
@@ -1649,6 +1651,9 @@ a[href^=tel] {
     background-color: #914568;
 }
 
+.boton-vino:hover {
+color: white;
+}
 .imagen-brexia {
     width: 80px;
     height: 150px;
