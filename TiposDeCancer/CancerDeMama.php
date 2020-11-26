@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
@@ -48,7 +48,7 @@
             <section class="wrap">
                 <div class="tabs-desktop">
                     <ul class="tabs">
-                        <li><a href="#tab1">Cáncer de mama</li>
+                        <li><a href="#tab1">Cáncer de mama</a></li>
                         <li><a href="#tab2">Diagnóstico</a></li>
                         <li><a href="#tab3">Detección</a></li>
                         <li><a href="#tab4">Tratamiento</a></li>
