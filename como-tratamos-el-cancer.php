@@ -35,8 +35,8 @@
                         <img src="/img/COMO-TRATAMOS-EL-CANCER-mini.webp" alt="">
                     </div>
                         <div class="tipos-cancer-regresar">
-                            <a href="../tipos-de-cancer.php">
-                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
+                            <a href="../index.php">
+                            &nbsp; << INICIO</a>
                             <a href="../contacto.php">
                             &nbsp; CONTACTANOS >></a>
                         </div>

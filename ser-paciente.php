@@ -27,8 +27,8 @@
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
                 <div class="tipos-cancer-regresar">
-                    <a href="../tipos-de-cancer.php">
-                            &nbsp; << OTROS TIPOS DE CÁNCER</a>
+                    <a href="../index.php">
+                            &nbsp; << INICIO</a>
                     <a href="../contacto.php">
                             &nbsp; CONTACTANOS >></a>
                 </div>
