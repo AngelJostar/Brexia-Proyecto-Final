@@ -112,12 +112,12 @@
                         </div>
                     </article>
                     <article id="tab3">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Síntomas de los Sarcomas Óseos</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia">Síntomas de los Sarcomas Óseos</h2>
                         <div class="font-16 fontW-400">
                             <p> Los tumores pueden ocurrir en cualquier hueso del cuerpo. El cáncer de hueso, también conocido como osteosarcoma, ocurre con mayor frecuencia en los huesos largos de los brazos y las piernas. Muchos síntomas de cáncer de hueso también pueden ser causados
                             ​​por afecciones como artritis, osteoporosis o lesiones. Si experimenta uno o más de estos síntomas, debe discutirlos con su médico para identificar la causa y recibir el tratamiento correcto, si es necesario.</p>
                             <div class="imagen-80 centrar-imagen">
-                                <img src="/img/sarcomas-oseos/Síntomas_-Sarcomas_Óseos-768x512.webp" alt="Cancer de prostata">
+                                <img src="/img/sarcomas-oseos/Sintomas-Sarcomas.webp" alt="Cancer de prostata">
                             </div>
                             <p>Los posibles síntomas de cáncer de hueso incluyen:</p>
                             <p>Dolor óseo: el dolor es el signo más común de cáncer de hueso y puede volverse más notorio a medida que el tumor crece. El dolor óseo puede causar un dolor sordo o profundo en un hueso o región ósea (por ejemplo, espalda, pelvis,
