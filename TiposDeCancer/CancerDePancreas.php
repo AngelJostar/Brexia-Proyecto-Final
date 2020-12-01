@@ -151,7 +151,7 @@
                         </div>
                     </article>
                     <article id="tab3">
-
+                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Tratamiento de Cáncer de Páncreas</h2>
                         <div class="font-16 fontW-400">
                             <p>Las opciones de tratamiento del cáncer de páncreas varían ampliamente dependiendo de varios factores, incluyendo la etapa, el tipo y la progresión de la enfermedad. En Brexia nuestros expertos en cáncer están capacitados y
                                 tienen experiencia en los tratamientos disponibles, y se mantienen actualizados sobre las opciones y tecnologías nuevas y emergentes. Las opciones más comunes para tratar cáncer de páncreas son:</p>

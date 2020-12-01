@@ -114,9 +114,9 @@
                     <article id="tab3">
                         <h2 class="centrar-texto brexia-color encabezados-brexia ">Síntomas de los Sarcomas Óseos</h2>
                         <div class="font-16 fontW-400">
-                            pLos tumores pueden ocurrir en cualquier hueso del cuerpo. El cáncer de hueso, también conocido como osteosarcoma, ocurre con mayor frecuencia en los huesos largos de los brazos y las piernas. Muchos síntomas de cáncer de hueso también pueden ser causados
-                            ​​por afecciones como artritis, osteoporosis o lesiones. Si experimenta uno o más de estos síntomas, debe discutirlos con su médico para identificar la causa y recibir el tratamiento correcto, si es necesario.
-                            <div class="imagen-80 centrar-imagen .">
+                            <p> Los tumores pueden ocurrir en cualquier hueso del cuerpo. El cáncer de hueso, también conocido como osteosarcoma, ocurre con mayor frecuencia en los huesos largos de los brazos y las piernas. Muchos síntomas de cáncer de hueso también pueden ser causados
+                            ​​por afecciones como artritis, osteoporosis o lesiones. Si experimenta uno o más de estos síntomas, debe discutirlos con su médico para identificar la causa y recibir el tratamiento correcto, si es necesario.</p>
+                            <div class="imagen-80 centrar-imagen">
                                 <img src="/img/sarcomas-oseos/Síntomas_-Sarcomas_Óseos-768x512.webp" alt="Cancer de prostata">
                             </div>
                             <p>Los posibles síntomas de cáncer de hueso incluyen:</p>
@@ -128,7 +128,6 @@
                             <p>Disminución de la movilidad: en algunos casos, si la ubicación del tumor está cerca de una articulación, puede hacer que los movimientos normales sean difíciles o dolorosos.</p>
                             <p>Otros síntomas: la pérdida involuntaria de peso y la fatiga que acompaña al dolor óseo pueden ser un signo de cáncer de hueso. Otros síntomas, como dificultad para respirar, pueden desarrollarse si el cáncer se ha diseminado
                                 a otros órganos, como los pulmones.</p>
-
                         </div>
                     </article>
                     <article id="tab4">

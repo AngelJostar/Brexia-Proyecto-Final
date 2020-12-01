@@ -47,7 +47,7 @@
             <section class="wrap">
                 <div class="tabs-desktop">
                     <ul class="tabs">
-                        <li><a href="#tab1">Cáncer de Cerebro</a></li>
+                        <li><a href="#tab1">Cáncer de Endometrio</a></li>
                         <li><a href="#tab2">Factores de Riesgo</a></li>
                         <li><a href="#tab3">Estadísticas</a></li>
                         <li><a href="#tab4">Síntomas</a></li>
@@ -58,7 +58,7 @@
                 <div class="tabs-movil">
                     <ul class="tabs">
                         <div class="right-movil-tab">
-                            <li><a href="#tab1">Cáncer de Cerebro</a></li>
+                            <li><a href="#tab1">Cáncer de Endometrio</a></li>
                             <li><a href="#tab2">Factores de Riesgo</a></li>
                             <li><a href="#tab3">Estadísticas</a></li>
                         </div>

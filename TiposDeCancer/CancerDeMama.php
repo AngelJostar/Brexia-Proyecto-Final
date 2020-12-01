@@ -334,7 +334,7 @@
                             </div>
                         </div>
                     </article>
-                    <article id="tab8">
+                    <article id="tab9">
                         <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadificación del Cáncer de Mama</h2>
                         <div class="font-16 fontW-400">
                             <p>Si se diagnostica cáncer de mama, se hacen otras pruebas para averiguar si las células cancerosas se han diseminado dentro de la mama o a otras partes del cuerpo. Este proceso se llama estadificación.</p>

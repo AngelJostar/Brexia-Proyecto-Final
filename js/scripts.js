@@ -80,7 +80,7 @@ $(document).ready(function() {
     (function() {
         setTimeout(function() {
             $('#ventana-modal').modal()
-        }, 5000);
+        }, 60000);
     }());
 
 });
