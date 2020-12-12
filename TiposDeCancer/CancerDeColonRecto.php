@@ -41,8 +41,15 @@
                     <a href="../contacto.php">
                             &nbsp; CONTACTANOS >></a>
                 </div>
-
             </section>
+
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Colon y Recto</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="n5V1myxdTHA"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Colon y Recto</h2>
+            </div>
 
 
             <section class="wrap">
@@ -75,10 +82,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Colon y Recto</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="n5V1myxdTHA"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Colon y Recto?</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Colon y Recto?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de colon y recto un tipo de cáncer que se origina en el colon o en el recto. Algunas veces se le llama simplemente cáncer del colon. El colon es una porción del intestino grueso. El recto es el canal que conecta el
                                 colon con el ano. En ocasiones existen crecimientos de tejido anómalo o también lamados pólipos, se forman en el colon o el recto. Con el tiempo, algunos pólipos pueden convertirse en cáncer.</p>

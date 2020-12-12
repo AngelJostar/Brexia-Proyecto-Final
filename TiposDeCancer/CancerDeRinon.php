@@ -44,6 +44,14 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Riñon</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="hCB1cIjktBM"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Riñon</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -77,10 +85,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Riñon</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="hCB1cIjktBM"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Riñón?</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Riñon?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de riñón es una enfermedad que comienza en los riñones. Se produce cuando las células renales de uno o ambos riñones se vuelven cancerosas y luego crecen fuera de control y forman un bulto (llamado “tumor”). El carcinoma
                                 de células renales (RCC) es el tipo más común de cáncer de riñón en los adultos. En general, el RCC comienza en los revestimientos de los pequeños conductos del riñón, llamados túbulos renales. Con frecuencia, el RCC permanece

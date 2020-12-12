@@ -1171,6 +1171,10 @@ a.scrollup i:hover {
     font-weight: 700 !important;
 }
 
+.fontW-800 {
+    font-weight: 800 !important;
+}
+
 .fontW-900 {
     font-weight: 900 !important;
 }
@@ -1214,6 +1218,7 @@ a.scrollup i:hover {
 .paddingBottom-2 {
     padding-bottom: 20px;
 }
+
 .paddingBottom-1 {
     padding-bottom: 10px;
 }
@@ -1590,7 +1595,6 @@ a[href^=tel] {
         position: relative;
         bottom: 0;
         top: 50px;
-
     }
 }
 
@@ -1602,7 +1606,6 @@ a[href^=tel] {
     margin: 20% auto;
     position: relative;
     bottom: 190px;
-    
 }
 
 .modal {
@@ -1621,17 +1624,17 @@ a[href^=tel] {
     line-height: 2rem;
 }
 
-.texto-secundario p{
-    font-size: 14px; 
-    font-weight: 400; 
-    line-height: 10px; 
+.texto-secundario p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 10px;
 }
 
-.texto-secundario-2 p{
-    font-size: 14px; 
-    font-weight: 400; 
-    line-height: 10px; 
-    color:#6c757d;
+.texto-secundario-2 p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 10px;
+    color: #6c757d;
 }
 
 .boton-vino {
@@ -1652,8 +1655,9 @@ a[href^=tel] {
 }
 
 .boton-vino:hover {
-color: white;
+    color: white;
 }
+
 .imagen-brexia {
     width: 80px;
     height: 150px;

@@ -29,7 +29,7 @@
         <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Higado</h1>
+                        <h1>Cáncer de Hígado</h1>
                     </div>
                     <div class="tipos-cancer-img">
                         <img src="/img/Doctores.webp" alt="">
@@ -43,6 +43,14 @@
                 </div>
 
             </section>
+
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Hígado</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="A4LuRItoDPQ"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Hígado</h2>
+            </div>
 
 
             <section class="wrap">
@@ -69,10 +77,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Hígado</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="A4LuRItoDPQ"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Hígado?</h2>
+                        <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Hígado?</h2>
                         <div class="font-16 fontW-400">
                             <p>El ​cáncer de hígado es un ​tumor que se origina en el tejido del ​hígado (tejido hepático). Dependiendo del tipo de célula cancerosa, existen diversos tipos de ​cáncer de hígado​. El tipo más frecuente es el carcinoma hepatocelular,
                                 que constituye el 90 % de todos los cánceres de hígado; comienza en los hepatocitos, las células más importantes del hígado.</p>

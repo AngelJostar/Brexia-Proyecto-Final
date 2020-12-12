@@ -42,6 +42,14 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Testículo</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="p8gU7zv3GvU"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Testículo</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -71,10 +79,19 @@
                     </ul>
                 </div>
 
+                
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Testículo</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="p8gU7zv3GvU"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Testículo?</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Testículo?</h2>
                         <div class="font-16 fontW-400">
                             <p>El ​cáncer de testículo se forma en las células de los ​testículos​. La mayoría comienza en las células que producen esperma y se conocen como tumores de células germinales. El cáncer de testículo ​afecta principalmente a hombres
                                 de entre 15 y 40 años.

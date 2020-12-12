@@ -92,9 +92,9 @@
                 <p>NOMBRE *</p>
                 <input type="text" name="nombre" placeholder="Nombre" required>
                 <p>CORREO *</p>
-                <input type="text" name="correo" placeholder="Correo" required>
+                <input type="email" name="correo" placeholder="Correo" required>
                 <p>TELÉFONO</p>
-                <input type="text" name="telefono" placeholder="Teléfono">
+                <input type="tel" name="telefono" placeholder="Teléfono" required>
                 <p>ASUNTO</p>
                 <input type="text" name="asunto" placeholder="Asunto">
                 <p>MENSAJE</p>

@@ -41,9 +41,15 @@
                     <a href="../contacto.php">
                             &nbsp; CONTACTANOS >></a>
                 </div>
-
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Estomago</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="j8Mj1XgzOjY"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Estomago</h2>
+            </div>
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -75,10 +81,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Estomago</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="j8Mj1XgzOjY"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el cáncer de estómago?</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Estomago?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de estómago es un tipo de cáncer que se forma en los tejidos que revisten el estómago. La mayoría comienza en las células de la capa interna del estómago (la mucosa), que suele elaborar y secretar moco y otros líquidos.
                                 Estos tipos de cáncer se llaman adenocarcinomas y representan el 90% de los casos de cáncer de estómago.</p>

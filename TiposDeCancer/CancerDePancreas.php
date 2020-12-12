@@ -44,6 +44,14 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Pancreas</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="SwuFZ1PAtW4"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Pancreas</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -75,10 +83,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Pancreas</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="SwuFZ1PAtW4"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Cáncer de Páncreas</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Pancreas?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de páncreas es una enfermedad en la cual aparecen células anómalas en los tejidos del páncreas, un órgano situado detrás del estómago en el abdomen, que produce enzimas digestivas e insulina. El páncreas se compone
                                 de dos tipos diferentes de tejido, con funciones diferentes: el páncreas exocrino (que segrega enzimas al tubo digestivo que contribuyen a descomponer las grasas y proteínas) y el páncreas endocrino (que segrega glucagón

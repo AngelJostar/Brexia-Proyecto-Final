@@ -44,6 +44,14 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Ovario</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="MTbYqshz_0g"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Ovario</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -75,10 +83,19 @@
                     </ul>
                 </div>
 
+                
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Ovario</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="MTbYqshz_0g"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el cáncer de ovario?</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Ovario?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de ovario se forma a partir de las células en los ovarios o las trompas de Falopio que han crecido anormalmente y se han multiplicado para formar una protuberancia o tumor.</p>
                             <p>El cáncer epitelial de ovario es un tipo de cáncer de ovario que se diferencia del cáncer no epitelial de ovario en el aspecto que presentan las células tumorales cuando se las observa bajo un microscopio. Esta observación

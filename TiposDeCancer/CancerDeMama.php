@@ -44,6 +44,14 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Mama</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="R-g4ABSG0Qs"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Mama</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -77,10 +85,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Mama</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="R-g4ABSG0Qs"></div>
+                    </div>
+                </div>
+
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Mama?</h2>
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Mama?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de mama es una enfermedad en la cual las células de la mama se multiplican sin control. Existen distintos tipos de cáncer de mama. El tipo de cáncer de mama depende de qué células de la mama se vuelven cancerosas.</p>
                             <p>El cáncer de mama puede comenzar en distintas partes de la mama. Las mamas constan de tres partes principales: lobulillos, conductos y tejido conectivo. Los lobulillos son las glándulas que producen leche. Los conductos son

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
@@ -16,7 +16,9 @@
 <body>
 
     <div id="top-header" class="top-header ">
-         <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
+        <a href="tel:+5555238959">
+            <p>Llámanos: (55) 5523 8959</p>
+        </a>
     </div>
 
     <!--####HEADER####-->
@@ -43,6 +45,13 @@
                 </div>
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer Cervicouterino</h2>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="hrToSH081Sc"></div>
+                </div>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer Cervicouterino</h2>
+            </div>
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -74,10 +83,18 @@
                     </ul>
                 </div>
 
+                <div class="secciones ocultar-text">
+                    <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer Cervicouterino</h2>
+
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="hrToSH081Sc"></div>
+                    </div>
+                </div>
+                
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Cáncer Cervicouterino</h2>
+                        <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer Cervicouterino?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de cuello uterino (cervicouterino) se forma en los tejidos del cuello uterino y casi siempre es causado por la infección por el virus del papiloma humano (VPH). Existen vacunas contra el VPH que proporcionan protección
                                 contra la infección por el VPH y disminuyen la incidencia de anormalidades cervicales de alto grado. <br> <br> En sus etapas tempranas, el cáncer cervicouterino a menudo no presenta síntomas y es más probable que se detecte
@@ -380,7 +397,7 @@
                 <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer Cervicouterino</p>
             </div>
             <div class="centrar-texto">
-            <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
+                <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
             <?php include_once '../includes/templates/footer.php';?>
@@ -397,8 +414,8 @@
     <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
     <!--####FOOTER####-->
 
-<!--Esta es la parte para el pop-up-->
-<div id="ventana-modal" class="modal">
+    <!--Esta es la parte para el pop-up-->
+    <div id="ventana-modal" class="modal">
         <div class="modal-contenido">
 
             <div class="header-imagen">
@@ -409,21 +426,21 @@
                 <p><strong>Cáncer Cervicouterino?</strong></p>
             </div>
             <div class="centrar-texto">
-                <div  class="texto-secundario">
+                <div class="texto-secundario">
                     <P>Llámanos y un especialista en <strong>Cáncer</strong>
-                    <P> <strong>Cervicouterino</strong> te dará un tratamiento</P>
-                    <p>para <strong>curar tu cáncer.</strong> </p>
+                        <P> <strong>Cervicouterino</strong> te dará un tratamiento</P>
+                        <p>para <strong>curar tu cáncer.</strong> </p>
                 </div>
-                <a href="../contacto.php" class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
+                <a href="../contacto.php" class="boton-vino" style="text-decoration:none;">Contáctanos</a>
                 <div class="boton-no">
                     <a style="padding-bottom: 20px;" type="button" class="btn waves-effect" data-dismiss="modal">No, gracias</a>
                 </div>
-                <div  class="texto-secundario-2">
+                <div class="texto-secundario-2">
                     <p>Se parte de los + 1000 pacientes</p>
                     <p>que han logrado vencer el cáncer</p>
                     <p>gracias a los especialistas de Brexia.</p>
                 </div>
-                <div  class="texto-secundario-2 paddingTop-2 paddingBottom-2">
+                <div class="texto-secundario-2 paddingTop-2 paddingBottom-2">
                     <p>Tu salud es primero, el cáncer no espera.</p>
                 </div>
                 <a style="font-size: 10px; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;" type="button" class=" waves-effect" data-dismiss="modal">CERRAR</a>
