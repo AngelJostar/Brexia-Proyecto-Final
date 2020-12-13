@@ -98,11 +98,12 @@
                     <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Ovario?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de ovario se forma a partir de las células en los ovarios o las trompas de Falopio que han crecido anormalmente y se han multiplicado para formar una protuberancia o tumor.</p>
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-OVARIOS.webp" alt="Brexia_especialistas">
+                            </div>
                             <p>El cáncer epitelial de ovario es un tipo de cáncer de ovario que se diferencia del cáncer no epitelial de ovario en el aspecto que presentan las células tumorales cuando se las observa bajo un microscopio. Esta observación
                                 también muestra en qué tipo de tejido se originó el cáncer.</p>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-ovario/Cancer_de_ovario-768x512.webp" alt="Brexia_especialistas">
-                            </div>
+                            
                             <p>Los cuatro tipos principales de cáncer epitelial de ovario son el carcinoma seroso, el mucinoso, el endometrioide, y los cánceres de células claras. Se diagnostican de la misma forma, pero pueden ser tratados de formas diferentes.</p>
                             <p>El cáncer de ovario es el séptimo cáncer más común en las mujeres de todo el mundo y afecta principalmente a las mujeres mayores, posmenopáusicas, de más de 50 años.</p>
                         </div>

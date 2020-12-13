@@ -99,15 +99,15 @@
                     <article id="tab1">
                     <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Pulmón?</h2>
                         <div class="font-16 fontW-400">
-                            <p>El cáncer es una enfermedad en la cual las células del cuerpo comienzan a multiplicarse sin control. Si el cáncer se origina en el pulmón, se denomina cáncer de pulmón.
-                            </p>
+                            <p>El cáncer es una enfermedad en la cual las células del cuerpo comienzan a multiplicarse sin control. Si el cáncer se origina en el pulmón, se denomina cáncer de pulmón. </p>
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-PULMON.webp" alt="Brexia_especialistas">
+                            </div>
                             <P>
                                 El cáncer de pulmón comienza en los pulmones y se puede diseminar a los ganglios linfáticos o a otros órganos del cuerpo, como el cerebro. A su vez, el cáncer originado en otros órganos se puede diseminar a los pulmones. Cuando las células cancerosas
                                 se diseminan de un órgano a otro, se le llama metástasis.
                             </P>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-pulmon/Contenido-Pulmon-768x512.webp" alt="Cancer de prostata">
-                            </div>
+                            
                             <p>
                                 Los cánceres de pulmón por lo general se agrupan en dos tipos principales, de células pequeñas y de células no pequeñas. Estos tipos de cáncer crecen de manera distinta y requieren distintos tratamientos. El cáncer de pulmón de células no pequeñas es
                                 más frecuente que el cáncer de pulmón de células pequeñas.

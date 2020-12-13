@@ -96,12 +96,15 @@
                         <div class="font-16 fontW-400">
                             <p>El cáncer de estómago es un tipo de cáncer que se forma en los tejidos que revisten el estómago. La mayoría comienza en las células de la capa interna del estómago (la mucosa), que suele elaborar y secretar moco y otros líquidos.
                                 Estos tipos de cáncer se llaman adenocarcinomas y representan el 90% de los casos de cáncer de estómago.</p>
+
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-ESTOMAGO.webp" alt="Brexia_especialistas">
+                            </div>
+
                             <p>El estómago es un órgano con forma de “J” ubicado en la parte superior del abdomen. Es parte del aparato digestivo, que procesa los nutrientes (vitaminas, minerales, carbohidratos, grasas, proteínas y agua) de los alimentos
                                 y ayuda a eliminar los materiales de desecho del cuerpo. Los alimentos pasan de la garganta al estómago a través de un tubo muscular y hueco que se llama esófago. Después de salir del estómago, los alimentos parcialmente
                                 digeridos pasan al intestino delgado y luego, al intestino grueso.</p>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-estomago/Cancer_de_estomago_1-768x512.webp" alt="Brexia_especialistas">
-                            </div>
+                            
                             <p>La pared del estómago se compone de cinco capas de tejido. De la capa más interna a la más externa, las capas de la pared del estómago son las siguientes: mucosa, submucosa, músculo, subserosa (tejido conjuntivo) y serosa.
                                 El cáncer de estómago comienza en la mucosa y a medida que crece se disemina a las otras capas del estómago.</p>
                             <p>Los tumores de estroma surgen en el tejido conjuntivo que sostiene el estómago y se tratan de manera diferente al cáncer de estómago.</p>

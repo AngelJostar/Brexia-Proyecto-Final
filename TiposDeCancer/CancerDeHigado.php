@@ -92,11 +92,14 @@
                         <div class="font-16 fontW-400">
                             <p>El ​cáncer de hígado es un ​tumor que se origina en el tejido del ​hígado (tejido hepático). Dependiendo del tipo de célula cancerosa, existen diversos tipos de ​cáncer de hígado​. El tipo más frecuente es el carcinoma hepatocelular,
                                 que constituye el 90 % de todos los cánceres de hígado; comienza en los hepatocitos, las células más importantes del hígado.</p>
+
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-HIGADO.webp" alt="Brexia_especialistas">
+                            </div>
+
                             <p>Existe un tipo de ​cáncer de hígado raro, que se presenta principalmente en pacientes jóvenes, este es llamado carcinoma fibrolamelar. Esta variante es usualmente bien definida en comparación al carcinoma hepatocelular, que
                                 crece de manera más invasiva. También se caracteriza por una cicatriz central visible en los exámenes de imagenología.</p>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-higado/cancer_de_higado-768x512.webp" alt="Brexia_especialistas">
-                            </div>
+                            
                             <p>El ​hígado es uno de los órganos más grandes del cuerpo. Tiene dos lóbulos y ocupa la sección superior derecha del abdomen adentro de la caja torácica. Las siguientes son tres de las diversas funciones del hígado.</p>
                             <ul class="secciones-enumeradas">
                                 <li>Filtrar sustancias dañinas en la sangre para que puedan ser transportadas desde el cuerpo hasta la materia fecal y la orina.</li>

@@ -104,6 +104,9 @@
                                 menor probabilidad de propagarse. Los tumores de RCC más comunes son: de células claras, cromófobo y papilar. Otros tipos de cáncer de riñón incluyen: carcinoma de células transicionales (TCC), tumor de Wilms (más frecuente
                                 en niños) y sarcoma renal.
                             </p>
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-RIÑONES.webp" alt="Brexia_especialistas">
+                            </div>
                             <P>
                                 El cáncer de riñón se encuentra entre los 10 cánceres más comunes. Sin embargo, muchos síntomas, como sangre en la orina, fatiga o pérdida de peso inexplicable, pueden pasarse por alto o descartarse como efectos secundarios de enfermedades menos graves.
                                 Por eso es importante un diagnóstico preciso y oportuno. Si usted o su ser querido ha recibido un diagnóstico de cáncer de riñón, los expertos en cáncer de Brexia se tomarán el tiempo para desarrollar un plan de tratamiento
@@ -113,9 +116,7 @@
                                 Hay dos riñones, uno a cada lado de la columna vertebral, por encima de la cintura. Los pequeños túbulos de los riñones filtran y limpian la sangre. Estos toman los productos de desecho y producen la orina. La orina pasa de cada riñón a la vejiga a través
                                 de un tubo largo que se llama uréter. La vejiga almacena la orina hasta que pasa a través de la uretra y sale del cuerpo.
                             </P>
-                            <div class="imagen-80 centrar-imagen .">
-                                <img src="/img/cancer-de-riñon/cáncer_de-Riñon-768x512.webp" alt="Cancer de prostata">
-                            </div>
+                            
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Puntos Importantes del Cáncer de Riñón</h2>
                             <ul class="secciones-enumeradas">
                                 <li class="">El cáncer de riñón es una enfermedad por la que se forman células malignas (cancerosas) en los túbulos del riñón.</li>

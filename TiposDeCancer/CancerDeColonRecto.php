@@ -97,11 +97,11 @@
                         <div class="font-16 fontW-400">
                             <p>El cáncer de colon y recto un tipo de cáncer que se origina en el colon o en el recto. Algunas veces se le llama simplemente cáncer del colon. El colon es una porción del intestino grueso. El recto es el canal que conecta el
                                 colon con el ano. En ocasiones existen crecimientos de tejido anómalo o también lamados pólipos, se forman en el colon o el recto. Con el tiempo, algunos pólipos pueden convertirse en cáncer.</p>
+                                <div class="imagen-80 centrar-imagen">
+                                    <img src="/img/Dommie-cancer/Brexia-Canceres-COLÓN-Y-RECTO.webp" alt="Brexia_especialistas">
+                                </div>
                             <p>Las pruebas de detección pueden descubrir pólipos con el fin de que se extirpen antes de que se conviertan en cáncer. De esta manera, se puede prevenir el cáncer de colon y recto. La detección sirve también para encontrar cáncer
                                 de colon y recto en un estadio temprano, cuando el tratamiento es más eficaz.</p>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-colon-y-recto/Cancer_de_colon.webp" alt="Brexia_especialistas">
-                            </div>
                         </div>
                     </article>
                     <article id="tab2">

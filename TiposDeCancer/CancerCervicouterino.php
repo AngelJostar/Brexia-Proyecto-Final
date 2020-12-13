@@ -97,13 +97,15 @@
                         <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer Cervicouterino?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de cuello uterino (cervicouterino) se forma en los tejidos del cuello uterino y casi siempre es causado por la infección por el virus del papiloma humano (VPH). Existen vacunas contra el VPH que proporcionan protección
-                                contra la infección por el VPH y disminuyen la incidencia de anormalidades cervicales de alto grado. <br> <br> En sus etapas tempranas, el cáncer cervicouterino a menudo no presenta síntomas y es más probable que se detecte
-                                a través de pruebas de detección cervical. El cáncer cervicouterino es el cuarto cáncer más común en las mujeres de todo el mundo y afecta principalmente a las mujeres menores de 45 años. <br> <br> El cuello uterino es
-                                el extremo inferior y angosto del útero (el órgano hueco en forma de pera donde crece el feto). El cuello uterino conecta el útero con la vagina (canal del parto).</p>
+                                contra la infección por el VPH y disminuyen la incidencia de anormalidades cervicales de alto grado. </p> 
 
                             <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-cervicouterino/Cancer_Cervicouterino-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-Cervical.webp" alt="Brexia_especialistas">
                             </div>
+
+                            <p>En sus etapas tempranas, el cáncer cervicouterino a menudo no presenta síntomas y es más probable que se detecte
+                                a través de pruebas de detección cervical. El cáncer cervicouterino es el cuarto cáncer más común en las mujeres de todo el mundo y afecta principalmente a las mujeres menores de 45 años.</p>
+                            <p>El cuello uterino es el extremo inferior y angosto del útero (el órgano hueco en forma de pera donde crece el feto). El cuello uterino conecta el útero con la vagina (canal del parto).</p>
                             <p>Por lo general, el cáncer cervicouterino se forma lentamente a lo largo del tiempo. Antes de que este cáncer se forme, las células del cuello uterino pasan por cambios (displasia) hasta que aparecen células anormales en el
                                 tejido del cuello uterino. Con el tiempo, las células anormales se vuelven cancerosas, se multiplican y se diseminan a partes más profundas del cuello uterino y a las áreas que lo rodean. El cáncer cervicouterino es poco
                                 frecuente en las niñas.</p>

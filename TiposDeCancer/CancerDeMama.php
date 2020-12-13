@@ -99,13 +99,13 @@
                     <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-1 paddingBottom-1">¿Qué es el Cáncer de Mama?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de mama es una enfermedad en la cual las células de la mama se multiplican sin control. Existen distintos tipos de cáncer de mama. El tipo de cáncer de mama depende de qué células de la mama se vuelven cancerosas.</p>
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-MAMA.webp" alt="Brexia_especialistas">
+                            </div>
                             <p>El cáncer de mama puede comenzar en distintas partes de la mama. Las mamas constan de tres partes principales: lobulillos, conductos y tejido conectivo. Los lobulillos son las glándulas que producen leche. Los conductos son
                                 los tubos que transportan la leche al pezón. El tejido conectivo (formado por tejido fibroso y adiposo) rodea y sostiene todas las partes de la mama. La mayoría de los cánceres de mama comienzan en los conductos o en los
                                 lobulillos.
                             </p>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-mama/cancer-de-mama-768x512.webp" alt="Brexia_especialistas">
-                            </div>
                             <p>El cáncer de mama puede diseminarse fuera de la mama a través de los vasos sanguíneos y los vasos linfáticos. Cuando el cáncer de mama se disemina a otras partes del cuerpo, se dice que ha hecho metástasis.</p>
                         </div>
                     </article>

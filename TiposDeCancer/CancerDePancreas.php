@@ -100,11 +100,12 @@
                                 de dos tipos diferentes de tejido, con funciones diferentes: el páncreas exocrino (que segrega enzimas al tubo digestivo que contribuyen a descomponer las grasas y proteínas) y el páncreas endocrino (que segrega glucagón
                                 e insulina al flujo sanguíneo para controlar las concentraciones de azúcar en la sangre). En más del 80% de los casos, el cáncer de páncreas aparece en el páncreas exocrino. Alrededor del 75% de todos los casos de cáncer
                                 del páncreas exocrino ocurren en la cabeza o el cuello del páncreas, 15 al 20% en el cuerpo y 5 al 10% en la cola del páncreas.</p>
+                            <div class="imagen-80 centrar-imagen">
+                                <img src="/img/Dommie-cancer/Brexia-Canceres-PANCREAS.webp" alt="Brexia_especialistas">
+                            </div>
                             <p>El páncreas es una glándula de casi seis pulgadas de largo con forma de pera delgada situada de lado. El extremo más ancho del páncreas se llama cabeza, la sección media se llama cuerpo y el extremo delgado se llama cola. El
                                 páncreas se ubica entre el estómago y la columna vertebral.</p>
-                            <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-pancreas/cancer_de_pancreas-768x512.webp" alt="Brexia_especialistas">
-                            </div>
+                            
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Puntos Importantes del Cáncer de Páncreas</h2>
                             <ul class="secciones-enumeradas">
                                 <li>El cáncer de páncreas es una enfermedad por la que se forman células malignas (cancerosas) en los tejidos de páncreas.</li>
