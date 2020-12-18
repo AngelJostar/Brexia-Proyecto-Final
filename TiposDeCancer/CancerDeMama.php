@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -137,7 +137,7 @@
                             <p>Las muestras de la biopsia se envían a un laboratorio para que los expertos las analicen y determinen si las células son cancerosas. Una muestra de biopsia también se analiza para determinar el tipo de células involucradas
                                 en el cáncer de mama, la agresividad (grado) del cáncer, y si las células cancerosas tienen receptores hormonales u otros receptores que puedan influir en las opciones de tratamiento.</p>
                             <p>La American Cancer Society ha elaborado las recomendaciones siguientes para la detección selectiva del cáncer de mama.</p>
-                            <ol class="secciones-enumeradas">{
+                            <ol class="secciones-enumeradas">
                                 <li>Las mamografías deben realizarse anualmente a partir de los 40 años.</li>
                                 <li>Exploración clínica de la mama por parte de un profesional sanitario aproximadamente cada 3 años en las mujeres desde los 20 a los 40 años yanualmente por encima de los 40.</li>
                                 <li>Las mujeres deben practicar una autoevaluación de sus mamas y comunicar cualquier cambio a su médico.</li>
@@ -151,7 +151,7 @@
                             <p>Las pruebas de detección del cáncer de mama pueden ayudar a encontrar el cáncer en sus etapas iniciales, cuando es más fácil de tratar.</p>
                             <p>Las pruebas de detección del cáncer de mama consisten en revisar las mamas de la mujer para detectar el cáncer antes de que aparezcan signos o síntomas de la enfermedad.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/detección-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/deteccion-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Todas las mujeres deben recibir información por parte de su médico especialista acerca de las mejores opciones de pruebas de detección para ellas.</p>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Conozca sus mamas</h2>
@@ -328,25 +328,25 @@
                             <p>La traducción del análisis molecular en la práctica clínica para complementar las características morfológicas e inmunohistoquímicas, analizadas por los patólogos a través del microscopio, es crítica.</p>
                             <p>Los subtipos identificados en función del análisis molecular incluyen:</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS1-768x618.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS1-768x618.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS2-768x574.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS2-768x574.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS-3-768x360.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS-3-768x360.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS-DE-TUMOR-1-768x626.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS-DE-TUMOR-1-768x626.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS-tumor-2-1-768x656.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS-tumor-2-1-768x656.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS-de-tumor-3-768x413.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS-de-tumor-3-768x413.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/Cáncer-de-Mama-TIPOS-de-tumor-4-768x561.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/Cancer-de-Mama-TIPOS-de-tumor-4-768x561.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>

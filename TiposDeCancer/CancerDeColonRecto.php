@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -98,7 +98,7 @@
                             <p>El cáncer de colon y recto un tipo de cáncer que se origina en el colon o en el recto. Algunas veces se le llama simplemente cáncer del colon. El colon es una porción del intestino grueso. El recto es el canal que conecta el
                                 colon con el ano. En ocasiones existen crecimientos de tejido anómalo o también lamados pólipos, se forman en el colon o el recto. Con el tiempo, algunos pólipos pueden convertirse en cáncer.</p>
                                 <div class="imagen-80 centrar-imagen">
-                                    <img src="/img/Dommie-cancer/Brexia-Canceres-COLÓN-Y-RECTO.webp" alt="Brexia_especialistas">
+                                    
                                 </div>
                             <p>Las pruebas de detección pueden descubrir pólipos con el fin de que se extirpen antes de que se conviertan en cáncer. De esta manera, se puede prevenir el cáncer de colon y recto. La detección sirve también para encontrar cáncer
                                 de colon y recto en un estadio temprano, cuando el tratamiento es más eficaz.</p>
@@ -283,7 +283,7 @@
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer Colorrectal</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-colon-y-recto/Estadisticas_generales_cancer_de_colon_5_años-768x181.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-colon-y-recto/Estadisticas_generales_cancer_de_colon_5_anios-768x181.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Casos nuevos vs Defunciones</h2>
                             <div class="imagen-80 centrar-imagen ">

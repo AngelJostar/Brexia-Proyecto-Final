@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -128,11 +128,11 @@
                             <p>Las estadísticas mostradas a continuación provienen de los Estados Unidos ya que por el momento en ​México ​contamos con un subregistro de información. (cáncer.gov).</p>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadísticas Generales</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-01-2-768x570.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-01-2-768x570.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Casos nuevos vs Defunciones</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-01-4-768x570.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-01-4-768x570.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer de Endometrio</h2>
                             <div class="imagen-80 centrar-imagen ">
@@ -140,32 +140,32 @@
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Números de casos por Estadio</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-01-5-768x570.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-01-5-768x570.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">5 años de supervivencia relativa</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-01-6-768x570.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-01-6-768x570.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-01-7-768x570.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-01-7-768x570.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-01-8-768x570.webp" alt="Brexia_especialistas">
-                            </div>
-                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
-                            <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio1-02-1-768x545.webp" alt="Brexia_especialistas">
-                            </div>
-                            <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio-BREXIA-02-768x348.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-01-8-768x570.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio1-02-2-768x545.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio1-02-1-768x545.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-endometrio/Cáncer-de-Endometrio1-03-768x310.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio-BREXIA-02-768x348.webp" alt="Brexia_especialistas">
+                            </div>
+                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
+                            <div class="imagen-80 centrar-imagen ">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio1-02-2-768x545.webp" alt="Brexia_especialistas">
+                            </div>
+                            <div class="imagen-80 centrar-imagen ">
+                                <img src="/img/cancer-de-endometrio/Cancer-de-Endometrio1-03-768x310.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>

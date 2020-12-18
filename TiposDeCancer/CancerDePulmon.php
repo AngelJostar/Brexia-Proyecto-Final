@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -380,7 +380,7 @@
                                 <li>Inmunoterapia</li>
                             </ol>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-pulmon/tratamiento_celulas_pequeñas-cancer_pulmon-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-pulmon/tratamiento_celulas_pequenas-cancer_pulmon-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <ol class="secciones-enumeradas">
                                 <li>Cirugía: Un oncólogo cirujano es un médico que se especializa en el tratamiento del cáncer mediante la cirugía. Un cirujano torácico está especializado en realizar cirugías de cáncer de pulmón. El objetivo de la cirugía

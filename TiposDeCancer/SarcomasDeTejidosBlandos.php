@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -130,7 +130,7 @@
                             <p>Desafortunadamente, los sarcomas pueden ser asintomáticos durante mucho tiempo y los síntomas dependen de la parte del cuerpo que se vea afectada. Puede sospecharse la presencia de sarcomas cuando aparece un bulto en una pierna,
                                 en un brazo o en el tronco.</p>
                             <div class="imagen-80 centrar-imagen .">
-                                <img src="/img/sarcomas-de-tejido-blando/Cáncer-de-Tejido-Blando-768x512.webp" alt="Cancer de prostata">
+                                <img src="/img/sarcomas-de-tejido-blando/Cancer-de-Tejido-Blando-768x512.webp" alt="Cancer de prostata">
                             </div>
                             <p>Lo exámenes radiológicos son obligatorios para determinar el alcance de un sarcoma de tejido blando y para establecer la presencia o ausencia de metástasis distantes.</p>
                             <p>Deberá obtenerse una muestra del tumor (biopsia) para llevar a cabo un análisis en el laboratorio para confirmar el diagnóstico y conocer más detalles sobre el tipo de sarcoma.</p>

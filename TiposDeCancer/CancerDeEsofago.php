@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -95,7 +95,7 @@
                                 </li>
                             </ul>
                             <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-Esofago/Contenido-Cáncer-de-Esófago_2-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Contenido-Cancer-de-Esófago_2-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Puntos Importantes del cáncer de esófago</h2>
                             <ul class="secciones-enumeradas">
@@ -135,43 +135,43 @@
                             <p>Las estadísticas mostradas a continuación provienen de los Estados Unidos ya que por el momento en México contamos con un subregistro de información. (cáncer.gov).</p>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadísticas Generales</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago-768x571.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago-768x571.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Casos nuevos vs Defunciones</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_casos-768x629.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_casos-768x629.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer de Esófago</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/porcentaje_supervivencia_Cáncer-de-Esofago-768x613.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/porcentaje_supervivencia_Cancer-de-Esofago-768x613.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Número de casos por Estudio</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_por_etapa-768x478.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_por_etapa-768x478.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_supervivencia-768x653.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_supervivencia-768x653.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Tipos_de_cancer_Cáncer-de-Esofago-768x548.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Tipos_de_cancer_Cancer-de-Esofago-768x548.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Grafica_Cáncer-de-Esofago-768x854.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Grafica_Cancer-de-Esofago-768x854.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_nuevos_casos-768x575.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_nuevos_casos-768x575.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_datos-768x383.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_datos-768x383.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de muertes por grupo de edad</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_casos_muertes-768x514.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_casos_muertes-768x514.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esofago_cifras-768x309.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_cifras-768x309.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>
@@ -216,7 +216,7 @@
                             <p>El cáncer de esófago no se diagnostica comúnmente hasta que un paciente experimenta síntomas. Si un médico sospecha un tumor esofágico, puede ordenar pruebas de diagnóstico, que incluyen una endoscopia, un ultrasonido endoscópico,
                                 pruebas de imágenes, una biopsia y / o pruebas de laboratorio.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Sintomas_Cáncer_de_Esófago-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Sintomas_Cancer_de_Esofago-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Los factores que pueden aumentar el riesgo de desarrollar cáncer de esófago incluyen la obesidad, el consumo de tabaco y alcohol, así como ciertos trastornos como la enfermedad por reflujo gastroesofágico y el esófago de Barrett,
                                 una afección causada por el reflujo ácido crónico.</p>
@@ -262,7 +262,7 @@
                                     de una lesión sospechosa durante la endoscopia. Por lo tanto, la realización de una ecografía endoscópica resulta especialmente útil antes de la intervención quirúrgica.</li>
                             </ul>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-Esofago/Cáncer-de-Esófago_1-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Cancer-de-Esofago_1-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <ul class="secciones-enumeradas">
                                 <li>Exploración radiológica: Para planificar el tratamiento, los médicos deben realizar algunas exploraciones radiológicas que les ayuden en el diagnóstico y la evaluación de la extensión del tumor. Suele realizarse una exploración

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -100,7 +100,7 @@
                                 Hay dos tipos principales de ​cáncer de testículo​: Seminoma y no seminoma. Los seminomas consisten en un tipo de célula cancerosa, mientras que los no seminomas generalmente involucran una mezcla de tipos de células.
                             </P>
                             <div class="imagen-80 centrar-imagen .">
-                                <img src="/img/cancer-de-testiculos/Contenido-Cáncer-de-Testiculo_0009_Capa-1-768x512.webp" alt="Cancer de prostata">
+                                <img src="/img/cancer-de-testiculos/Contenido-Cancer-de-Testiculo_0009_Capa-1-768x512.webp" alt="Cancer de prostata">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué son los testículos?</h2>
                             <p>Los testículos son dos glándulas en forma de huevo que se encuentran dentro del escroto (bolsa de piel floja que está justo detrás del pene). El cordón espermático mantiene los testículos dentro del escroto, que también contiene
@@ -119,7 +119,7 @@
                             <p>Raza y etnia​. Los hombres caucásicos tienen un riesgo cinco veces mayor de desarrollar cáncer testicular que los hombres negros, y un riesgo tres veces mayor en comparación con los hombres asiáticos o indios americanos. Los
                                 hombres hispanos / latinos tienen un riesgo menor que los hombres caucásicos pero un riesgo mayor que los hombres asiático-estadounidenses.</p>
                             <div class="imagen-80 centrar-imagen .">
-                                <img src="/img/cancer-de-testiculos/Contenido-Cáncer-de-Testiculo_0003_Capa-4-768x512.webp" alt="Cancer de prostata">
+                                <img src="/img/cancer-de-testiculos/Contenido-Cancer-de-Testiculo_0003_Capa-4-768x512.webp" alt="Cancer de prostata">
                             </div>
                             <p>Antecedentes familiares.​ Aproximadamente el 3 por ciento de los casos de cáncer testicular ocurren en familias. Tener un hermano o padre que haya tenido cáncer testicular puede aumentar ligeramente su riesgo de desarrollar
                                 la enfermedad.</p>
@@ -152,40 +152,40 @@
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadísticas Generales</h2>
 
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-3-768x545.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-3-768x545.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Casos nuevos vs Defunciones</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-4-768x545.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-4-768x545.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer de Testículo</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-7-768x544.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-7-768x544.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Número de casos por Estadio</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-6-768x545.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-6-768x545.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-8-768x544.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-8-768x544.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-9-768x544.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-9-768x544.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-10-768x544.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-10-768x544.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Endometrio1-02-11-768x544.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Endometrio1-02-11-768x544.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
                                 <img src="/img/cancer-de-testiculos/unnamed-file-768x544.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de muertes por grupo de edad</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Cáncer-de-Testiculo-06-768x307.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Cancer-de-Testiculo-06-768x307.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>
@@ -197,7 +197,7 @@
                             <p>Algunos ​síntomas ​de un ​tumor​ testicular también están asociados con afecciones no cancerosas. Su ​médico ​puede realizar más pruebas para identificar la causa del bulto u otros ​síntomas​, y para determinar el ​tratamiento
                                 ​correcto, si es necesario.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Contenido-Cáncer-de-Testiculo_0002_Capa-5-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Contenido-Cancer-de-Testiculo_0002_Capa-5-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Los ​síntomas​ comunes de ​cáncer de testículos ​incluyen:</p>
                             <ul class="secciones-enumeradas">
@@ -223,7 +223,7 @@
                                 en hombres de 55 años o más. Sin embargo, ambos tipos de tumores de seminoma pueden ocurrir en todos los grupos de edad.
                             </p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Contenido-Cáncer-de-Testiculo_0000_Capa-6-768x512.webp" alt="cp">
+                                <img src="/img/cancer-de-testiculos/Contenido-Cancer-de-Testiculo_0000_Capa-6-768x512.webp" alt="cp">
                             </div>
                             <p>No seminoma:​ Los tumores no seminoma tienen cuatro subtipos principales: carcinoma embrionario, carcinoma del saco vitelino, coriocarcinoma y teratoma. Estos tumores generalmente ocurren entre la adolescencia y los 40 años.
                                 También tienden a crecer y propagarse más rápidamente que los seminomas.</p>
@@ -237,7 +237,7 @@
                             <p>El ​diagnóstico de ​cáncer testicular generalmente se basa en los resultados de un examen clínico de los testículos, análisis de sangre para verificar los niveles de biomarcadores tumorales específicos (lactato deshidrogenasa],
                                 gonadotropina coriónica humana y alfafetoproteína) así como un ultrasonido de los testículos.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Contenido-Cáncer-de-Testiculo_0005_Capa-3-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Contenido-Cancer-de-Testiculo_0005_Capa-3-768x512.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>
@@ -245,7 +245,7 @@
                         <h2 class="centrar-texto brexia-color encabezados-brexia ">Tratamiento del Cáncer de Testículo</h2>
                         <div class="font-16 fontW-400">
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-testiculos/Contenido-Cáncer-de-Testiculo_0007_Capa-2-1024x683.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-testiculos/Contenido-Cancer-de-Testiculo_0007_Capa-2-1024x683.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Las opciones de ​tratamiento varían ampliamente dependiendo de varios factores, incluyendo la etapa, el tipo y la progresión de la enfermedad. Nuestros expertos en ​cáncer están capacitados y tienen experiencia en los tratamientos
                                 disponibles, y se mantienen actualizados sobre las opciones y tecnologías nuevas y emergentes. Las opciones más comunes para tratar ​cáncer de testículo ​se menciona a continuación.</p>

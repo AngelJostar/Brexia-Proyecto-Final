@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -164,7 +164,7 @@
                             <p>Hable con su médico especialista sobre cuándo y con qué frecuencia debe hacerse las pruebas de detección. Dependiendo de sus antecedentes personales y familiares de salud o de los resultados de las pruebas, su médico podría recomendarle un calendario de pruebas distinto.</p>
                             <p>Hacerse las pruebas de detección significa que hará examinar su cuerpo para detectar el cáncer antes de que se presenten síntomas. Al hacerse las pruebas de detección con regularidad se puede detectar de manera temprana el cáncer de mama, de cuello uterino y colorrectal (colon), cuando el tratamiento suele ser más eficaz. Se recomienda que algunas personas con un riesgo alto de cáncer de pulmón se hagan pruebas de detección.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/informacion-del-cancer/11detección_temprana_cancer-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/informacion-del-cancer/11deteccion_temprana_cancer-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Pruebas de detección recomendadas</p>
                             <p>Los especialistas de Brexia apoyan el uso de pruebas para la detección del cáncer de mama (seno), cuello uterino, colorrectal (colon) y de pulmón, tal como lo recomienda el Grupo de Trabajo sobre Servicios Preventivos de los EE.UU.</p>

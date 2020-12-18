@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<?php include_once '../includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<?php include_once '../includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -137,40 +137,40 @@
                             <p>Las estadísticas mostradas a continuación provienen de los Estados Unidos ya que por el momento en México contamos con un subregistro de información. (cáncer.gov).</p>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadísticas Generales</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Cáncer-de-Estomago-01-768x554.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Cancer-de-Estomago-01-768x554.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Casos nuevos vs Defunciones</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Cáncer-de-Estomago-768x590.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Cancer-de-Estomago-768x590.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer de Estomago</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Supervivencia_Cáncer-de-Estomago-768x629.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Supervivencia_Cancer-de-Estomago-768x629.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Número de casos por Estudio</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Cáncer-de-Estomago_grafica-768x474.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Cancer-de-Estomago_grafica-768x474.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Cáncer-de-Estomago_Brexia-768x632.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Cancer-de-Estomago_Brexia-768x632.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Cáncer-de-Estomago_BREXIA_especialistas-768x576.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Cancer-de-Estomago_BREXIA_especialistas-768x576.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Casos_Cáncer-de-Estomago-768x845.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Casos_Cancer-de-Estomago-768x845.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
                             <div class="imagen-80 centrar-imagen ">
                                 <img src="/img/cancer-de-estomago/porcentaje_nuevos_casos-768x552.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/estadisticas_Cáncer-de-Estomago-768x359.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/estadisticas_Cancer-de-Estomago-768x359.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de muertes por grupo de edad</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Porcentaje-de-muertes_Cáncer-de-Estomago-768x517.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Porcentaje-de-muertes_Cancer-de-Estomago-768x517.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
                                 <img src="/img/cancer-de-estomago/cifras_muertes_Cáncer-de-Estomago-768x324.webp" alt="Brexia_especialistas">
@@ -260,7 +260,7 @@
                             <p>La mayoría de los pacientes con cáncer de estómago en etapa temprana no tienen síntomas de la enfermedad. En otros casos, los pacientes con cáncer de estómago pueden confundir sus síntomas con un virus estomacal común. Cuando
                                 los signos y síntomas del cáncer de estómago no son aparentes, la enfermedad puede alcanzar etapas avanzadas antes de que se haga un diagnóstico.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Sintomas_Cáncer-de-Estomago-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Sintomas_Cancer-de-Estomago-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Por eso es importante que los pacientes considerados de alto riesgo hablen con sus médicos sobre los síntomas que pueden ser signos de un tumor estomacal. Los primeros síntomas de cáncer de estómago pueden incluir.</p>
                             <ul class="secciones-enumeradas">
@@ -293,7 +293,7 @@
                                 <li>Las pequeñas pérdidas de sangre por el estómago también pueden provocar anemia que a su vez produce cansancio y dificultad para respirar o falta de aliento.</li>
                             </ul>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Etapas_Cáncer-de-Estomago-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Etapas_Cancer-de-Estomago-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>En Japón y Corea, donde hay un número elevado de casos nuevos de cáncer de estómago, se propone un cribado (screening) para todas las personas a los 50 años y un seguimiento de conformidad con el resultado de la exploración
                                 de cribado.</p>
