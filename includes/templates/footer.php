@@ -7,8 +7,8 @@
     <div class="contenedor footer-grid">
         <div class="contenedor-footer">
             <div class="footer-grid">
-                <div class="centrar-texto llamanos-footer">
-                    <a href="#"> <strong>Llámanos ahora:</strong> <br class="br-footer"> (55) 5523 8959</a>
+                <div class="centrar-texto llama-tel ">
+                    <a href="tel:+5555238959"><p class = "fontW-700">Tel: (55) 5523 8959</p></a>
                 </div>
                 <div class="centrar-texto">
                     <a href="../contacto.php"><button class="boton boton-brexia-footer">Contacto</button></a>

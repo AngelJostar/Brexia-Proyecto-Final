@@ -32,7 +32,7 @@
                     <h1>¡GRACIAS POR TU MENSAJE, EN BREVE TE RESPONDEMOS!</h1>
                 </div>
                 <div class="centrar-texto paddingTop-2">
-                    <a href="como-tratramos-el-cancer.html"><button class="boton boton-gracias"> Mas información sobre ¿Como tratar tu cáncer?</button></a>
+                    <a href="como-tratamos-el-cancer.php"><button class="boton boton-gracias"> Mas información sobre ¿Como tratar tu cáncer?</button></a>
                 </div>
                 
             </section>

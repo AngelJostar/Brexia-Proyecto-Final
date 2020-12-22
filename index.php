@@ -39,7 +39,7 @@
                     <div class="centrar-texto">
                         <a href="como-tratamos-el-cancer.php"><button class="boton boton-brexia">¿Cómo tratamos el cáncer?</button></a>
                     </div>
-                    <p>a lucha contra el cáncer requiere una atención verdaderamente personalizada con un plan de cuidado único e individualizado. Es por eso que es indispensable encontrar a un equipo de atención en el que usted pueda confiar.</p>
+                    <p>La lucha contra el cáncer requiere una atención verdaderamente personalizada con un plan de cuidado único e individualizado. Es por eso que es indispensable encontrar a un equipo de atención en el que usted pueda confiar.</p>
                     <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando información sobre tu cáncer?</h2>
                     <p>Parte de nuestra promesa en Brexia para usted y su familia es ofrecer información clara. Es por eso que le ofrecemos información útil para que conozca su enfermedad. Explore los enlaces a continuación para obtener información sobre
                         los diferentes tipos de cáncer, además de información útil sobre síntomas, diagnóstico, tratamiento y más.</p>
