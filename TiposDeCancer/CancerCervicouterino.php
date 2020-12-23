@@ -187,7 +187,7 @@
                             <p>Seguimiento después del tratamiento: La organización de las citas de seguimiento variará según su caso. En cada visita, su médico la examinará y la someterá a un examen pélvico. Puede que también le realicen una tomografía
                                 computarizada o una tomografía por emisión de positrones. Los grupos de apoyo pueden ayudar a las pacientes y a sus familias a comprender mejor el cáncer de cuello uterino y a aprender a hacer frente a todos los aspectos
                                 de la enfermedad, desde el diagnóstico hasta los efectos físicos y emocionales a largo plazo.</p>
-                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Pubntos importantes del Tratamiento de Cáncer Cervicouterino</h2>
+                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Puntos importantes del Tratamiento de Cáncer Cervicouterino</h2>
 
                             <ul class="secciones-enumeradas">
                                 <li>Hay diferentes tipos de tratamiento para las pacientes de cáncer de cuello uterino. Se usan cinco tipos de tratamiento estándar:</li>

@@ -42,6 +42,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Tumores Neuroendocrinos</h2>            
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Tumores Neuroendocrinos</h2>    
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -68,7 +73,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué son los Tumores Neuroendocrinos?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Qué son los Tumores Neuroendocrinos?</h2>
                         <div class="font-16 fontW-400">
                             <p>El sistema ​endocrino se encarga de producir y liberar hormonas al torrente circulatorio y a los tejidos circundantes, y regula así la función y actividad de muchos órganos y sistemas de nuestro cuerpo.</p>
                             <p>Se compone principalmente de glándulas, como puede ser el tiroides, la hipófisis, las gónadas o las suprarrenales, y también de las células del sistema neuroendocrino, compuesto por millones de células que constituyen, cada

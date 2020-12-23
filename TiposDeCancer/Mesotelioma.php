@@ -42,6 +42,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Mesotelioma</h2> 
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Mesotelioma</h2>               
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -74,7 +79,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Mesotelioma?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Qué es el Mesotelioma?</h2>
                         <div class="font-16 fontW-400">
                             <p>Se denomina mesotelioma maligno al cáncer que comienza en los revestimientos de ciertas partes del cuerpo. Este cáncer ocurre más a menudo en los revestimientos del pecho o el abdomen (vientre). Se origina cuando las células
                                 en el revestimiento crecen de manera descontrolada y sobrepasan en número a las células normales. Esto dificulta que el cuerpo funcione de la manera en que debería hacerlo.</p>

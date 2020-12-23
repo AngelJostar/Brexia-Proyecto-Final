@@ -28,8 +28,8 @@
 
             
             <section class="mensaje-gracias">
-                <div class="centrar-texto">
-                    <h1>¡GRACIAS POR TU MENSAJE, EN BREVE TE RESPONDEMOS!</h1>
+                <div class="centrar-texto paddingTop-5 paddingBottom-5">
+                    <h1>¡GRACIAS POR TU MENSAJE, <br> EN BREVE TE RESPONDEMOS!</h1>
                 </div>
                 <div class="centrar-texto paddingTop-2">
                     <a href="como-tratamos-el-cancer.php"><button class="boton boton-gracias"> Mas información sobre ¿Como tratar tu cáncer?</button></a>

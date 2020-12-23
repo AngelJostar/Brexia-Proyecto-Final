@@ -43,6 +43,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Endometrio</h2>            
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Endometrio</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -73,7 +78,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Endometrio?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Qué es el Cáncer de Endometrio?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de endometrio ​es un tipo de cáncer ​que se forma en el tejido que reviste el útero (órgano pequeño, hueco y con forma de pera situado en la pelvis de una mujer donde se desarrolla el feto). La mayoría de los casos
                                 de ​cáncer de endometrio son adenocarcinomas (​cáncer que comienzan en las células que elaboran y liberan mucosidad y otros fluidos).</p>
@@ -175,7 +180,7 @@
                             <p>La mayoría de las mujeres con ​cáncer uterino​, alrededor del 92 por ciento, tienen ​cáncer endometrial​, ​o un ​tumor que se desarrolla en los tejidos del revestimiento ​uterino​, llamado ​endometrio​. El otro tipo primario,
                                 el sarcoma uterino, es raro y se forma en los músculos u otros tejidos del ​útero​. Los síntomas del ​cáncer uterino pueden diferir según el tipo de ​cáncer ​que se haya desarrollado.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-cerebro/sintomas_cancer_cerebro-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-endometrio/mujer-dolor-endomet.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Para la mayoría de las mujeres con ​cáncer de endometrio​, el sangrado anormal es el síntoma más común y el primero que notan. Los síntomas de un ​tumor en el ​útero generalmente afectan tanto a las mujeres premenopáusicas
                                 como a las posmenopáusicas. Otros síntomas comunes del ​cáncer de endometrio​ incluyen:</p>

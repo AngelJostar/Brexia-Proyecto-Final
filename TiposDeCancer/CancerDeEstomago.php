@@ -44,11 +44,11 @@
             </section>
 
             <div class="secciones mostrar-texto">
-                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Estomago</h2>
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Estómago</h2>
                 <div class="contenedor-video">
                     <div class="reproductor" data-id="j8Mj1XgzOjY"></div>
                 </div>
-                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Estomago</h2>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Estómago</h2>
             </div>
 
             <section class="wrap">
@@ -173,7 +173,7 @@
                                 <img src="/img/cancer-de-estomago/Porcentaje-de-muertes_Cancer-de-Estomago-768x517.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/cifras_muertes_Cáncer-de-Estomago-768x324.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/cifras_muertes_Cancer-de-Estomago-768x324.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>
@@ -337,7 +337,7 @@
                             <p>Etapa 0: el cáncer de estómago en etapa temprana también se conoce como carcinoma in situ, porque el cáncer no se ha diseminado a ningún tejido cercano. En esta etapa, el cáncer aún no se ha diseminado a la capa interna de
                                 células que recubren el estómago.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-estomago/Etapas_cancer_estomago-768x512" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-estomago/Etapas_cancer_estomago-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Etapa I (etapa 1 del cáncer de estómago): esta etapa del cáncer de estómago se divide en dos categorías:</p>
                             <ul class="secciones-enumeradas">

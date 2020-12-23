@@ -42,6 +42,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Sarcomas de Tejidos Oseos</h2>            
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Tejidos Oseos</h2>    
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -70,7 +75,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué son los Sarcomas Óseos?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2">¿Qué son los Sarcomas Óseos?</h2>
                         <div class="font-16 fontW-400">
                             <p>Los sarcomas óseos son un grupo de tumores malignos que pueden originarse en cualquier parte del cuerpo donde se encuentran los huesos, es decir, en el cráneo, las extremidades y cinturas, la columna vertebral y las costillas.
                                 Los tumores malignos contienen células que sepueden diseminar a otros tejidos y órganos y dañarlos.</p>

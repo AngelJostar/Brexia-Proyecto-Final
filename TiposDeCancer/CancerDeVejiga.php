@@ -42,6 +42,12 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Vejiga</h2>     
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Vejiga</h2>           
+            </div>
+
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -76,7 +82,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Vejiga?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Qué es el Cáncer de Vejiga?</h2>
                         <div class="font-16 fontW-400">
                             <p>EI cáncer de vejiga se forma en los tejidos de la vejiga, el órgano donde se amacena la orina. EI tipo más frecuente de cáncer de vejiga (90%) es el carcinoma de células de transición o de células transicionales. Este tipo
                                 de cáncer comienza en las células que normalmente forman el revestimiento interior de la vejiga, también llamado epitelio transicional, epitelio de transición o urotelio. Otros tipos incluyen el carcinoma escamocelular,

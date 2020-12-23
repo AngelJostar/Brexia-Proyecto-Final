@@ -238,7 +238,7 @@
                                 de la mejor manera posible. Durante la cirugía, se toman muestras del tumor y se envían al laboratorio para realizar las pruebas de subtipo histológico y determinar el subtipo de cáncer epitelial de ovario.</p>
                             <p>La siguiente tabla describe los diferentes estadios del cáncer de ovario, incluyendo al cáncer epitelial de ovario.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-ovario/Estadificación_del_Cancer_de_Ovario-689x1536.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-ovario/Estadificacion_del_Cancer_de_Ovario-689x1536.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>
@@ -301,7 +301,7 @@
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer de Ovario</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-ovario/porcentaje_5_años_CANCER-DE-OVARIO-768x617.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-ovario/porcentaje_5_anos_CANCER-DE-OVARIO-768x617.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Número de casos por Estadio</h2>
                             <div class="imagen-80 centrar-imagen ">

@@ -43,6 +43,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Melanoma</h2>    
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Melanoma</h2>            
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -71,7 +76,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el melanoma (cáncer de piel)?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2">¿Qué es el melanoma (cáncer de piel)?</h2>
                         <div class="font-16 fontW-400">
                             <p>Un melanoma es una forma de cáncer que comienza en los melanocitos, unas células que elaboran la melanina (el pigmento que da la coloración de la piel). Puede comenzar en un lunar (melanoma de piel), pero también puede aparecer
                                 en otros tejidos pigmentados, como los ojos o los intestinos.</p>

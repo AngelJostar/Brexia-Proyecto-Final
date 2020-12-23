@@ -1223,6 +1223,10 @@ a.scrollup i:hover {
     padding-bottom: 10px;
 }
 
+.marginTop-2 {
+    margin-top: 2rem;
+}
+
 .centrar-texto {
     text-align: center;
 }
@@ -1552,10 +1556,9 @@ div.youtube-play:hover {
 }
 
 .mensaje-gracias {
-    margin-top: 80px;
-    margin-bottom: 80px;
     font-size: 3ch;
     max-width: 90%;
+    margin: 0 auto;
 }
 
 .mensaje-gracias h1 {

@@ -42,6 +42,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Vías Billiares</h2>  .
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Vías Billiares</h2>              
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -68,7 +73,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Vías Biliares?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Qué es el Cáncer de Vías Biliares?</h2>
                         <div class="font-16 fontW-400">
                             <p>El ​cáncer de las vías biliares ​incluye el ​cáncer del conducto biliar​,​cáncer de vesícula biliar y ​cáncer ámpular.</p>
                             <P>

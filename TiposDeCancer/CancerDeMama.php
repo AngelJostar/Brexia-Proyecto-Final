@@ -49,7 +49,7 @@
                 <div class="contenedor-video">
                     <div class="reproductor" data-id="R-g4ABSG0Qs"></div>
                 </div>
-                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Mama</h2>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Mama</h2>
             </div>
 
 
@@ -232,7 +232,7 @@
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia a 5 años</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-mama/supervivencia-a-5-años-cancer_de_mama-768x576.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-mama/supervivencia-a-5-anos-cancer_de_mama-768x576.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
                     </article>
@@ -362,7 +362,7 @@
                             <p>En el caso del cáncer de mama, se habla de cinco estadios (del 0 al IV), el estadio 0 corresponde a aquellos casos en los que se diagnostica un carcinoma in situ (no invasivo) y el resto de los cuatro estadios corresponden
                                 al cáncer de mama invasivo o infiltrante, siendo el estadio en el que la enfermedad está en una fase más inicial y el estadio IV en el que la enfermedad ya se ha extendido a otros órganos del cuerpo. En general, el pronóstico
                                 de los pacientes empeora a medida que el estadio es más avanzado, lo que supone que las tasas de curación son mayores cuando el cáncer es diagnosticado en estadios más iniciales.</p>
-                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadificación del Cancer de Mama</h2>
+                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadificación del Cáncer de Mama</h2>
                             <p>El sistema utilizado para la estadificación del cáncer de mama es el sistema TNM. Las letras TNM significan:</p>
                             <ol class="secciones-enumeradas">
                                 <li>1) T (de tumor). Tamaño del tumor primario localizado en la mama, pudiendo presentar valores diferentes según la medida más grande del tumor:</li>

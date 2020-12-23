@@ -49,7 +49,7 @@
                 <div class="contenedor-video">
                     <div class="reproductor" data-id="hCB1cIjktBM"></div>
                 </div>
-                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Riñon</h2>
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Riñon</h2>
             </div>
 
 
@@ -133,7 +133,7 @@
                         <div class="font-16 fontW-400">
                             <p>Su médico diagnosticará cáncer de riñón al revisar su historia clínica y al hacer un examen físico, junto con análisis de sangre y orina.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/diagnostico_cancer_rinon-768x512.webp" alt="cp">
+                                <img src="/img/cancer-de-riñon/diagnostico_cancer_rinon-768x512.webp" alt="cancer de rinion">
                             </div>
                             <p>También hará uno o alguno de los siguientes exámenes de diagnóstico por imágenes:</p>
                             <ul class="secciones-enumeradas">
@@ -176,7 +176,7 @@
                                 <li>Robótica (cirugía laparoscópica con ayuda de un robot).</li>
                             </ul>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/tratamiento_cancer_de_rinon-768x512.webp" alt="cp">
+                                <img src="/img/cancer-de-rinon/tratamiento_cancer_de_rinon-768x512.webp" alt="tratamiento cancer de riñon">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Ablación térmica de Cáncer de Riñón</h2>
                             <p>La ablación térmica destruye el tumor al quemarlo o congelarlo. Se utiliza con mayor frecuencia para tumores pequeños en personas que no son buenas candidatas para la cirugía de nefrectomía.</p>

@@ -42,6 +42,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Sarcomas de Tejidos Blandos</h2>            
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Tejidos Blandos</h2>    
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -70,7 +75,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué son los Sarcomas de Tejido Blando?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2">¿Qué son los Sarcomas de Tejido Blando?</h2>
                         <div class="font-16 fontW-400">
                             <p>Los sarcomas de tejido blando definen a un grupo de tumores malignos que se forman cuando las células anormales crecen sin control en los tejidos blandos y los tejidos conectivos.</p>
                             <p>Los tejidos blandos pueden encontrarse en cualquier parte del cuerpo y comprenden músculos, tendones, grasa, vasos sanguíneos y linfáticos, nervios y revestimientos de las articulaciones (tejido sinovial).</p>

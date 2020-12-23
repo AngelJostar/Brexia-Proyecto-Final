@@ -44,6 +44,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Cabeza y Cuello</h2>            
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Cabeza y Cuello</h2>
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -76,7 +81,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Cáncer de Cabeza y Cuello</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Que es el Cáncer de Cabeza y Cuello?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de cabeza y cuello es un grupo de cánceres que se forman en los tejidos del tracto aerodigestivo superior (labios, lengua, boca, garganta y laringe) o en los senos y la cavidad nasal. La mayoría del cáncer de cabeza
                                 y cuello se origina en las células escamosas que forman estos tractos y cavidades y por ello son denominados carcinomas de células escamosas. El ochenta y cinco por ciento del cáncer de cabeza y cuello está relacionado
@@ -109,10 +114,6 @@
                                 <img src="/img/cancer-de-cabeza-y-cuello/Diagnostico_cancer_cuello-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Las imágenes médicas se usan para conocer la forma y el tamaño del tumor y también pueden usarse para verificar si el cáncer se ha propagado a otras partes del cuerpo.</p>
-
-                            <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-cervicouterino/Cancer_diagnostico-768x512.webp" alt="Brexia_especialistas">
-                            </div>
                             <p>Un diagnóstico completo y preciso del cáncer es el primer paso para desarrollar un plan de tratamiento para el cáncer de cabeza y cuello. En Brexia utilizaremos una variedad de pruebas y herramientas diseñadas para diagnosticar
                                 el cáncer de cabeza y cuello, evaluar la enfermedad y planificar su tratamiento individualizado. A lo largo de su tratamiento, utilizaremos pruebas de imagen y de laboratorio para rastrear el tamaño de los tumores, monitorear
                                 su respuesta al tratamiento y modificar su plan cuando sea necesario.</p>
@@ -272,7 +273,7 @@
                                 <img src="/img/cancer-de-cabeza-y-cuello/casos_por_estadio_Cabeza-y-Cuello-768x511.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-cabeza-y-cuello/supervivencia_5_años_cancer_Cabeza-y-Cuello-768x659.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-cabeza-y-cuello/supervivencia_5_anos_cancer_Cabeza-y-Cuello-768x659.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">

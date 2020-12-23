@@ -44,6 +44,11 @@
 
             </section>
 
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Esófago</h2>   
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Esófago</h2>        
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -76,7 +81,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Esófago?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">¿Qué es el Cáncer de Esófago?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de esófago es un tumor que se forma en los tejidos que revisten el esófago, el tubo muscular a través del cual los alimentos pasan desde la garganta al estómago.</p>
                             <p>Los dos principales tipos de cáncer de esófago son el carcinoma de células escamosas (carcinoma escamocelular) y el adenocarcinoma. El primero comienza en las células planas que forman el revestimiento interno del esófago,
@@ -95,7 +100,7 @@
                                 </li>
                             </ul>
                             <div class="imagen-80 centrar-imagen">
-                                <img src="/img/cancer-de-Esofago/Contenido-Cancer-de-Esófago_2-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-Esofago/Contenido-Cancer-de-Esofago_2-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Puntos Importantes del cáncer de esófago</h2>
                             <ul class="secciones-enumeradas">
@@ -358,7 +363,7 @@
                 </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Esofago</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Esófago</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>

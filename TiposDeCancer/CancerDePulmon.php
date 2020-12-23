@@ -28,7 +28,7 @@
         <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Pulmon</h1>
+                        <h1>Cáncer de Pulmón</h1>
                     </div>
                     <div class="tipos-cancer-img">
                         <img src="/img/Doctores.webp" alt="">
@@ -322,15 +322,7 @@
                                 Es algo común que los distintos especialistas trabajen en equipo para tratar el cáncer de pulmón. Los neumologos son médicos expertos en enfermedades de los pulmones. Los cirujanos oncologos y toracicos son los médicos que realizan las operaciones. Los
                                 oncólogos médicos son médicos expertos que tratan el cáncer con medicamentos. Los radiooncólogos son los médicos que aplican radioterapia para tratar el cáncer.
                             </p>
-                            <p>
-                                Para conocer más acerca de los tratamientos específicos para cada tipo de cáncer de pulmón explorar los siguientes segmentos:
-                            </p>
-                            <div class="centrar-texto">
-                                <button class="boton boton-brexia">TRATAMIENTO EN CELULAS NO PEQUEÑAS</button>
-                            </div>
-                            <div class="centrar-texto">
-                                <button class="boton boton-brexia">TRATAMIENTO EN CELULAS PEQUEÑAS</button>
-                            </div>
+
                         </div>
                     </article>
                     <article id="tab6">
@@ -527,7 +519,7 @@
                                 <img src="/img/cancer-de-pulmon/porcentaje_edad_cancer_pulmon-768x593.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-pulmon/5-años_de_supervivencia-relativa-768x628.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-pulmon/5-anos_de_supervivencia-relativa-768x628.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es el Cáncer de Pulmón?</h2>
                             <P>En comparación con otros tipos de cáncer, el cáncer de pulmón y bronquios es bastante común.</P>
@@ -620,7 +612,7 @@
                 </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Pulmon</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Pulmón</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>

@@ -61,7 +61,7 @@
                         <li><a href="#tab4">Estadísticas</a></li>
                         <li><a href="#tab5">Síntomas</a></li>
                         <li><a href="#tab6">Factores de Riesgo</a></li>
-                        <li><a href="#tab7">tipos</a></li>
+                        <li><a href="#tab7">Tipos</a></li>
                         <li><a href="#tab8">Estadificación</a></li>
                     </ul>
                 </div>
@@ -373,7 +373,7 @@
                         </div>
                     </article>
                     <article id="tab7">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Sub tipos de Cáncer de Colon y Recto</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Subtipos de Cáncer de Colon y Recto</h2>
                         <div class="font-16 fontW-400">
                             <p>Para llegar al diagnóstico definitivo de cáncer de colon y recto se requiere confirmación con biopsia que en la mayoría de los casos procede de la colonoscopia y en otros casos, si la enfermedad está extendida, se puede realizar
                                 biopsia de alguna lesión metastásica, por ejemplo del hígado. En el estudio microscópico, el adenocarcinoma es el tipo histológico más frecuente (90-95%), seguido del adenocarcinoma coloide o mucinoso (10%).</p>

@@ -45,6 +45,12 @@
 
             </section>
 
+            
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Cerebro</h2>  
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Cerebro</h2>          
+            </div>
+
 
             <section class="wrap">
                 <div class="tabs-desktop">
@@ -73,7 +79,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué es el Cáncer de Cerebro (gliomas)?</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2">¿Qué es el Cáncer de Cerebro (gliomas)?</h2>
                         <div class="font-16 fontW-400">
                             <p>Los gliomas son un grupo de tumores del sistema nervioso central que se distingue según las células de origen en el cerebro (astrocitos u oligodendrocitos o ambos) y el grado de agresividad: (en orden creciente de agresividad:
                                 glioma de bajo grado => glioma anaplásico => glioblastoma).</p>

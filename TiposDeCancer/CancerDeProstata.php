@@ -27,7 +27,7 @@
         <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Prostata</h1>
+                        <h1>Cáncer de Próstata</h1>
                     </div>
                     <div class="tipos-cancer-img">
                         <img src="/img/Doctores.webp" alt="">
@@ -41,6 +41,11 @@
                 </div>
 
             </section>
+
+            <div class="secciones mostrar-texto">
+                <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Prostata</h2>    
+                <h2 class="centrar-texto brexia-color font-16 fontW-800 marginTop-2 ">Secciones de Cáncer de Prostata</h2>            
+            </div>
 
 
             <section class="wrap">
@@ -76,7 +81,7 @@
 
                 <div class="secciones">
                     <article id="tab1">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Cáncer de Próstata</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia paddingTop-2 ">Qué es el Cáncer de Próstata?</h2>
                         <div class="font-16 fontW-400">
                             <p>El cáncer de próstata se forma en las células de la glándula prostática. Muchos tipos de cáncer de próstata crecen lentamente, siendo poco probable que se diseminen, pero algunos pueden crecer más rápidamente.
                             </p>
@@ -545,7 +550,7 @@
                 </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Prostata</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Próstata</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
