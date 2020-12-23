@@ -53,7 +53,7 @@
                     <ul class="tabs">
                         <li><a href="#tab1">Tumores Neuroendocrinos</a></li>
                         <li><a href="#tab2">Síntomas</a></li>
-                        <li><a href="#tab3">Diagnostico</a></li>
+                        <li><a href="#tab3">Diagnóstico</a></li>
                         <li><a href="#tab4">Tratamiento</a></li>
                     </ul>
                 </div>
@@ -64,7 +64,7 @@
                             <li><a href="#tab2">Síntomas</a></li>
                         </div>
                         <div class="left-movil-tab">
-                            <li><a href="#tab3">Diagnostico</a></li>
+                            <li><a href="#tab3">Diagnóstico</a></li>
                             <li><a href="#tab4">Tratamiento</a></li>
                         </div>
                     </ul>

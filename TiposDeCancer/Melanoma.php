@@ -55,7 +55,7 @@
                         <li><a href="#tab1">Melanoma</a></li>
                         <li><a href="#tab2">Factores de Riesgo</a></li>
                         <li><a href="#tab3">Síntomas</a></li>
-                        <li><a href="#tab4">Diagnostico</a></li>
+                        <li><a href="#tab4">Diagnóstico</a></li>
                         <li><a href="#tab5">Tratamiento</a></li>
                     </ul>
                 </div>
@@ -67,7 +67,7 @@
                             <li><a href="#tab3">Síntomas</a></li>
                         </div>
                         <div class="left-movil-tab">
-                            <li><a href="#tab4">Diagnostico</a></li>
+                            <li><a href="#tab4">Diagnóstico</a></li>
                             <li><a href="#tab5">Tratamiento</a></li>
                         </div>
                     </ul>

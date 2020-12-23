@@ -27,7 +27,7 @@
         <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Testiculo</h1>
+                        <h1>Cáncer de Testículo</h1>
                     </div>
                     <div class="tipos-cancer-img">
                         <img src="/img/Doctores.webp" alt="">
@@ -307,7 +307,7 @@
                     </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Testiculo</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Testículo</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>

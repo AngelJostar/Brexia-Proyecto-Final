@@ -56,7 +56,7 @@
                         <li><a href="#tab3">Factores de Riesgo</a></li>
                         <li><a href="#tab4">Estadísticas</a></li>
                         <li><a href="#tab5">Síntomas</a></li>
-                        <li><a href="#tab6">Diagnostico</a></li>
+                        <li><a href="#tab6">Diagnóstico</a></li>
                         <li><a href="#tab7">Tratamiento</a></li>
                     </ul>
                 </div>
@@ -70,7 +70,7 @@
                         </div>
                         <div class="left-movil-tab">
                             <li><a href="#tab5">Síntomas</a></li>
-                            <li><a href="#tab6">Diagnostico</a></li>
+                            <li><a href="#tab6">Diagnóstico</a></li>
                             <li><a href="#tab7">Tratamiento</a></li>
                         </div>
                     </ul>

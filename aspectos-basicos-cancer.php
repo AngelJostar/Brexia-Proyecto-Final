@@ -37,7 +37,7 @@
             <div class="contenedor-2 justificar-texto texto-brexia">
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">El Cáncer Aspectos Básicos</h2>
                 <p>En Brexia, nuestra promesa para usted y su familia es ofrecer información clara. Es por eso que estamos comprometidos a educar a los pacientes y a sus familias para ayudarlos a tomar decisiones de tratamiento informadas para ayudarlo a
-                    usted y a su familia a decidir a dónde ir para recibir tratamiento, como parte de muchos otros factores que pueden estar considerando. Haga click en el enlace a continuación para encontrar toda la información relacionada con el ASPECTOS
+                    usted y a su familia a decidir a dónde ir para recibir tratamiento, como parte de muchos otros factores que pueden estar considerando. Haga click en el enlace a continuación para encontrar toda la información relacionada con ASPECTOS
                     BÁSICOS DEL CÁNCER.
                 </p>
                 <div class="centrar-texto pt-4">
@@ -46,7 +46,7 @@
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se diagnostica el cáncer?</h2>
                 <p>Las pruebas y los procedimientos que usamos en Brexia para diagnosticar el cáncer varían según el tipo de enfermedad y las necesidades de cada paciente. Haga click en el enlace a continuación para encontrar toda la información relacionada
-                    con el DIAGNOSTICO DEL CÁNCER.
+                    con el DIAGNÓSTICO DEL CÁNCER.
                 </p>
 
                 <div class="centrar-texto pt-4">

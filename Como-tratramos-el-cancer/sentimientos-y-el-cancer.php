@@ -50,11 +50,11 @@
             <section class="wrap">
                 <div class="tabs-desktop">
                     <ul class="tabs">
-                        <li><a href="#tab1">Sentimientos</a></li>
+                        <li><a hrefh="#tab1">Sentimientos</a></li>
                         <li><a href="#tab2">Ansiedad</a></li>
                         <li><a href="#tab3">Depresión</a></li>
                         <li><a href="#tab4">Familia</a></li>
-                        <li><a href="#tab5">Duelo y Perdida</a></li>
+                        <li><a href="#tab5">Duelo y Pérdida</a></li>
                         <li><a href="#tab6">Temor</a></li>
                         <li><a href="#tab7">Apoyo Espiritual</a></li>
                     </ul>
@@ -68,7 +68,7 @@
                             <li><a href="#tab4">Familia</a></li>
                         </div>
                         <div class="left-movil-tab">
-                            <li><a href="#tab5">Duelo y Perdida</a></li>
+                            <li><a href="#tab5">Duelo y Pérdida</a></li>
                             <li><a href="#tab6">Temor</a></li>
                             <li><a href="#tab7">Apoyo Espiritual</a></li>
                         </div>
@@ -243,7 +243,7 @@
                         </div>
                     </article>
                     <article id="tab5">
-                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Entender el duelo y la perdida</h2>
+                        <h2 class="centrar-texto brexia-color encabezados-brexia ">Entender el duelo y la pérdida</h2>
                         <div class="font-16 fontW-400">
                             <p>Cuando una persona pierde a alguien cercano, es natural pasar por un duelo. Este proceso lleva tiempo e involucra diferentes emociones y comportamientos. Las personas con cáncer y sus familias también pueden atravesar un duelo
                                 por otras pérdidas relacionadas al cáncer. Estas pueden incluir la pérdida de un seno, la pérdida de la fertilidad o la pérdida de la independencia.</p>
@@ -253,7 +253,7 @@
                             <div class="imagen-80 centrar-imagen ">
                                 <img src="/img/sentimientos-y-el-cancer/duelo_en_cancer-768x512.webp" alt="Brexia_especialistas">
                             </div>
-                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Entender el duelo y la perdida</h2>
+                            <h2 class="centrar-texto brexia-color encabezados-brexia ">Entender el duelo y la pérdida</h2>
                             <p>Las reacciones ante una pérdida se llaman reacciones del duelo. Varían mucho de persona en persona e incluso en la misma persona a lo largo del tiempo. Las reacciones frecuentes del duelo incluyen sentimientos, pensamientos,
                                 sensaciones físicas y comportamientos complicados.</p>
                             <p>Sentimientos. Las personas que experimentaron una pérdida pueden tener una gran variedad de sentimientos. Estos pueden incluir conmoción, bloqueo, tristeza, negación, desesperanza, ansiedad, enojo, culpa, soledad, depresión,
@@ -341,7 +341,7 @@
                 </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Mama</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información de los sentimientos y el cáncer</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>

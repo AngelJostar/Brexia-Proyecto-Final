@@ -391,7 +391,7 @@
                 </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Mama</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información de los tipos de tratamiento</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>

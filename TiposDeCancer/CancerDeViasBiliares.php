@@ -27,7 +27,7 @@
             <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
-                        <h1>Cáncer de Vias Biliares</h1>
+                        <h1>Cáncer de Vías Biliares</h1>
                     </div>
                     <div class="tipos-cancer-img">
                         <img src="/img/Doctores.webp" alt="">
@@ -53,7 +53,7 @@
                     <ul class="tabs">
                         <li><a href="#tab1">Cáncer de Vías Biliares</a></li>
                         <li><a href="#tab2">Síntomas</a></li>
-                        <li><a href="#tab3">Diagnostico</a></li>
+                        <li><a href="#tab3">Diagnóstico</a></li>
                         <li><a href="#tab4">Tratamiento</a></li>
                     </ul>
                 </div>
@@ -64,7 +64,7 @@
                             <li><a href="#tab2">Síntomas</a></li>
                         </div>
                         <div class="left-movil-tab">
-                            <li><a href="#tab3">Diagnostico</a></li>
+                            <li><a href="#tab3">Diagnóstico</a></li>
                             <li><a href="#tab4">Tratamiento</a></li>
                         </div>
                     </ul>
@@ -173,7 +173,7 @@
                 </div>
             </section>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
-                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de vias Biliares</p>
+                <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información del Cáncer de Vías Biliares</p>
             </div>
             <div class="centrar-texto">
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
