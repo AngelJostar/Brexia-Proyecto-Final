@@ -71,10 +71,10 @@
                     invasivas y tratamientos identificados a través de las herramientas de la medicina de precisión.</p>
                 <p>Obtenga más información sobre el cáncer como se trata y diagnostica explorando los enlaces a continuación.</p>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento "><button class="boton boton-brexia"> Opciones de tratamiento </button></a>
+                    <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento "><button class="boton boton-brexia"> Opciones de tratamiento </button></a>
                 </div>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/diagnosticando-el-cancer "><button class="boton boton-brexia">Diagnosticando el cáncer </button></a>
+                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-Cáncer "><button class="boton boton-brexia">Diagnosticando el cáncer </button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingtop-50 ">¿Estás buscando una segunda opinión?</h2>
                 <p>Buscar una segunda opiniòn puede ayudarlo a tomar una decision mas informada sobre su tratamiento contra el cancer. Da click en el enlace a continuacion para aprender de los beneficios de obtener una segunda opinion para su atencion del

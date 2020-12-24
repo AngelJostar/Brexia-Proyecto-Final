@@ -41,7 +41,7 @@
                     BÁSICOS DEL CÁNCER.
                 </p>
                 <div class="centrar-texto pt-4">
-                <a href="Como-tratramos-el-cancer/informacion-del-cancer "><button class="boton boton-brexia"> Información del Cáncer</button></a>
+                <a href="Como-tratramos-el-cancer/Información-del-Cáncer "><button class="boton boton-brexia"> Información del Cáncer</button></a>
                 </div>
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se diagnostica el cáncer?</h2>
