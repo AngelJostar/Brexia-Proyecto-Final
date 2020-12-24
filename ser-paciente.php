@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php ';?>
+<?php include_once 'includes/tags/google_tag_manager_head.php';?>
     <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,7 +12,7 @@
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php ';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -22,7 +22,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
         
-        <?php include_once 'includes/templates/header.php ';?>
+        <?php include_once 'includes/templates/header.php';?>
             
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
@@ -175,7 +175,7 @@
 
 
 
-            <?php include_once 'includes/templates/footer.php ';?>
+            <?php include_once 'includes/templates/footer.php';?>
 
 
         </section>

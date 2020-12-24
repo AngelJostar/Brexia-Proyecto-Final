@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php ';?>
+<?php include_once 'includes/tags/google_tag_manager_head.php';?>
 <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,7 +12,7 @@
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php ';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -21,7 +21,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-        <?php include_once 'includes/templates/header.php ';?>
+        <?php include_once 'includes/templates/header.php';?>
 
 
             <!--SECCION INTERMEDIA-->
@@ -84,7 +84,7 @@
                 <p>La honestidad es una parte importante de la relación médico/paciente, por lo que los expertos recomiendan que mantenga a ambos médicos al tanto de sus decisiones. Deberá recuperar los registros médicos de su cita original, y este puede ser un momento para informarle a su médico que está explorando otras opciones de tratamiento.</p>
             </div>
             </section>
-            <?php include_once 'includes/templates/footer.php ';?>
+            <?php include_once 'includes/templates/footer.php';?>
 
 
         </section>
