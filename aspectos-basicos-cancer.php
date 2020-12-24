@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head ';?>
 <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>el-cance</title>
+    <title>El cáncer</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php ';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -21,27 +21,27 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-            <?php include_once 'includes/templates/header.php';?>
+            <?php include_once 'includes/templates/header ';?>
 
 
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
                 <div class="tipos-cancer-regresar">
-                    <a href="../index.php">
+                    <a href="../index ">
                         &nbsp; << INICIO</a>
-                    <a href="../contacto.php">
+                    <a href="../contacto ">
                         &nbsp; CONTACTANOS >></a>
                 </div>
             </section>
 
             <div class="contenedor-2 justificar-texto texto-brexia">
-                <h2 class="formato-h2 centrar-texto paddingTop-1 ">El Cáncer Aspectos Básicos</h2>
+                <h2 class="formato-h2 centrar-texto paddingTop-1 ">Cáncer Aspectos Básicos</h2>
                 <p>En Brexia, nuestra promesa para usted y su familia es ofrecer información clara. Es por eso que estamos comprometidos a educar a los pacientes y a sus familias para ayudarlos a tomar decisiones de tratamiento informadas para ayudarlo a
                     usted y a su familia a decidir a dónde ir para recibir tratamiento, como parte de muchos otros factores que pueden estar considerando. Haga click en el enlace a continuación para encontrar toda la información relacionada con ASPECTOS
                     BÁSICOS DEL CÁNCER.
                 </p>
                 <div class="centrar-texto pt-4">
-                <a href="Como-tratramos-el-cancer/informacion-del-cancer.php"><button class="boton boton-brexia"> Información del Cáncer</button></a>
+                <a href="Como-tratramos-el-cancer/informacion-del-cancer "><button class="boton boton-brexia"> Información del Cáncer</button></a>
                 </div>
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se diagnostica el cáncer?</h2>
@@ -50,7 +50,7 @@
                 </p>
 
                 <div class="centrar-texto pt-4">
-                    <a href="Como-tratramos-el-cancer/diagnosticando-el-cancer.php"><button class="boton boton-brexia"> Diagnosticando el Cáncer</button></a>
+                    <a href="Como-tratramos-el-cancer/diagnosticando-el-cancer "><button class="boton boton-brexia"> Diagnosticando el Cáncer</button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se trata el cáncer?</h2>
                 <p>En Brexia nuestros expertos en cáncer tratan el cáncer con una amplia gama de técnicas y enfoques innovadores que incluyen herramientas de diagnóstico de alta tecnología, radioterapia dirigida, técnicas quirúrgicas mínimamente invasivas
@@ -58,7 +58,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2">
-                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento.php"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
+                    <a href="Como-tratramos-el-cancer/opciones-de-tratamiento "><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Quién trata el cáncer?</h2>
                 <p>En Brexia tratamos el cáncer con un enfoque multidisciplinario que junta tratamientos convencionales con terapias de apoyo, administrados simultáneamente por un equipo colaborativo de médicos. El objetivo de la atención integral del cáncer
@@ -67,7 +67,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2">
-                    <a href="Como-tratramos-el-cancer/equipo-multidisciplinario.php"><button class="boton boton-brexia">Equipo multidisciplinario</button></a>
+                    <a href="Como-tratramos-el-cancer/equipo-multidisciplinario "><button class="boton boton-brexia">Equipo multidisciplinario</button></a>
                 </div>
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">Sentimientos y Emociones</h2>
@@ -76,13 +76,13 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2 paddingBottom-3">
-                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer.php"><button class="boton boton-brexia">Sentimientos y el Cáncer</button></a>
+                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer "><button class="boton boton-brexia">Sentimientos y el Cáncer</button></a>
                 </div>
 
             </div>
 
 
-            <?php include_once 'includes/templates/footer.php';?>
+            <?php include_once 'includes/templates/footer.php ';?>
 
 
         </section>

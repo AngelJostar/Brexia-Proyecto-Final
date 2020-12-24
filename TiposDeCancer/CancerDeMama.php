@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once '../includes/tags/google_tag_manager_head.php';?>
+<?php include_once '../includes/tags/google_tag_manager_head ';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Cancer de mama</title>
+    <title>Cáncer de Mama</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" rel="preload" href="../css/normalize.css">
     <link rel="stylesheet" rel="preload" href="../css/style.css">
 
 </head>
 
-<?php include_once '../includes/tags/google_tag_manager_body.php';?>
+<?php include_once '../includes/tags/google_tag_manager_body.php ';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -24,7 +24,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-        <?php include_once '../includes/templates/header_tipos.php';?>
+        <?php include_once '../includes/templates/header_tipos ';?>
 
         <section>
                 <div class="fondo-tipos-de-cancer ">
@@ -36,9 +36,9 @@
                     </div>
                 </div>
                 <div class="tipos-cancer-regresar">
-                    <a href="../tipos-de-cancer.php">
+                    <a href="../tipos-de-cancer ">
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                    <a href="../contacto.php">
+                    <a href="../contacto ">
                             &nbsp; CONTACTANOS >></a>
                 </div>
 
@@ -414,7 +414,7 @@
             <a href="#"><button class="boton boton-brexia-footer">Regresar al inicio</button></a>
             </div>
 
-            <?php include_once '../includes/templates/footer.php';?>
+            <?php include_once '../includes/templates/footer.php ';?>
 
 
 
@@ -446,7 +446,7 @@
                     <P> <strong>de Mama</strong> te dará un tratamiento</P>
                     <p>para <strong>curar tu cáncer.</strong> </p>
                 </div>
-                <a href="../contacto.php" class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
+                <a href="../contacto " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
                 <div class="boton-no">
                     <a style="padding-bottom: 20px;" type="button" class="btn waves-effect" data-dismiss="modal">No, gracias</a>
                 </div>
@@ -456,7 +456,7 @@
                     <p>gracias a los especialistas de Brexia.</p>
                 </div>
                 <div  class="texto-secundario-2 paddingTop-2 paddingBottom-2">
-                    <p>Tu salud es primero, el cáncer no espera.</p>
+                    <p>Tu salud es primero, el Cáncer no espera.</p>
                 </div>
                 <a style="font-size: 10px; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;" type="button" class=" waves-effect" data-dismiss="modal">CERRAR</a>
             </div>

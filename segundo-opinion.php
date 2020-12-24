@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head ';?>
 <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>segunda-opinion</title>
+    <title>Segunda opinion</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php ';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -21,7 +21,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-        <?php include_once 'includes/templates/header.php';?>
+        <?php include_once 'includes/templates/header ';?>
 
 
             <!--SECCION INTERMEDIA-->
@@ -77,14 +77,14 @@
             <div class="opinion-secciones">
                 <h2 class="centrar-texto brexia-color font-12">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ</h2>
                 <div class="centrar-texto">
-                    <a href="../contacto.php"><button class="boton boton-brexia-footer">Contacto</button></a>
+                    <a href="../contacto "><button class="boton boton-brexia-footer">Contacto</button></a>
                 </div>
                 <h2 class="centrar-texto brexia-color font-16">¿Cómo pedir una Segunda Opinión?</h2>
                 <p>Puede sentirse preocupado de que su médico se ofenda si decide buscar el consejo de otro profesional de la salud, pero la mayoría de los médicos comprende que muchos pacientes deciden buscar otra opinión y querrán que se sienta cómodo y seguro antes de comenzar el tratamiento.</p>
                 <p>La honestidad es una parte importante de la relación médico/paciente, por lo que los expertos recomiendan que mantenga a ambos médicos al tanto de sus decisiones. Deberá recuperar los registros médicos de su cita original, y este puede ser un momento para informarle a su médico que está explorando otras opciones de tratamiento.</p>
             </div>
             </section>
-            <?php include_once 'includes/templates/footer.php';?>
+            <?php include_once 'includes/templates/footer.php ';?>
 
 
         </section>

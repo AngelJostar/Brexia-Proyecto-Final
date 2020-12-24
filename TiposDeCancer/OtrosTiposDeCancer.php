@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once '../includes/tags/google_tag_manager_head.php';?>
+<?php include_once '../includes/tags/google_tag_manager_head ';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Brexia</title>
+    <title>Otros tipos de cáncer</title>
 
     <link rel="stylesheet" rel="preload" href="../css/normalize.css">
     <link rel="stylesheet" rel="preload" href="../css/style.css">
 
 </head>
 
-<?php include_once '../includes/tags/google_tag_manager_body.php';?>
+<?php include_once '../includes/tags/google_tag_manager_body.php ';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -23,7 +23,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-            <?php include_once '../includes/templates/header_tipos.php';?>
+            <?php include_once '../includes/templates/header_tipos ';?>
 
 
             <section>
@@ -36,9 +36,9 @@
                     </div>
                 </div>
                 <div class="tipos-cancer-regresar">
-                    <a href="../tipos-de-cancer.php">
+                    <a href="../tipos-de-cancer ">
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                    <a href="../contacto.php">
+                    <a href="../contacto ">
                             &nbsp; CONTACTANOS >></a>
                 </div>
 
@@ -57,10 +57,10 @@
             <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información sobre Otros Tipos de Cáncer </p>
         </div>
         <div class="centrar-texto">
-            <a href="../Como-tratramos-el-cancer/informacion-del-cancer.php"><button class="boton boton-brexia">Información del Cáncer</button></a>
+            <a href="../Como-tratramos-el-cancer/informacion-del-cancer "><button class="boton boton-brexia">Información del Cáncer</button></a>
         </div>
 
-        <?php include_once '../includes/templates/footer.php';?>
+        <?php include_once '../includes/templates/footer.php ';?>
 
 
 

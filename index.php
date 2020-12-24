@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head ';?>
 
     <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body ';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -23,7 +23,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-            <?php include_once 'includes/templates/header.php';?>
+            <?php include_once 'includes/templates/header.php ';?>
 
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
@@ -37,17 +37,17 @@
                     <p>Creemos que cada cáncer es tan único como la persona que lo combate y que afecta a cada persona de manera diferente. Nuestro equipo de médicos diagnosticará de manera multidisciplinaria cada caso para encontrar el tratamiento más adecuado
                         para cada paciente. Explora el enlace a continuación para conocer el enfoque de atención que te ofrecemos en Brexia.</p>
                     <div class="centrar-texto">
-                        <a href="como-tratamos-el-cancer.php"><button class="boton boton-brexia">¿Cómo tratamos el cáncer?</button></a>
+                        <a href="como-tratamos-el-cancer"><button class="boton boton-brexia">¿Cómo tratamos el cáncer?</button></a>
                     </div>
                     <p>La lucha contra el cáncer requiere una atención verdaderamente personalizada con un plan de cuidado único e individualizado. Es por eso que es indispensable encontrar a un equipo de atención en el que usted pueda confiar.</p>
                     <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando información sobre tu cáncer?</h2>
                     <p>Parte de nuestra promesa en Brexia para usted y su familia es ofrecer información clara. Es por eso que le ofrecemos información útil para que conozca su enfermedad. Explore los enlaces a continuación para obtener información sobre
                         los diferentes tipos de cáncer, además de información útil sobre síntomas, diagnóstico, tratamiento y más.</p>
                     <div class="centrar-texto">
-                        <a href="aspectos-basicos-cancer.php"><button class="boton boton-brexia">Información del cáncer en general</button></a>
+                        <a href="aspectos-basicos-cancer"><button class="boton boton-brexia">Información del cáncer en general</button></a>
                     </div>
                     <div class="centrar-texto">
-                        <a href="tipos-de-cancer.php"><button class="boton boton-brexia">Información por tipo de cáncer</button></a>
+                        <a href="tipos-de-cancer"><button class="boton boton-brexia">Información por tipo de cáncer</button></a>
                     </div>
                 </div>
 
@@ -63,10 +63,10 @@
                     <p>Buscar una segunda opinión puede ayudarlo a tomar una decisión más informada sobre su tratamiento contra el cáncer. Da click en el enlace a continuación para aprender de los beneficios de obtener una segunda opinión para su atención
                         del cáncer.</p>
                     <div class="centrar-texto">
-                        <a href="segundo-opinion.php"><button class="boton boton-brexia">Segunda Opinión</button></a>
+                        <a href="segundo-opinion "><button class="boton boton-brexia">Segunda Opinión</button></a>
                     </div>
                     <div class="centrar-texto">
-                        <a href="ser-paciente.php"><button class="boton boton-brexia">Convertirse en paciente</button></a>
+                        <a href="ser-paciente "><button class="boton boton-brexia">Convertirse en paciente</button></a>
                     </div>
 
                 </div>

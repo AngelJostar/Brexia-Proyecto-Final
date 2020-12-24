@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head ';?>
     <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>ser-paciente-en-brexia</title>
+    <title>ser paciente en brexia</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php ';?>
 
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
@@ -22,14 +22,14 @@
         <!-- CANVAS -->
         <section id="site-canvas">
         
-        <?php include_once 'includes/templates/header.php';?>
+        <?php include_once 'includes/templates/header ';?>
             
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
                 <div class="tipos-cancer-regresar">
-                    <a href="../index.php">
+                    <a href="../index ">
                             &nbsp; << INICIO</a>
-                    <a href="../contacto.php">
+                    <a href="../contacto ">
                             &nbsp; CONTACTANOS >></a>
                 </div>
             </section>
@@ -164,7 +164,7 @@
                 <p class="font-12 centrar-texto brexia-color fontW-700">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ </p>
             </div>
             <div class="centrar-texto">
-                <a href="../contacto.php"><button class="boton boton-brexia-footer ">Contacto</button></a>
+                <a href="../contacto "><button class="boton boton-brexia-footer ">Contacto</button></a>
             </div>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
                 <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información de como ser paciente en Brexia</p>
@@ -175,7 +175,7 @@
 
 
 
-            <?php include_once 'includes/templates/footer.php';?>
+            <?php include_once 'includes/templates/footer.php ';?>
 
 
         </section>
