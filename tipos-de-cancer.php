@@ -42,7 +42,7 @@
                         <a href="TiposDeCancer/CancerDeColonRecto "> <button class="boton boton-brexia ">Cáncer de Colon y Recto</button></a>
                         <a href="TiposDeCancer/CancerDeEndometrio "> <button class="boton boton-brexia ">Cáncer de Endometrio (Útero)</button></a>
                         <a href="TiposDeCancer/CancerDeEsofago "> <button class="boton boton-brexia ">Cáncer de Esófago</button></a>
-                        <a href="TiposDeCancer/CancerDeEstómago "> <button class="boton boton-brexia ">Cáncer de Estómago</button></a>
+                        <a href="TiposDeCancer/CancerDeEstomago "> <button class="boton boton-brexia ">Cáncer de Estómago</button></a>
                         <a href="TiposDeCancer/CancerDeHigado "> <button class="boton boton-brexia ">Cáncer de Hígado</button></a>
                         <a href="TiposDeCancer/CancerDeMama "><button class="boton boton-brexia ">Cáncer de Mama</button></a>
                         <a href="TiposDeCancer/CancerDeOvario "><button class="boton boton-brexia ">Cáncer de Ovario</button></a>
@@ -51,7 +51,7 @@
                     <div class="centrar-texto ">
                         <div class="centrar-texto ">
                             <a href="TiposDeCancer/CancerDePulmon "><button class="boton boton-brexia ">Cáncer de Pulmón</button></a>
-                            <a href="TiposDeCancer/CancerDeRiñon "><button class="boton boton-brexia ">Cáncer de Riñón</button></a>
+                            <a href="TiposDeCancer/CancerDeRinon "><button class="boton boton-brexia ">Cáncer de Riñón</button></a>
                             <a href="TiposDeCancer/CancerDeTesticulo "><button class="boton boton-brexia ">Cáncer de Testículo</button></a>
                             <a href="TiposDeCancer/CancerDeProstata "><button class="boton boton-brexia ">Cáncer de Próstata</button></a>
                             <a href="TiposDeCancer/CancerDeVejiga "><button class="boton boton-brexia ">Cáncer de Vejiga</button></a>
