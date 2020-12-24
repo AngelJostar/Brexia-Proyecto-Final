@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once 'includes/tags/google_tag_manager_head ';?>
+<?php include_once 'includes/tags/google_tag_manager_head.php ';?>
 <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,7 +24,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-            <?php include_once 'includes/templates/header ';?>
+            <?php include_once 'includes/templates/header.php ';?>
 
             
             <section class="mensaje-gracias">

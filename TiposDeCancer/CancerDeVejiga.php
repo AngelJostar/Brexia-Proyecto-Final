@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?  include_once '../includes/tags/google_tag_manager_head. ';?>
+<?  include_once '../includes/tags/google_tag_manager_head.php ';?>
 <link rel="icon" type="image/png" href="../img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +22,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-        <?  include_once '../includes/templates/header_tipos. ';?>
+        <?  include_once '../includes/templates/header_tipos.php ';?>
         
         <section>
                 <div class="fondo-tipos-de-cancer ">
