@@ -133,7 +133,7 @@
                         <div class="font-16 fontW-400">
                             <p>Su médico diagnosticará cáncer de riñón al revisar su historia clínica y al hacer un examen físico, junto con análisis de sangre y orina.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/diagnostico_cancer_rinon-768x512.webp" alt="cancer de rinion">
+                                <img src="/img/cancer-de-rinon/diagnostico_cancer_rinon-768x512.webp" alt="cancer de rinion">
                             </div>
                             <p>También hará uno o alguno de los siguientes exámenes de diagnóstico por imágenes:</p>
                             <ul class="secciones-enumeradas">
@@ -213,7 +213,7 @@
                                 </li>
                             </ul>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/sintomas_cancer_de_rinon-768x512.webp" alt="cp">
+                                <img src="/img/cancer-de-rinon/sintomas_cancer_de_rinon-768x512.webp" alt="cp">
                             </div>
                             <p>Aunque estos síntomas pueden indicar un tumor renal, también pueden ser causados ​​por otros problemas de salud menos graves. Algunos pacientes con cáncer de riñón no experimentan ninguno de estos sintomas, y otros experimentan
                                 síntomas completamente diferentes.</p>
@@ -225,7 +225,7 @@
                             <p>El carcinoma de células renales (CCR) es el tipo más común de cáncer de riñón. Las células cancerosas generalmente se desarrollan en el revestimiento de tubos muy pequeños en el riñón, llamados túbulos. Con el tiempo, estas
                                 células pueden convertirse en una masa y causar una obstrucción. El cáncer puede formarse en uno o ambos riñones.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/tipos_cancer_de_rinon-768x512.webp" alt="cp">
+                                <img src="/img/cancer-de-rinon/tipos_cancer_de_rinon-768x512.webp" alt="cp">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Subtipos de RCC</h2>
                             <ul class="secciones-enumeradas">
@@ -251,7 +251,7 @@
                             <p>Una vez que se detecta el cáncer de riñón, su médico realizará pruebas para saber si el cáncer se ha diseminado dentro del riñón o a otras partes del cuerpo. Este proceso se denomina clasificación. Es importante conocer el
                                 estadio antes de diseñar un plan de tratamiento. Cuanto más alto es el estadio, más grave es el cáncer.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/estadificacion_cancer_de_rinon-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rion/estadificacion_cancer_de_rinon-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>
                                 Se utilizan los siguientes estadios para el cáncer de células renales:
@@ -275,7 +275,7 @@
                                 de riñón, ciertos factores de riesgo están fuertemente vinculados a la enfermedad, como fumar tabaco y la obesidad. Además, las personas con ciertos síndromes de cáncer hereditario o antecedentes familiares de cáncer de
                                 riñón tienen un alto riesgo de desarrollar la enfermedad.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/factores_cancer_de_rinon-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/factores_cancer_de_rinon-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Pasos importantes para reducir el riesgo de Cáncer de Riñón</h2>
                             <ul class="secciones-enumeradas">
@@ -306,7 +306,7 @@
                                     inmunosupresor si ha sido sometido a un trasplante. Sin él, el cuerpo rechazará el nuevo riñón.</li>
                             </ul>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/insuficiencia_renal-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/insuficiencia_renal-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>Por otra parte, alrededor de un tercio de los sobrevivientes de cáncer de riñón tienen o desarrollarán insuficiencia renal. Algunas de las razones son:</p>
                             <ul class="secciones-enumeradas">
@@ -337,43 +337,43 @@
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Estadísticas Generales</h2>
 
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON-768x572.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON-768x572.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Casos nuevos vs Defunciones</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_casos_nuevos-768x629.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_casos_nuevos-768x629.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Supervivencia del Cáncer de Riñón</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_supervivencia-768x601.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_supervivencia-768x601.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Números de casos por Estudio</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_estadios-768x502.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_estadios-768x502.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_5_años_supervivencia-768x641.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_5_años_supervivencia-768x641.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_estadisticas-768x474.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_estadisticas-768x474.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_nuevos_casos-768x816.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_nuevos_casos-768x816.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de casos nuevos por grupo de edad:</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_nuevos_casos_supervivencia-768x575.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_nuevos_casos_supervivencia-768x575.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_casos_brexia-768x370.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_casos_brexia-768x370.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Porcentaje de muertes por grupo de edad</h2>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_muertes-768x516.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_muertes-768x516.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-riñon/CANCER-DE-RINON_muertes_por_cancer-768x286.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_muertes_por_cancer-768x286.webp" alt="Brexia_especialistas">
                             </div>
                         </div>
 
