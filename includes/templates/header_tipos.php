@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header">
-                <a href="../index.php"><img src="/img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
+                <a href="../index "><img src="/img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
             </div>
             <div class="mid-font">
                 <p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
@@ -28,19 +28,19 @@
                 <div class="site-menu-content">
                     <a href="#" class="toggle-nav icono-menu"><i class="fas fa-times"></i></a>
                     <ul class="resaltar">
-                        <li><a href="../index.php" class="menu-a">Inicio</a></li>
+                        <li><a href="../index " class="menu-a">Inicio</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../como-tratamos-el-cancer.php" class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
+                        <li><a href="../como-tratamos-el-cancer " class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../ser-paciente.php" class="menu-a">Ser paciente en Brexia</a></li>
+                        <li><a href="../ser-paciente " class="menu-a">Ser paciente en Brexia</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../aspectos-basicos-cancer.php" class="menu-a">Aspectos básicos del Cáncer</a></li>
+                        <li><a href="../aspectos-basicos-cancer " class="menu-a">Aspectos básicos del Cáncer</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../tipos-de-cancer.php" class="menu-a">Tipos de Cáncer</a></li>
+                        <li><a href="../tipos-de-cancer " class="menu-a">Tipos de Cáncer</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../segundo-opinion.php" class="menu-a">Segunda Opinión</a></li>
+                        <li><a href="../segundo-opinion " class="menu-a">Segunda Opinión</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../contacto.php" class="menu-a">Contacto</a></li>
+                        <li><a href="../contacto " class="menu-a">Contacto</a></li>
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
@@ -66,13 +66,13 @@
 
         <div class="low-header">
             <ul>
-                <li><a href="../index.php ">Inicio</a></li>
-                <li><a href="../como-tratamos-el-cancer.php">¿Cómo tratamos el Cáncer?</a></li>
-                <li><a href="../ser-paciente.php">Ser paciente en Brexia</a></li>
-                <li><a href="../aspectos-basicos-cancer.php">Aspectos básicos del Cáncer</a></li>
-                <li><a href="../tipos-de-cancer.php">Tipos de Cáncer</a></li>
-                <li><a href="../segundo-opinion.php">Segunda Opinión</a></li>
-                <li><a href="../contacto.php">Contacto</a></li>
+                <li><a href="../index  ">Inicio</a></li>
+                <li><a href="../como-tratamos-el-cancer ">¿Cómo tratamos el Cáncer?</a></li>
+                <li><a href="../ser-paciente ">Ser paciente en Brexia</a></li>
+                <li><a href="../aspectos-basicos-cancer ">Aspectos básicos del Cáncer</a></li>
+                <li><a href="../tipos-de-cancer ">Tipos de Cáncer</a></li>
+                <li><a href="../segundo-opinion ">Segunda Opinión</a></li>
+                <li><a href="../contacto ">Contacto</a></li>
             </ul>
         </div>
     </div>

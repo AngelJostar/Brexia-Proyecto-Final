@@ -12,7 +12,7 @@
 
 </head>
 
-<?php include_once 'includes/tags/google_tag_manager_body.php ';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
     <div id="top-header" class="top-header ">
          <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
@@ -22,7 +22,7 @@
         <!-- CANVAS -->
         <section id="site-canvas">
 
-        <?php include_once 'includes/templates/header.php ';?>
+        <?php include_once 'includes/templates/header.php';?>
 
 
             <div id="intro-content" class="intro-content">
@@ -68,7 +68,7 @@
             </section>
 
 
-            <?php include_once 'includes/templates/footer.php ';?>
+            <?php include_once 'includes/templates/footer.php';?>
 
 
         </section>
