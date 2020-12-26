@@ -41,7 +41,7 @@
                     BÁSICOS DEL CÁNCER.
                 </p>
                 <div class="centrar-texto pt-4">
-                <a href="Como-tratramos-el-cancer/Informacion-del-Cancer "><button class="boton boton-brexia"> Información del Cáncer</button></a>
+                <a href="Como-tratramos-el-cancer/Informacion-del-Cancer"><button class="boton boton-brexia"> Información del Cáncer</button></a>
                 </div>
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se diagnostica el cáncer?</h2>
@@ -50,7 +50,7 @@
                 </p>
 
                 <div class="centrar-texto pt-4">
-                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-cancer "><button class="boton boton-brexia"> Diagnosticando el Cáncer</button></a>
+                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-cancer"><button class="boton boton-brexia"> Diagnosticando el Cáncer</button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se trata el cáncer?</h2>
                 <p>En Brexia nuestros expertos en cáncer tratan el cáncer con una amplia gama de técnicas y enfoques innovadores que incluyen herramientas de diagnóstico de alta tecnología, radioterapia dirigida, técnicas quirúrgicas mínimamente invasivas
@@ -58,7 +58,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2">
-                    <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento "><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
+                    <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Quién trata el cáncer?</h2>
                 <p>En Brexia tratamos el cáncer con un enfoque multidisciplinario que junta tratamientos convencionales con terapias de apoyo, administrados simultáneamente por un equipo colaborativo de médicos. El objetivo de la atención integral del cáncer
@@ -67,7 +67,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2">
-                    <a href="Como-tratramos-el-cancer/Equipo-multidisciplinario "><button class="boton boton-brexia">Equipo multidisciplinario</button></a>
+                    <a href="Como-tratramos-el-cancer/Equipo-multidisciplinario"><button class="boton boton-brexia">Equipo multidisciplinario</button></a>
                 </div>
 
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">Sentimientos y Emociones</h2>
@@ -76,7 +76,7 @@
                 </p>
 
                 <div class="centrar-texto paddingTop-2 paddingBottom-3">
-                    <a href="Como-tratramos-el-cancer/Sentimientos-y-el-cancer "><button class="boton boton-brexia">Sentimientos y el Cáncer</button></a>
+                    <a href="Como-tratramos-el-cancer/Sentimientos-y-el-cancer"><button class="boton boton-brexia">Sentimientos y el Cáncer</button></a>
                 </div>
 
             </div>
