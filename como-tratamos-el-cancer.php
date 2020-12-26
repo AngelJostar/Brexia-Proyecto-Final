@@ -54,7 +54,7 @@
                     <br> <br> Conoce cómo cada integrante del equipo de Brexia asistirá en el tratamiento de tu cáncer explorando el enlace a continuación:
                 </p>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/equipo-multidisciplinario "><button class="boton boton-brexia"> Equipo Multidisciplinario en Brexia </button></a>
+                    <a href="Como-tratramos-el-cancer/Equipo-multidisciplinario "><button class="boton boton-brexia"> Equipo Multidisciplinario en Brexia </button></a>
                 </div>
                 <p class="paddingtop-30">Los pacientes y sus cuidadores estarán involucrados en cada paso del camino, facultados para tomar decisiones informadas sobre su atención. El siguiente mapa muestra el enfoque de atención integral que recibirás en Brexia.</p>
                 <img src="/img/COMO-TRATAMOS-EL-CANCER-768x840.png" alt="como-tratamos-el-cancer">
@@ -64,7 +64,7 @@
                     continuación para aprender más acerca de los sentimientos y el cáncer y como los tratamos en Brexia:
                 </p>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/sentimientos-y-el-cancer "><button class="boton boton-brexia"> Sentimientos y el Cáncer </button></a>
+                    <a href="Como-tratramos-el-cancer/Sentimientos-y-el-cancer "><button class="boton boton-brexia"> Sentimientos y el Cáncer </button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingtop-50 ">Enfoque Moderno y Vanguardista</h2>
                 <p>Nuestros expertos en cáncer tratan el cáncer con una amplia gama de técnicas y enfoques innovadores y estándar de atención, que incluyen herramientas de diagnóstico de alta tecnología, radioterapia dirigida, técnicas quirúrgicas mínimamente
@@ -74,7 +74,7 @@
                     <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento "><button class="boton boton-brexia"> Opciones de tratamiento </button></a>
                 </div>
                 <div class="centrar-texto">
-                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-Cáncer "><button class="boton boton-brexia">Diagnosticando el cáncer </button></a>
+                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-Cancer "><button class="boton boton-brexia">Diagnosticando el cáncer </button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingtop-50 ">¿Estás buscando una segunda opinión?</h2>
                 <p>Buscar una segunda opiniòn puede ayudarlo a tomar una decision mas informada sobre su tratamiento contra el cancer. Da click en el enlace a continuacion para aprender de los beneficios de obtener una segunda opinion para su atencion del

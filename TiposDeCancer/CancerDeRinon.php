@@ -352,7 +352,7 @@
                                 <img src="/img/cancer-de-rinon/CANCER-DE-RINON_estadios-768x502.webp" alt="Brexia_especialistas">
                             </div>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_5_años_supervivencia-768x641.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/CANCER-DE-RINON_5_anos_supervivencia-768x641.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">¿Qué tan común es este cáncer?</h2>
                             <div class="imagen-80 centrar-imagen ">
