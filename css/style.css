@@ -1362,7 +1362,7 @@ ul.tabs li a:focus {
         display: none;
     }
     .left-movil-tab li {
-        padding-left: 10%;
+        padding-left: 0;
     }
     .right-movil-tab li {
         padding-right: 10%;
