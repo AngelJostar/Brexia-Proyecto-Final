@@ -50,7 +50,7 @@
                 </p>
 
                 <div class="centrar-texto pt-4">
-                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-cancer"><button class="boton boton-brexia"> Diagnosticando el Cáncer</button></a>
+                    <a href="Como-tratramos-el-cancer/Diagnosticando-el-Cancer"><button class="boton boton-brexia"> Diagnosticando el Cáncer</button></a>
                 </div>
                 <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Cómo se trata el cáncer?</h2>
                 <p>En Brexia nuestros expertos en cáncer tratan el cáncer con una amplia gama de técnicas y enfoques innovadores que incluyen herramientas de diagnóstico de alta tecnología, radioterapia dirigida, técnicas quirúrgicas mínimamente invasivas
