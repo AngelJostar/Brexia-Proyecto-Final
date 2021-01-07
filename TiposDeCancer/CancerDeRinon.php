@@ -251,7 +251,7 @@
                             <p>Una vez que se detecta el cáncer de riñón, su médico realizará pruebas para saber si el cáncer se ha diseminado dentro del riñón o a otras partes del cuerpo. Este proceso se denomina clasificación. Es importante conocer el
                                 estadio antes de diseñar un plan de tratamiento. Cuanto más alto es el estadio, más grave es el cáncer.</p>
                             <div class="imagen-80 centrar-imagen ">
-                                <img src="/img/cancer-de-rion/estadificacion_cancer_de_rinon-768x512.webp" alt="Brexia_especialistas">
+                                <img src="/img/cancer-de-rinon/estadificacion_cancer_de_rinon-768x512.webp" alt="Brexia_especialistas">
                             </div>
                             <p>
                                 Se utilizan los siguientes estadios para el cáncer de células renales:

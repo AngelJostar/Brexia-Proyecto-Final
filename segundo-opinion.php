@@ -29,7 +29,7 @@
             <section>
                 <div class="fondo-tipos-de-cancer ">
                     <div class="ocultar-h1">
-                        <h1>¿Cómo tratamos <br> el Cáncer?</h1>
+                        <h1>Segunda Opinión</h1>
                     </div>
                     <div class="tipos-cancer-img">
                         <img src="img/Segunda-opinion.webp" alt="">

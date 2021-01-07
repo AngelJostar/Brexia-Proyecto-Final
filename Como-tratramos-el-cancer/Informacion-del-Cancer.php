@@ -111,7 +111,7 @@
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">Número de Cáncer en México</h2>
                             <div class="imagen-80 centrar-imagen">
-                                <img src="/img/informacion-del-cancer/02Número-de-cancer_méxico-768x917.webp" alt="Brexia_especialistas">
+                                <img src="/img/informacion-del-cancer/02Numero-de-cancer_mexico-768x917.webp" alt="Brexia_especialistas">
                             </div>
                             <h2 class="centrar-texto brexia-color encabezados-brexia ">A continuación se muestras las estadísticas de Cáncer por genero según la OMS en México</h2>
                             <div class="imagen-80 centrar-imagen">

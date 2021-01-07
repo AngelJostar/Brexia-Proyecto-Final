@@ -57,7 +57,7 @@
             <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información sobre Otros Tipos de Cáncer </p>
         </div>
         <div class="centrar-texto">
-            <a href="../Como-tratramos-el-cancer/informacion-del-cancer "><button class="boton boton-brexia">Información del Cáncer</button></a>
+            <a href="../Como-tratramos-el-cancer/informacion-del-cancer"><button class="boton boton-brexia">Información del Cáncer</button></a>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
