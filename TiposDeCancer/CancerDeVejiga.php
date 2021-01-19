@@ -465,7 +465,7 @@
                 </div>
                 <a href="../contacto. " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
                 <div class="boton-no">
-                    <a style="padding-bottom: 20px;" type="button" class="btn waves-effect" data-dismiss="modal">No, gracias</a>
+                    <a style="padding-bottom: 20px;"   class="btn waves-effect" data-dismiss="modal">No, gracias</a>
                 </div>
                 <div  class="texto-secundario-2">
                     <p>Se parte de los + 1000 pacientes</p>
@@ -475,7 +475,7 @@
                 <div  class="texto-secundario-2 paddingTop-2 paddingBottom-2">
                     <p>Tu salud es primero, el cáncer no espera.</p>
                 </div>
-                <a style="font-size: 10px; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;" type="button" class=" waves-effect" data-dismiss="modal">CERRAR</a>
+                <a style="font-size: 10px; font-weight: 700; color: black; letter-spacing:10px; text-decoration: none;"   class=" waves-effect" data-dismiss="modal">CERRAR</a>
             </div>
         </div>
     </div>
