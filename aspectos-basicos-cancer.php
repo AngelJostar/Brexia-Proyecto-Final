@@ -60,8 +60,9 @@
             </p>
 
             <div class="centrar-texto paddingTop-2">
-                <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
+                <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento.php"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
             </div>
+            
             <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Quién trata el cáncer?</h2>
             <p>En Brexia tratamos el cáncer con un enfoque multidisciplinario que junta tratamientos convencionales con terapias de apoyo, administrados simultáneamente por un equipo colaborativo de médicos. El objetivo de la atención integral del cáncer
                 es ayudar a los pacientes a tolerar mejor los efectos secundarios relacionados con el tratamiento para aprovechar al máximo la vida. Haga click en el enlace a continuación para encontrar toda la información relacionada con todos LOS ESPECIALISTAS

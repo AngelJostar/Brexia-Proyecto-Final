@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="facebook-domain-verification" content="oh0lugf664udqpdprdktx9iolbvn94" />
     <title>MÉDICOS ESPECIALISTAS EN CÁNCER</title>
     <link rel="stylesheet" rel="preload" href="css/style.css" media="all">
     <link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
