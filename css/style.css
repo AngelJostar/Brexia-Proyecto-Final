@@ -1671,3 +1671,104 @@ a[href^=tel] {
     font-size: 15px;
     display: grid;
 }
+
+
+/*Videos*/
+
+.contenedor-video {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto
+}
+
+.reproductor {
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    position: relative;
+    width: 350px;
+    height: 350px;
+    cursor: hand;
+    cursor: pointer;
+    display: block
+}
+
+img.imagen-previa {
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    object-fit: cover;
+    right: 0;
+    top: 0;
+    border: 0
+}
+
+@media (min-width:580px) {
+    .contenedor-video {
+        max-width: 400px;
+    }
+    .reproductor {
+        width: 400px;
+        height: 400px
+    }
+    img.imagen-previa {
+        width: 401px;
+        height: 400px
+    }
+}
+
+.contenedor-casos-de-exito {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.titulo-casos-exito {
+    background-color: #914568;
+}
+
+.titulo-casos-exito-h1 {
+    color: #914568;
+    text-align: center;
+}
+
+.titulo-casos-exito h2 {
+    color: white;
+    max-width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 4vw !important;
+    font-weight: 400;
+}
+
+.tamaño-img {
+    margin: 0 auto;
+    max-width: 100%
+}
+
+.mt-2 {
+    margin-top: 2em;
+}
+
+.mt-1 {
+    margin-top: 1em;
+}
+
+@media (min-width:580px) {
+    .tamaño-img {
+        margin: 0 auto;
+        max-width: 75%
+    }
+}
+
+@media (min-width:1200px) {
+    .tamaño-img {
+        margin: 0 auto;
+        max-width: 50%
+    }
+}
