@@ -10,7 +10,6 @@
     <meta name="facebook-domain-verification" content="oh0lugf664udqpdprdktx9iolbvn94" />
     <title>MÉDICOS ESPECIALISTAS EN CÁNCER</title>
     <link rel="stylesheet" rel="preload" href="css/style.css" media="all">
-    <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
     <link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
 
 </head>
@@ -52,10 +51,26 @@
                         <a href="tipos-de-cancer"><button class="boton boton-brexia">Información por tipo de cáncer</button></a>
                     </div>
                 </div>
+
+
+                <div>
+
+                    <div class="contenedor-video-2">
+                        <div class="reproductor-rectangular" data-id="-rYObnyuhUc"></div>
+                    </div>
+
+                    <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando una segunda opinión?</h2>
+                    <p>Buscar una segunda opinión puede ayudarlo a tomar una decisión más informada sobre su tratamiento contra el cáncer. Da click en el enlace a continuación para aprender de los beneficios de obtener una segunda opinión para su atención
+                        del cáncer.</p>
+                    <div class="centrar-texto">
+                        <a href="segundo-opinion "><button class="boton boton-brexia">Segunda Opinión</button></a>
+                    </div>
+                    <div class="centrar-texto">
+                        <a href="ser-paciente "><button class="boton boton-brexia">Convertirse en paciente</button></a>
+                    </div>
+
+                </div>
             </div>
-
-
-
 
             <?php include_once 'includes/templates/footer.php';?>
 
@@ -70,8 +85,8 @@
     <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-    <script src="/js/jquery-3.5.1.min.js"></script>
-    <script src="/js/scripts.js "></script>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/scripts.js "></script>
 </body>
 
 

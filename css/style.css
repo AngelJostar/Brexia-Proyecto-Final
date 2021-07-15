@@ -1499,14 +1499,35 @@ textarea {
 
 .contenedor-video {
     display: block;
-    margin: 20px auto;
     width: 100%;
-    max-width: 600px;
+    max-width: 350px;
+    margin: 0 auto
+}
+
+.contenedor-video-2 {
+    display: block;
+    margin: auto;
+    width: 90%;
+    max-width: 700px;
+    padding-top: 2rem
 }
 
 .reproductor {
+    margin: 0 auto;
     display: block;
-    width: 100%;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    position: relative;
+    width: 350px;
+    height: 350px;
+    cursor: hand;
+    cursor: pointer;
+    display: block
+}
+
+.reproductor-rectangular {
+    margin: 0 auto;
+    display: block;
     padding-bottom: 56.25%;
     overflow: hidden;
     position: relative;
@@ -1514,7 +1535,7 @@ textarea {
     height: 100%;
     cursor: hand;
     cursor: pointer;
-    display: block;
+    display: block
 }
 
 img.imagen-previa {
@@ -1522,12 +1543,28 @@ img.imagen-previa {
     display: block;
     left: 0;
     margin: auto;
-    max-width: 100%;
-    width: 100%;
+    width: 350px;
+    height: 350px;
     position: absolute;
+    object-fit: cover;
     right: 0;
     top: 0;
-    height: auto
+    border: 0
+}
+
+img.imagen-previa-rectangular {
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: auto;
+    width: 102%;
+    position: absolute;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    right: 0;
+    top: 0
 }
 
 div.youtube-play {
@@ -1537,13 +1574,13 @@ div.youtube-play {
     top: 50%;
     margin-left: -36px;
     margin-top: -36px;
-    opacity: 0.7;
+    opacity: .7;
     position: absolute;
-    background: url("https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png") no-repeat;
+    background: url(https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png) no-repeat
 }
 
 div.youtube-play:hover {
-    opacity: 1;
+    opacity: 1
 }
 
 #youtube-iframe {
@@ -1551,7 +1588,7 @@ div.youtube-play:hover {
     height: 100%;
     position: absolute;
     top: 0;
-    left: 0;
+    left: 0
 }
 
 .mensaje-gracias {
@@ -1730,6 +1767,7 @@ img.imagen-previa {
 
 .titulo-casos-exito {
     background-color: #914568;
+    padding: 1em 0;
 }
 
 .titulo-casos-exito-h1 {
@@ -1742,13 +1780,24 @@ img.imagen-previa {
     max-width: 80%;
     text-align: center;
     margin: 0 auto;
-    font-size: 4vw !important;
+    font-size: calc(1.5em + 1vw)!important;
     font-weight: 400;
 }
 
-.tamaño-img {
+.tamaño-img-casos-de-exito {
+    text-align: center;
+}
+
+.tamaño-img-casos-de-exito img {
     margin: 0 auto;
-    max-width: 100%
+    max-width: 100%;
+}
+
+@media (min-width: 886px) {
+    .tamaño-img-casos-de-exito img {
+        margin: 0 auto;
+        max-width: 40%;
+    }
 }
 
 .mt-2 {
@@ -1757,18 +1806,4 @@ img.imagen-previa {
 
 .mt-1 {
     margin-top: 1em;
-}
-
-@media (min-width:580px) {
-    .tamaño-img {
-        margin: 0 auto;
-        max-width: 75%
-    }
-}
-
-@media (min-width:1200px) {
-    .tamaño-img {
-        margin: 0 auto;
-        max-width: 50%
-    }
 }

@@ -86,8 +86,8 @@
                 <div class="secciones ocultar-text">
                     <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer Cervicouterino</h2>
 
-                    <div class="contenedor-video">
-                        <div class="reproductor" data-id="hrToSH081Sc"></div>
+                    <div class="contenedor-video-2">
+                        <div class="reproductor-rectangular" data-id="hrToSH081Sc"></div>
                     </div>
                 </div>
                 

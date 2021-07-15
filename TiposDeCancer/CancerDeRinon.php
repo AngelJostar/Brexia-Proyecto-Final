@@ -46,8 +46,8 @@
 
             <div class="secciones mostrar-texto">
                 <h2 class="centrar-texto brexia-color font-18 fontW-800 paddingTop-2">Cáncer de Riñón</h2>
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="hCB1cIjktBM"></div>
+                <div class="contenedor-video-2">
+                    <div class="reproductor-rectangular" data-id="hCB1cIjktBM"></div>
                 </div>
                 <h2 class="centrar-texto brexia-color font-16 fontW-800 paddingBottom-2 ">Secciones de Cáncer de Riñón</h2>
             </div>
@@ -88,8 +88,8 @@
                 <div class="secciones ocultar-text">
                     <h2 class="centrar-texto brexia-color font-18 fontW-800">Cáncer de Riñón</h2>
 
-                    <div class="contenedor-video">
-                        <div class="reproductor" data-id="hCB1cIjktBM"></div>
+                    <div class="contenedor-video-2">
+                        <div class="reproductor-rectangular" data-id="hCB1cIjktBM"></div>
                     </div>
                 </div>
 

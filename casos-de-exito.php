@@ -45,8 +45,8 @@
                         </div>
                     </div>
 
-                    <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                    <div class="caso-de-exito  mt-2">
+                        <div class="tamaño-img-casos-de-exito">
                             <img src="/img/casos-de-exito/Laura-munos-35-anos-vencio-el-cancer-de-mama.webp" alt="Laura muños 35 años vencio el cancer de mama">
                         </div>
                         <div class="body-container">
@@ -80,7 +80,7 @@
                         <h2>José Luis, 54 años <br> Venció el Cáncer de Pulmón</h2>
                     </div>
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/jose-luis-54-anos-vencio-el-cancer-de-pulmon.webp" alt="caso de exito jose luis">
                         </div>
                         <div class="body-container">
@@ -110,7 +110,7 @@
                         <h2>Anónimo <br> Venció el Cáncer de Testículo</h2>
                     </div>
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/anonimo-vencio-el-cancer-de-testiculo.webp" alt="caso de exito anomimo">
                         </div>
                         <div class="body-container">
@@ -139,10 +139,10 @@
                         <h2>Gerardo, 36 años <br> Venció el Cáncer de Amígdala</h2>
                     </div>    
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/gerardo-36-anos-vencio-el-cancer-de-amigdala.webp" alt="caso de exito gerardo 36s">
                         </div>
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/gerardo-36-anos-vencio-el-cancer-de-amigdala-2.webp" alt="caso de exito gerardo 36">
                         </div>
                         <div class="body-container">
@@ -175,7 +175,7 @@
                         <h2>María Fernanda, 73 años <br> Venció el Cáncer de Estomago</h2>
                     </div>  
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/maria-fernanda-73-anos-vencio-el-cancer-de-estomago.webp" alt="caso de exito maria fernanda 73">
                         </div>
                         <div class="body-container">
@@ -203,7 +203,7 @@
                         <h2>Miguel Angel, 68 años <br> Venció Cáncer de Colon y Recto</h2>
                     </div>  
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/miguel-angel-68-vencio-cancer-de-colon-y-recto.webp" alt="caso de exito miguel angel 68">
                         </div>
                         <div class="body-container">
@@ -228,7 +228,7 @@
                     -->
                     <!--
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/silvia-31-anos-vencio-el-cancer-de-mama.webp" alt="caso de exito silvia 31">
                         </div>
                         <div class="body-container">
@@ -251,7 +251,7 @@
                         <h2>Carlos, 16 años <br>Venció el Cáncer</h2>
                     </div> 
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/carlos-16-anos-vencio-el-cancer.webp" alt="caso de exito carlos 16">
                         </div>
                         <div class="body-container">
@@ -274,7 +274,7 @@
                         <h2>Francisco Javier, 35 años <br> Linfoma </h2>
                     </div> 
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/Superviviente-Cancer-de-Mama-Brexia-7.webp" alt="caso de exito fracisco">
                         </div>
                         <div class="body-container">
@@ -302,7 +302,7 @@
                         <h2>Jesús, 40 años <br> Venció el Cáncer de Esófago</h2>
                     </div> 
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/jesus-40-anos-vencio-el-cancer-de-esofago.webp" alt="caso de exito jesus 40">
                         </div>
                         <div class="body-container">
@@ -345,7 +345,7 @@
                         <h2>Maria Cristina, 39 años <br> Venció el Cáncer de Mama</h2>
                     </div> 
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/maria-cristina-39-anos-vencio-el-cancer-de-mama.webp" alt="caso de exito maria cristina 39">
                         </div>
                         <div class="body-container">
@@ -374,7 +374,7 @@
                         <h2>Guadalupe, 36 años <br> Venció el Cáncer de Vejiga</h2>
                     </div> 
                     <div class="caso-de-exito">
-                        <div class="tamaño-img mt-2">
+                        <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/guadalupe-36-anos-vencio-el-cancer-de-vejiga.webp" alt="caso de exito guadalupe 39">
                         </div>
                         <div class="body-container">
