@@ -309,6 +309,8 @@ h4 {
     list-style: none;
     padding-top: 3rem;
     word-spacing: 0em;
+    max-width: 80%;
+    margin: 0 auto;
 }
 
 .low-header li {
@@ -317,10 +319,11 @@ h4 {
 }
 
 .low-header a {
-    font-size: 18px;
+    font-size: calc(0.5em + 1vw);
     font-weight: bold;
     text-decoration: none;
     color: #a86182;
+    line-height: 1.6;
 }
 
 .low-header ul li a:focus {

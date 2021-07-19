@@ -38,7 +38,9 @@
                         <div class="linea-menu"></div>
                         <li><a href="tipos-de-cancer " class="menu-a">Tipos de Cáncer</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="segundo-opinion " class="menu-a">Segunda Opinión</a></li>
+                        <li><a href="segundo-opinion" class="menu-a">Segunda Opinión</a></li>
+                        <div class="linea-menu"></div>
+                        <li><a href="casos-de-exito" class="menu-a">Casos de éxito</a></li>
                         <div class="linea-menu"></div>
                         <li><a href="contacto " class="menu-a">Contacto</a></li>
                         <div class="linea-menu"></div>
@@ -72,6 +74,7 @@
                 <li><a href="aspectos-basicos-cancer ">Aspectos básicos del Cáncer</a></li>
                 <li><a href="tipos-de-cancer ">Tipos de Cáncer</a></li>
                 <li><a href="segundo-opinion ">Segunda Opinión</a></li>
+                <li><a href="casos-de-exito">Casos de éxito</a></li>
                 <li><a href="contacto ">Contacto</a></li>
             </ul>
         </div>

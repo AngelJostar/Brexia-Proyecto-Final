@@ -221,32 +221,14 @@
                             </div>
                         </div>                               
                     </div> 
-                    <!--
                     <div class="titulo-casos-exito ">
                         <h2>Silvia, 31 años <br> Venció el Cáncer de Mama</h2>
                     </div> 
-                    -->
-                    <!--
                     <div class="caso-de-exito">
                         <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/silvia-31-anos-vencio-el-cancer-de-mama.webp" alt="caso de exito silvia 31">
-                        </div>
-                        <div class="body-container">
-                            <div class="accordion">
-                                <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Unas palabras para ti...</span></button>
-                                    <div class="accordion-content">
-                                        <p>“Me diagnosticaron cáncer de recto agresivo el 15 de septiembre de 2017.
-                                        Me sometí a quimioterapia y radiación durante 6 semanas, luego me
-                                        sometí a una cirugía para extirpar el tumor el 8 de enero de 2018. Tuve
-                                        quimioterapia de limpieza durante 8 semanas.</p>
-                                        <p>La recuperación ha sido un desafío, ya que mi cuerpo aún no se ha
-                                        regulado a sí mismo, pero estoy aquí para decir que estoy vivo y estoy
-                                        aprendiendo a vivir con mi nueva normalidad. La vida es buena.</p>
-                                    </div>
-                            </div>
                         </div>                               
-                    </div> -->
-                    <!--
+                    </div> 
                     <div class="titulo-casos-exito ">
                         <h2>Carlos, 16 años <br>Venció el Cáncer</h2>
                     </div> 
@@ -340,36 +322,14 @@
                             <div class="reproductor" data-id="nUaAjtcqSTI"></div>
                         </div>
                     </div>
-                    <!--
                     <div class="titulo-casos-exito ">
                         <h2>Maria Cristina, 39 años <br> Venció el Cáncer de Mama</h2>
                     </div> 
                     <div class="caso-de-exito">
                         <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/maria-cristina-39-anos-vencio-el-cancer-de-mama.webp" alt="caso de exito maria cristina 39">
-                        </div>
-                        <div class="body-container">
-                            <div class="accordion">
-                                <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Conoce su historia</span></button>
-                                    <div class="accordion-content">
-                                        <p>Jesús sufría de acidez de estómago desde que era niño. Al crecer, se acostumbró tanto que
-                                        nunca se le ocurrió a Jesús ir al médico. La madre de Jesús, que trabajaba en el consultorio de
-                                        un médico, insistió una y otra vez en que buscara atención médica. "¡Finalmente pensé que si
-                                        iba al médico, mi mamá dejaría de molestarme para que fuera!"</p>
-                                        <p>El médico ordenó una radiografía gastrointestinal superior, que reveló pliegues en el esófago
-                                        de Jesús. Un año después, a la edad de 34 años, Bobby programó una endoscopia completa.
-                                        La noticia fue impactante. Bobby tenía cáncer en el esófago. Su médico lo remitió a Brexia y
-                                        sus padres, Sofía y Manuel, apoyaron su decisión. Sofía explicó: "Tan pronto como conocimos
-                                        al Dr. Roberto, y su enfermera, nos agradaron y supimos que estábamos en las mejores
-                                        manos".</p>
-                                        <p>En octubre de 2020, Bobby alcanzará la marca de 5 años desde su diagnóstico de cáncer. "Es
-                                        una gran sensación estar vivo y bien. Tomo mis medicamentos todos los días y dejé de fumar y
-                                        beber. Me siento muy afortunado de haber sido tratado por los talentosos médicos y
-                                        enfermeras de Brexia. Realmente me salvaron la vida.”</p>
-                                    </div>
-                            </div>
-                        </div>                               
-                    </div> -->
+                        </div>                     
+                    </div>
                     <div class="titulo-casos-exito mt-2 ">
                         <h2>Guadalupe, 36 años <br> Venció el Cáncer de Vejiga</h2>
                     </div> 
