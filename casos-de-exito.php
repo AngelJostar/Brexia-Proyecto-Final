@@ -322,7 +322,7 @@
                             <div class="reproductor" data-id="nUaAjtcqSTI"></div>
                         </div>
                     </div>
-                    <div class="titulo-casos-exito ">
+                    <div class="titulo-casos-exito mt-2">
                         <h2>Maria Cristina, 39 años <br> Venció el Cáncer de Mama</h2>
                     </div> 
                     <div class="caso-de-exito">
