@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Como tratamos el cancer</title>
+    <meta name="description" content="En Brexia un equipo de médicos se reunirá para diseñar un plan de atención diseñado para satisfacer sus necesidades y objetivos de tratamiento.">
+    <title>Como tratamos el Cáncer - Clinica especialista en Cáncer</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 

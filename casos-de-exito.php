@@ -6,7 +6,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>El cáncer</title>
+<meta name="description" content="Es de ayuda conocer casos de otros pacientes que lograron salir victoriosos en su lucha contra el Cáncer. Motiva ver muestras de inspiración y fortaleza de nuestros pacientes.">
+<title>Casos de éxito en pacienciente de Brexia</title>
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" rel="preload" href="/css/style-casos-de-exito.css" media="all">
@@ -235,21 +236,7 @@
                     <div class="caso-de-exito">
                         <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/carlos-16-anos-vencio-el-cancer.webp" alt="caso de exito carlos 16">
-                        </div>
-                        <div class="body-container">
-                            <div class="accordion">
-                                <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">Unas palabras para ti...</span></button>
-                                    <div class="accordion-content">
-                                        <p>“Me diagnosticaron cáncer de recto agresivo el 15 de septiembre de 2017.
-                                        Me sometí a quimioterapia y radiación durante 6 semanas, luego me
-                                        sometí a una cirugía para extirpar el tumor el 8 de enero de 2018. Tuve
-                                        quimioterapia de limpieza durante 8 semanas.</p>
-                                        <p>La recuperación ha sido un desafío, ya que mi cuerpo aún no se ha
-                                        regulado a sí mismo, pero estoy aquí para decir que estoy vivo y estoy
-                                        aprendiendo a vivir con mi nueva normalidad. La vida es buena.</p>
-                                    </div>
-                            </div>
-                        </div>                               
+                        </div>                                 
                     </div>
                     -->
                     <div class="titulo-casos-exito ">
@@ -314,7 +301,7 @@
                     </div> 
                     <div>
                         <div class="contenedor-video mt-2">
-                            <div class="reproductor" data-id="IuwHVcJivfI"></div>
+                            <div class="reproductor" data-id="RcJ2Y4wlvcc"></div>
                         </div>
                     </div>
                     <div>
@@ -333,7 +320,7 @@
                     <div class="titulo-casos-exito mt-2 ">
                         <h2>Guadalupe, 36 años <br> Venció el Cáncer de Vejiga</h2>
                     </div> 
-                    <div class="caso-de-exito">
+                    <div class="">
                         <div class="tamaño-img-casos-de-exito mt-2">
                             <img src="/img/casos-de-exito/guadalupe-36-anos-vencio-el-cancer-de-vejiga.webp" alt="caso de exito guadalupe 39">
                         </div>
@@ -356,7 +343,25 @@
                             </div>
                         </div>                               
                     </div>
-
+                    <div class="titulo-casos-exito mt-2 ">
+                        <h2>Unas ultimas palabras...</h2>
+                    </div> 
+                    <div>
+                        <div class="contenedor-video mt-2 mb-2">
+                            <div class="reproductor" data-id="LDjTMW4-8d0"></div>
+                        </div>
+                    </div>
+                    <div class="contenedor-casos-exito">
+                        <h2 class="brexia-color centrar-texto interlineado">¿Estás buscando una segunda opinión?</h2>
+                        <p>Buscar una segunda opinión puede ayudarlo a tomar una decisión más informada sobre su tratamiento contra el cáncer. Da click en el enlace a continuación para aprender de los beneficios de obtener una segunda opinión para su atención
+                            del cáncer.</p>
+                        <div class="centrar-texto">
+                            <a href="segundo-opinion "><button class="boton boton-brexia">Segunda Opinión</button></a>
+                        </div>
+                        <div class="centrar-texto">
+                            <a href="ser-paciente "><button class="boton boton-brexia">Convertirse en paciente</button></a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

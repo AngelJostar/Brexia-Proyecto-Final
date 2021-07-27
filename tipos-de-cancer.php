@@ -6,7 +6,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Tipos de Cáncer</title>
+    <meta name="description" content="Obtén información detallada sobre cada tipo de cáncer, incluida la información sobre síntomas, diagnóstico, tratamiento, estadificación y mas.">
+    <title>Tipos de cáncer - Información sobre los tipos de cáncer</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 

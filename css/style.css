@@ -1807,6 +1807,22 @@ img.imagen-previa {
     margin-top: 2em;
 }
 
+.mb-2 {
+    margin-bottom: 2em;
+}
+
 .mt-1 {
     margin-top: 1em;
+}
+
+.contenedor-casos-exito {
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+@media (min-width: 886px) {
+    .contenedor-casos-exito {
+        max-width: 60%;
+    }
 }

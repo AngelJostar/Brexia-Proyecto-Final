@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>ser paciente en brexia</title>
+    <meta name="description" content="Elegir el centro de cáncer adecuado y un equipo de atención que satisfaga sus expectativas, necesidades y objetivos es uno de los aspectos más importantes de su viaje contra el cáncer.">
+    <title>Ser paciente en Brexia - Medicos especialistas en Cáncer</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 

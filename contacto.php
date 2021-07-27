@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Contacto</title>
+    <meta name="description" content="Nuestro equipo completo de especialistas en cáncer te dará un plan de tratamiento para que te beneficies de las nuevas tecnologías que te harán recuperar la salud. Contáctanos para que podamos ayudarte a vencer el cáncer.">
+    <title>Contacto Brexia - Clinica especialista en Cáncer</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 

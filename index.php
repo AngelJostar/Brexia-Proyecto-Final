@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <meta name="facebook-domain-verification" content="oh0lugf664udqpdprdktx9iolbvn94" />
+    <meta name="description" content="Brexia es un centro de alta especialidad en Cáncer formado por médicos especialistas dedicados únicamente al diagnóstico y tratamiento de cáncer.">
     <title>MÉDICOS ESPECIALISTAS EN CÁNCER</title>
     <link rel="stylesheet" rel="preload" href="css/style.css" media="all">
     <link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">

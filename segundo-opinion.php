@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Segunda opinion</title>
+    <meta name="description" content="Cuando está luchando contra una enfermedad como el cáncer, una segunda opinión ayuda a sentirse seguro con la atención  que necesita contra su lucha contra el cáncer.">
+    <title>Segunda Opinión - Otro panorama al diagnóstico</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 
