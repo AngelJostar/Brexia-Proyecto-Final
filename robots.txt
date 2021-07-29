@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /c?*
+Disalow: https://brexia.mx/cdn-cgi/l/email-protection
+
+Sitemap: https://centrosequoia.com.mx/sitemap.xml

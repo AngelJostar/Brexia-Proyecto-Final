@@ -9,6 +9,9 @@ RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*)$ $1.php 
 
 
+Redirect 301 /index/ https://brexia.mx/
+
+
 # php -- BEGIN cPanel-generated handler, do not edit
 # Configure el paquete “ea-php72” como el lenguaje de programación predeterminado “PHP”.
 <IfModule mime_module>
