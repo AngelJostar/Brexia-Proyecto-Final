@@ -28,9 +28,9 @@
             <section id="intro-content" class="intro-content">
                 <img src="img/especialistas.jpg" alt="Doctores">
                 <div class="tipos-cancer-regresar">
-                    <a href="../index ">
+                    <a href="https://brexia.mx/">
                             &nbsp; << INICIO</a>
-                    <a href="../contacto ">
+                    <a href="/contacto ">
                             &nbsp; CONTACTANOS >></a>
                 </div>
             </section>
@@ -141,7 +141,7 @@
                                 <p>Si está interesado en obtener más información sobre cómo convertirse en paciente en Brexia, contáctenos para comenzar el proceso de verificación de su seguro de gastos médicos.</p>
                                 <h2 class="centrar-texto brexia-color encabezados-brexia">Tomar la decisión correcta</h2>
                                 <div class="centrar-texto ">
-                                    <a href="../contacto"><button class="boton boton-brexia-footer ">Contacto</button></a>
+                                    <a href="/contacto"><button class="boton boton-brexia-footer ">Contacto</button></a>
                                 </div>
                                 <p>Después de obtener la información de su póliza de seguro, realizaremos una verificación preliminar para determinar cómo podríamos trabajar en conjunto Brexia, usted y su aseguradora y, si es posible, programar una cita.</p>
                                 <div class="imagen-80 centrar-imagen paddingTop-2">
@@ -165,7 +165,7 @@
                 <p class="font-12 centrar-texto brexia-color fontW-700">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ </p>
             </div>
             <div class="centrar-texto">
-                <a href="../contacto"><button class="boton boton-brexia-footer ">Contacto</button></a>
+                <a href="/contacto"><button class="boton boton-brexia-footer ">Contacto</button></a>
             </div>
             <div class="font-20 centrar-texto brexia-color maxW-40 ">
                 <p class="fontW-700">Regresar al inicio de esta pestaña para obtener más información de como ser paciente en Brexia</p>

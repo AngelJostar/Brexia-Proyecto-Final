@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header">
-                <a href="index "><img src="img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
+                <a href="https://brexia.mx/"><img src="img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
             </div>
             <div class="mid-font">
             <a href="tel:+5555238959"><p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p></a>
@@ -28,7 +28,7 @@
                 <div class="site-menu-content">
                     <a href="#" class="toggle-nav icono-menu"><i class="fas fa-times"></i></a>
                     <ul class="resaltar">
-                        <li><a href="index " class="menu-a">Inicio</a></li>
+                        <li><a href="https://brexia.mx/" class="menu-a">Inicio</a></li>
                         <div class="linea-menu"></div>
                         <li><a href="como-tratamos-el-cancer " class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
                         <div class="linea-menu"></div>
@@ -49,7 +49,7 @@
                         <a href="tel:+5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
                     </div>
                     <div class="centrar-texto">
-                        <a href="../contacto "><button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button></a>
+                        <a href="/contacto "><button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button></a>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
 
         <div class="low-header">
             <ul>
-                <li><a href="index  ">Inicio</a></li>
+                <li><a href="https://brexia.mx/">Inicio</a></li>
                 <li><a href="como-tratamos-el-cancer ">¿Cómo tratamos el Cáncer?</a></li>
                 <li><a href="ser-paciente ">Ser paciente en Brexia</a></li>
                 <li><a href="aspectos-basicos-cancer ">Aspectos básicos del Cáncer</a></li>

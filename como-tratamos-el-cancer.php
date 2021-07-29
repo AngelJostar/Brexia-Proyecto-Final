@@ -36,9 +36,9 @@
                         <img src="/img/COMO-TRATAMOS-EL-CANCER-mini.webp" alt="">
                     </div>
                         <div class="tipos-cancer-regresar">
-                            <a href="../index ">
+                            <a href="https://brexia.mx/">
                             &nbsp; << INICIO</a>
-                            <a href="../contacto ">
+                            <a href="/contacto ">
                             &nbsp; CONTACTANOS >></a>
                         </div>
                     </div>

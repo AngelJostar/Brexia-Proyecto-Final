@@ -29,9 +29,9 @@
         <section id="intro-content" class="intro-content">
             <img src="img/especialistas.jpg" alt="Doctores">
             <div class="tipos-cancer-regresar">
-                <a href="../index ">
+                <a href="https://brexia.mx/">
                         &nbsp; << INICIO</a>
-                <a href="../contacto ">
+                <a href="/contacto ">
                         &nbsp; CONTACTANOS >></a>
             </div>
         </section>

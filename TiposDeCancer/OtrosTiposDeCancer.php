@@ -38,9 +38,9 @@
                 </div>
             </div>
             <div class="tipos-cancer-regresar">
-                <a href="../tipos-de-cancer ">
+                <a href="/tipos-de-cancer ">
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                <a href="../contacto ">
+                <a href="/contacto ">
                             &nbsp; CONTACTANOS >></a>
             </div>
 

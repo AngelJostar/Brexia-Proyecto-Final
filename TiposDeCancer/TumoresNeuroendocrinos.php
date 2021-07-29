@@ -34,9 +34,9 @@
                     </div>
                 </div>
                 <div class="tipos-cancer-regresar">
-                    <a href="../tipos-de-cancer ">
+                    <a href="/tipos-de-cancer ">
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                    <a href="../contacto ">
+                    <a href="/contacto ">
                             &nbsp; CONTACTANOS >></a>
                 </div>
 
@@ -204,7 +204,7 @@
                     <P> <strong>Neuroendocrinos</strong> te dará un tratamiento</P>
                     <p>para <strong>curar tu cáncer.</strong> </p>
                 </div>
-                <a href="../contacto " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
+                <a href="/contacto " class="boton-vino" style= "text-decoration:none;">Contáctanos</a>
                 <div class="boton-no">
                     <a style="padding-bottom: 20px;"   class="btn waves-effect" data-dismiss="modal">No, gracias</a>
                 </div>

@@ -78,7 +78,7 @@
             <div class="opinion-secciones">
                 <h2 class="centrar-texto brexia-color font-12">AGENDA UNA CITA CON UN ESPECIALISTA EN CÁNCER DE BREXIA AQUÍ</h2>
                 <div class="centrar-texto">
-                    <a href="../contacto "><button class="boton boton-brexia-footer">Contacto</button></a>
+                    <a href="/contacto "><button class="boton boton-brexia-footer">Contacto</button></a>
                 </div>
                 <h2 class="centrar-texto brexia-color font-16">¿Cómo pedir una Segunda Opinión?</h2>
                 <p>Puede sentirse preocupado de que su médico se ofenda si decide buscar el consejo de otro profesional de la salud, pero la mayoría de los médicos comprende que muchos pacientes deciden buscar otra opinión y querrán que se sienta cómodo y seguro antes de comenzar el tratamiento.</p>
