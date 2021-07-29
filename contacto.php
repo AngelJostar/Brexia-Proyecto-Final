@@ -26,7 +26,7 @@
 
             <div>
                 <div class="contenedor-4 justificar-texto texto-brexia">
-                    <h2 class="formato-h2 centrar-texto paddingTop-2">Contacto y ubicación</h2>
+                    <h1 class="formato-h2 centrar-texto paddingTop-2">Contacto y ubicación</h1>
                     <p>En Brexia conocemos tu enfermedad, y entendemos tus miedos y tus necesidades.
                     </p>
                     <p> </p>

@@ -37,7 +37,7 @@
         </section>
 
         <div class="contenedor-2 justificar-texto texto-brexia">
-            <h2 class="formato-h2 centrar-texto paddingTop-1 ">Cáncer Aspectos Básicos</h2>
+            <h1 class="formato-h2 centrar-texto paddingTop-1 ">Cáncer Aspectos Básicos</h1>
             <p>En Brexia, nuestra promesa para usted y su familia es ofrecer información clara. Es por eso que estamos comprometidos a educar a los pacientes y a sus familias para ayudarlos a tomar decisiones de tratamiento informadas para ayudarlo a usted
                 y a su familia a decidir a dónde ir para recibir tratamiento, como parte de muchos otros factores que pueden estar considerando. Haga click en el enlace a continuación para encontrar toda la información relacionada con ASPECTOS BÁSICOS
                 DEL CÁNCER.
@@ -60,7 +60,7 @@
             </p>
 
             <div class="centrar-texto paddingTop-2">
-                <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento.php"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
+                <a href="Como-tratramos-el-cancer/Opciones-de-tratamiento"><button class="boton boton-brexia">Opciones de Tratamiento</button></a>
             </div>
             
             <h2 class="formato-h2 centrar-texto paddingTop-1 ">¿Quién trata el cáncer?</h2>

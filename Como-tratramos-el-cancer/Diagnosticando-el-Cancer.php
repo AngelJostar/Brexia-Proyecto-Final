@@ -34,9 +34,9 @@
                     <div>
                         <img src="/img/diagnosticando-el-cancer/01Portada-Diagnosticando-el-cancer.webp" alt="">
                         <div class="tipos-cancer-regresar">
-                            <a href="../tipos-de-cancer.php">
+                            <a href="../tipos-de-cancer">
                             &nbsp; << OTROS TIPOS DE CÁNCER</a>
-                            <a href="../contacto.php">
+                            <a href="../contacto">
                             &nbsp; CONTACTANOS >></a>
                     </div>
                     </div>
