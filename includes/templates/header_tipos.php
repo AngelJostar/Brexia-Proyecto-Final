@@ -44,7 +44,7 @@
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
-                        <a href="tel:+5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
+                        <a href="tel:5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
                     </div>
                     <div class="centrar-texto">
                         <button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button>

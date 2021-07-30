@@ -2,10 +2,10 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header">
-                <a href="https://brexia.mx/"><img src="img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
+                <a href="https://brexia.mx/"><img src="/img/logo-Brexia-con-colores-(2).png" alt="imagen-logo "></a>
             </div>
             <div class="mid-font">
-            <a href="tel:+5555238959"><p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p></a>
+            <a href="tel:5555238959"><p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p></a>
             </div>
             <div class="mid-font">
                 <p class="centrar-texto fontW-700">Escríbenos por Whatsapp <br> <a href="https://api.whatsapp.com/send?phone=5215551358125&text=">(celular): 52 (1) 55 5135 8125</a></p>
@@ -30,23 +30,23 @@
                     <ul class="resaltar">
                         <li><a href="https://brexia.mx/" class="menu-a">Inicio</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="como-tratamos-el-cancer " class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
+                        <li><a href="/como-tratamos-el-cancer " class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="ser-paciente " class="menu-a">Ser paciente en Brexia</a></li>
+                        <li><a href="/ser-paciente " class="menu-a">Ser paciente en Brexia</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="aspectos-basicos-cancer " class="menu-a">Aspectos básicos del Cáncer</a></li>
+                        <li><a href="/aspectos-basicos-cancer " class="menu-a">Aspectos básicos del Cáncer</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="tipos-de-cancer " class="menu-a">Tipos de Cáncer</a></li>
+                        <li><a href="/tipos-de-cancer " class="menu-a">Tipos de Cáncer</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="segundo-opinion" class="menu-a">Segunda Opinión</a></li>
+                        <li><a href="/segundo-opinion" class="menu-a">Segunda Opinión</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="casos-de-exito" class="menu-a">Casos de éxito</a></li>
+                        <li><a href="/casos-de-exito" class="menu-a">Casos de éxito</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="contacto " class="menu-a">Contacto</a></li>
+                        <li><a href="/contacto " class="menu-a">Contacto</a></li>
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
-                        <a href="tel:+5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
+                        <a href="tel:5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
                     </div>
                     <div class="centrar-texto">
                         <a href="/contacto "><button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button></a>
@@ -69,13 +69,13 @@
         <div class="low-header">
             <ul>
                 <li><a href="https://brexia.mx/">Inicio</a></li>
-                <li><a href="como-tratamos-el-cancer ">¿Cómo tratamos el Cáncer?</a></li>
-                <li><a href="ser-paciente ">Ser paciente en Brexia</a></li>
-                <li><a href="aspectos-basicos-cancer ">Aspectos básicos del Cáncer</a></li>
-                <li><a href="tipos-de-cancer ">Tipos de Cáncer</a></li>
-                <li><a href="segundo-opinion ">Segunda Opinión</a></li>
-                <li><a href="casos-de-exito">Casos de éxito</a></li>
-                <li><a href="contacto ">Contacto</a></li>
+                <li><a href="/como-tratamos-el-cancer">¿Cómo tratamos el Cáncer?</a></li>
+                <li><a href="/ser-paciente">Ser paciente en Brexia</a></li>
+                <li><a href="/aspectos-basicos-cancer">Aspectos básicos del Cáncer</a></li>
+                <li><a href="/tipos-de-cancer">Tipos de Cáncer</a></li>
+                <li><a href="/segundo-opinion">Segunda Opinión</a></li>
+                <li><a href="/casos-de-exito">Casos de éxito</a></li>
+                <li><a href="/contacto">Contacto</a></li>
             </ul>
         </div>
     </div>

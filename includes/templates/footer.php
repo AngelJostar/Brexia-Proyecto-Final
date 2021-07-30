@@ -8,7 +8,7 @@
         <div class="contenedor-footer">
             <div class="footer-grid">
                 <div class="centrar-texto llama-tel ">
-                    <a href="tel:+5555238959"><p class = "fontW-700">Tel: (55) 5523 8959</p></a>
+                    <a href="tel:5555238959"><p class = "fontW-700">Tel: (55) 5523 8959</p></a>
                 </div>
                 <div class="centrar-texto">
                     <a href="/contacto "><button class="boton boton-brexia-footer">Contacto</button></a>

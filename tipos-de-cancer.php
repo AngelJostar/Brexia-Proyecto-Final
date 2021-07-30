@@ -2,20 +2,20 @@
 <html lang="en">
 
 <?php include_once 'includes/tags/google_tag_manager_head.php';?>
-    <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <meta name="description" content="Obtén información detallada sobre cada tipo de cáncer, incluida la información sobre síntomas, diagnóstico, tratamiento, estadificación y mas.">
     <title>Tipos de cáncer - Información sobre los tipos de cáncer</title>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
 
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
     <div id="top-header" class="top-header ">
-         <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
+         <a href="tel:5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
 
     <!--####HEADER####-->
@@ -27,7 +27,7 @@
 
 
             <div id="intro-content" class="intro-content">
-                <img src="img/especialistas.jpg" alt="Doctores">
+                <img src="/img/especialistas.jpg" alt="Doctores">
             </div>
 
             <section class="contenedor-3 texto-brexia">
@@ -37,32 +37,32 @@
                 </div>
                 <div class="footer-grid justificar-texto paddingTop-3 ">
                     <div class="centrar-texto espacio-boton">
-                        <a href="TiposDeCancer/CancerCervicouterino"> <button class="boton boton-brexia ">Cáncer Cervicouterino </button></a>
-                        <a href="TiposDeCancer/CancerDeCabezaCuello"> <button class="boton boton-brexia ">Cáncer de Cabeza y Cuello</button></a>
-                        <a href="TiposDeCancer/CancerDeCerebro"> <button class="boton boton-brexia ">Cáncer de Cerebro</button></a>
-                        <a href="TiposDeCancer/CancerDeColonRecto"> <button class="boton boton-brexia ">Cáncer de Colon y Recto</button></a>
-                        <a href="TiposDeCancer/CancerDeEndometrio"> <button class="boton boton-brexia ">Cáncer de Endometrio (Útero)</button></a>
-                        <a href="TiposDeCancer/CancerDeEsofago"> <button class="boton boton-brexia ">Cáncer de Esófago</button></a>
-                        <a href="TiposDeCancer/CancerDeEstomago"> <button class="boton boton-brexia ">Cáncer de Estómago</button></a>
-                        <a href="TiposDeCancer/CancerDeHigado"> <button class="boton boton-brexia ">Cáncer de Hígado</button></a>
-                        <a href="TiposDeCancer/CancerDeMama"><button class="boton boton-brexia ">Cáncer de Mama</button></a>
-                        <a href="TiposDeCancer/CancerDeOvario"><button class="boton boton-brexia ">Cáncer de Ovario</button></a>
-                        <a href="TiposDeCancer/CancerDePancreas"><button class="boton boton-brexia ">Cáncer de Páncreas</button></a>
+                        <a href="/tipos-de-cancer/cancer-cervicouterino"> <button class="boton boton-brexia ">Cáncer Cervicouterino </button></a>
+                        <a href="/tipos-de-cancer/cancer-de-cabezaCuello"> <button class="boton boton-brexia ">Cáncer de Cabeza y Cuello</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-cerebro"> <button class="boton boton-brexia ">Cáncer de Cerebro</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-colonRecto"> <button class="boton boton-brexia ">Cáncer de Colon y Recto</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-endometrio"> <button class="boton boton-brexia ">Cáncer de Endometrio (Útero)</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-esofago"> <button class="boton boton-brexia ">Cáncer de Esófago</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-estomago"> <button class="boton boton-brexia ">Cáncer de Estómago</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-higado"> <button class="boton boton-brexia ">Cáncer de Hígado</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-mama"><button class="boton boton-brexia ">Cáncer de Mama</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-ovario"><button class="boton boton-brexia ">Cáncer de Ovario</button></a>
+                        <a href="/tipos-de-cancer/cancer-de-pancreas"><button class="boton boton-brexia ">Cáncer de Páncreas</button></a>
                     </div>
                     <div class="centrar-texto ">
                         <div class="centrar-texto ">
-                            <a href="TiposDeCancer/CancerDePulmon"><button class="boton boton-brexia ">Cáncer de Pulmón</button></a>
-                            <a href="TiposDeCancer/CancerDeRinon"><button class="boton boton-brexia ">Cáncer de Riñón</button></a>
-                            <a href="TiposDeCancer/CancerDeTesticulo"><button class="boton boton-brexia ">Cáncer de Testículo</button></a>
-                            <a href="TiposDeCancer/CancerDeProstata"><button class="boton boton-brexia ">Cáncer de Próstata</button></a>
-                            <a href="TiposDeCancer/CancerDeVejiga"><button class="boton boton-brexia ">Cáncer de Vejiga</button></a>
-                            <a href="TiposDeCancer/CancerDeViasBiliares "><button class="boton boton-brexia ">Cáncer de Vías Biliares</button></a>
-                            <a href="TiposDeCancer/Melanoma"><button class="boton boton-brexia ">Melanoma</button></a>
-                            <a href="TiposDeCancer/Mesotelioma "><button class="boton boton-brexia ">Mesotelioma</button></a>
-                            <a href="TiposDeCancer/SarcomasTejidosBlandos"><button class="boton boton-brexia ">Sarcomas de Tejidos Blandos</button></a>
-                            <a href="TiposDeCancer/SarcomasTejidosOseos"><button class="boton boton-brexia ">Sarcomas de Tejidos Óseos</button></a>
-                            <a href="TiposDeCancer/TumoresNeuroendocrinos"><button class="boton boton-brexia ">Tumores Neuroendocrinos</button></a>
-                            <a href="TiposDeCancer/OtrosTiposDeCancer"><button class="boton boton-brexia ">Otros tipos de cáncer</button></a>
+                            <a href="/tipos-de-cancer/cancer-de-pulmon"><button class="boton boton-brexia ">Cáncer de Pulmón</button></a>
+                            <a href="/tipos-de-cancer/cancer-de-rinon"><button class="boton boton-brexia ">Cáncer de Riñón</button></a>
+                            <a href="/tipos-de-cancer/cancer-de-testiculo"><button class="boton boton-brexia ">Cáncer de Testículo</button></a>
+                            <a href="/tipos-de-cancer/cancer-de-prostata"><button class="boton boton-brexia ">Cáncer de Próstata</button></a>
+                            <a href="/tipos-de-cancer/cancer-de-vejiga"><button class="boton boton-brexia ">Cáncer de Vejiga</button></a>
+                            <a href="/tipos-de-cancer/cancer-de-viasBiliares "><button class="boton boton-brexia ">Cáncer de Vías Biliares</button></a>
+                            <a href="/tipos-de-cancer/melanoma"><button class="boton boton-brexia ">Melanoma</button></a>
+                            <a href="/tipos-de-cancer/mesotelioma "><button class="boton boton-brexia ">Mesotelioma</button></a>
+                            <a href="/tipos-de-cancer/sarcomas-tejidos-blandos"><button class="boton boton-brexia ">Sarcomas de Tejidos Blandos</button></a>
+                            <a href="/tipos-de-cancer/sarcomas-tejidos-oseos"><button class="boton boton-brexia ">Sarcomas de Tejidos Óseos</button></a>
+                            <a href="/tipos-de-cancer/tumores-neuroendocrinos"><button class="boton boton-brexia ">Tumores Neuroendocrinos</button></a>
+                            <a href="/tipos-de-cancer/otros-tipos-de-cancer"><button class="boton boton-brexia ">Otros tipos de cáncer</button></a>
                         </div>
                     </div>
                 </div>
@@ -84,12 +84,12 @@
 
 
     <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
-    <script src="../js/jquery-3.5.1.min.js"></script>
+    <script src="/js/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
     <!-- ### EDITABLE JS/JQUERY INCLUDE ### -->
-    <script src="../js/scripts.js "></script>
+    <script src="/js/scripts.js "></script>
 </body>
 
 

@@ -2,21 +2,21 @@
 <html lang="en">
 
 <?php include_once 'includes/tags/google_tag_manager_head.php';?>
-    <link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/cropped-favicon-1-32x32.png" sizes="32x32">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <meta name="description" content="Elegir el centro de cáncer adecuado y un equipo de atención que satisfaga sus expectativas, necesidades y objetivos es uno de los aspectos más importantes de su viaje contra el cáncer.">
     <title>Ser paciente en Brexia - Medicos especialistas en Cáncer</title>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
 
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
 
     <div id="top-header" class="top-header ">
-         <a href="tel:+5555238959"><p>Llámanos: (55) 5523 8959</p></a>
+         <a href="tel:5555238959"><p>Llámanos: (55) 5523 8959</p></a>
     </div>
     <!--####HEADER####-->
     <section id="site-wrapper">
@@ -26,7 +26,7 @@
         <?php include_once 'includes/templates/header.php';?>
             
             <section id="intro-content" class="intro-content">
-                <img src="img/especialistas.jpg" alt="Doctores">
+                <img src="/img/especialistas.jpg" alt="Doctores">
                 <div class="tipos-cancer-regresar">
                     <a href="https://brexia.mx/">
                             &nbsp; << INICIO</a>
@@ -74,7 +74,7 @@
                                     <li class="paddingTop-2"><strong>Un enfoque multidisciplinario:</strong> Combinamos los tratamientos convencionales con servicios de atención de apoyo como parte del plan de tratamiento de cada paciente, y todos los tratamientos son proporcionados
                                         por un equipo de atención multidisciplinaria.</li>
                                     <div class="imagen-80 centrar-imagen paddingTop-2">
-                                        <img src="img/Brexia_especialistas_en_cancer-768x512.jpg" alt="Brexia_especialistas">
+                                        <img src="/img/Brexia_especialistas_en_cancer-768x512.jpg" alt="Brexia_especialistas">
                                     </div>
                                     <li class="paddingTop-2"><strong>Colaboración: </strong> ​En Brexia, el equipo de atención de cada paciente incluye oncólogos que trabajan junto con profesionales de atención de apoyo, compartiendo conocimientos y recursos para determinar un
                                         enfoque de colaboración para controlar los efectos secundarios relacionados con el tratamiento.</li>
@@ -98,7 +98,7 @@
                                     de diagnóstico para determinar la ubicación, el estadio y la extensión del cáncer. También puede reunirse con el administrador de atención y según sus necesidades y preferencias, puede optar por ver a un nutriólogo,
                                     psicólogo y / u otro proveedor de servicios de atención de apoyo.</p>
                                 <div class="imagen-80 centrar-imagen paddingTop-2">
-                                    <img src="img/COMO-TRATAMOS-EL-CANCER-768x840.png" alt="Brexia_especialistas">
+                                    <img src="/img/COMO-TRATAMOS-EL-CANCER-768x840.png" alt="Brexia_especialistas">
                                 </div>
                                 <p>Una vez que usted y su oncólogo médico decidan qué tratamientos contra el cáncer recibirán, tendrán la opción de reunirse con un nutriólogo, un tanatólogo, un asesor espiritual y otros médicos, que tienen experiencia y
                                     capacitación para recomendar terapias que lo ayuden a controlar efectos secundarios del tratamiento.</p>
@@ -112,7 +112,7 @@
                                 <p>Una segunda opinión lo ayuda a sentirse seguro de que está recibiendo la atención para el cáncer que necesita y merece. Una segunda opinión puede revelar opciones de tratamiento adicionales para su tipo y etapa de cáncer,
                                     o confirmar un enfoque de tratamiento actual.</p>
                                 <div class="imagen-80 centrar-imagen paddingTop-2">
-                                    <img src="img/ser-paciente-doctor.png" alt="Brexia_especialistas">
+                                    <img src="/img/ser-paciente-doctor.png" alt="Brexia_especialistas">
                                 </div>
                                 <p>Buscar una segunda opinión puede ayudarlo a tomar una decisión más informada sobre su tratamiento contra el cáncer. Aquí hay seis beneficios de obtener una segunda opinión para su atención del cáncer.</p>
                                 <ol class="paddingTop-2 secciones-enumeradas">
@@ -145,7 +145,7 @@
                                 </div>
                                 <p>Después de obtener la información de su póliza de seguro, realizaremos una verificación preliminar para determinar cómo podríamos trabajar en conjunto Brexia, usted y su aseguradora y, si es posible, programar una cita.</p>
                                 <div class="imagen-80 centrar-imagen paddingTop-2">
-                                    <img src="img/ser-paciente-instrumentos.png" alt="Brexia_especialistas">
+                                    <img src="/img/ser-paciente-instrumentos.png" alt="Brexia_especialistas">
                                 </div>
                                 <p>Si necesitamos investigar más, nos pondremos en contacto con usted. Una vez que se hayan confirmado los beneficios de su seguro médico, un especialista en información oncológica revisará los detalles de la cobertura de
                                     su plan de seguro y responderá las preguntas que pueda tener.</p>
@@ -194,9 +194,9 @@
     <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="/js/jquery-3.5.1.min.js"></script>
     <!-- ### EDITABLE JS/JQUERY INCLUDE ### -->
-    <script src="js/scripts.js "></script>
+    <script src="/js/scripts.js "></script>
 
 </body>
 
