@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Si usted presenta algún síntoma o si los resultados de sus exámenes de detección parecen indicar que hay cáncer, su doctor deberá averiguar si la causa es cáncer o alguna otra cosa. Como primer paso, el doctor puede preguntarle sus antecedentes médicos personales y familiares y hacer un examen físico.">
     <title>Diagnosticando el Cáncer</title>
 
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

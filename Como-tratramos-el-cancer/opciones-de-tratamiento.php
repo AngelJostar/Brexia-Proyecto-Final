@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Existen muchos tipos de tratamientos contra el cáncer. Los tipos de tratamiento que reciba dependerán del tipo de cáncer que tenga y qué tan avanzado esté. Algunas personas con cáncer recibirán un solo tratamiento. Pero la mayoría de las personas se someten a una combinación de tratamientos, como cirugía con quimioterapia y / o radioterapia.">
     <title>Opciones de tratamiento</title>
 
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

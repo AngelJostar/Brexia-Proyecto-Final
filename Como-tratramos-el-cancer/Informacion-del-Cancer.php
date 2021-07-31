@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="La palabra cáncer es un término muy amplio que abarca más de 100 tipos de enfermedades. Cada uno de estos tipos de enfermedades puede tener características completamente diferentes al resto de los cánceres, pudiendo considerarse enfermedades independientes, con las causas del cáncer, su evolución y sus tratamientos específicos.">
     <title>información del cáncer</title>
 
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

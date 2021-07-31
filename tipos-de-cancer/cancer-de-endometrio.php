@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="El cáncer de endometrio ​es un tipo de cáncer ​que se forma en el tejido que reviste el útero (órgano pequeño, hueco y con forma de pera situado en la pelvis de una mujer donde se desarrolla el feto). La mayoría de los casos de ​cáncer de endometrio son adenocarcinomas.">
     <title>Cáncer de Endometrio - diagnóstico y tratamiento</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

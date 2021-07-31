@@ -6,7 +6,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>El cáncer</title>
+<meta name="description" content="En Brexia, nuestra promesa para usted y su familia es ofrecer información clara. Es por eso que estamos comprometidos a educar a los pacientes y a sus familias para ayudarlos a tomar decisiones de tratamiento informadas para ayudarlo a usted y a su familia a decidir a dónde ir para recibir tratamiento.">
+<title>Aspectos basicos del cáncer - diagnostico y tratamiento </title>
 <link rel="stylesheet" href="/css/normalize.css">
 <link rel="stylesheet" href="/css/style.css">
 

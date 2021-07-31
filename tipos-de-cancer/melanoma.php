@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Un melanoma es una forma de cáncer que comienza en los melanocitos, unas células que elaboran la melanina (el pigmento que da la coloración de la piel). Puede comenzar en un lunar (melanoma de piel), pero también puede aparecer en otros tejidos pigmentados, como los ojos o los intestinos.">
     <title>Melanoma - diagnóstico y tratamiento</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

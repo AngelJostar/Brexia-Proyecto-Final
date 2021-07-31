@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="El cáncer es una enfermedad con una influencia muy importante sobre las emociones. Las investigaciones científicas nos informan que casi la mitad de las personas que tienen o han tenido cáncer, van a presentar algún problema emocional, trastorno depresivo o trastorno de ansiedad y que van a mostrar importantes síntomas de estrés, relacionados con los tratamientos o con la evolución de la enfermedad, incluso, después de que esta se haya superado.">
     <title>sentimientos y el cancer</title>
 
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

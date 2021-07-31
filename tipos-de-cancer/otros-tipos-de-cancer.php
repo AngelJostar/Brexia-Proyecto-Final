@@ -6,8 +6,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
+<meta name="description" content="">
 <title>Otros tipos de cáncer - diagnóstico y tratamiento</title>
-
 <link rel="stylesheet" rel="preload" href="/css/normalize.css">
 <link rel="stylesheet" rel="preload" href="/css/style.css">
 

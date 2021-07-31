@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="El cáncer de estómago es un tipo de cáncer que se forma en los tejidos que revisten el estómago. La mayoría comienza en las células de la capa interna del estómago (la mucosa), que suele elaborar y secretar moco y otros líquidos.">
     <title>Cáncer de Estómago - diagnóstico y tratamiento</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">

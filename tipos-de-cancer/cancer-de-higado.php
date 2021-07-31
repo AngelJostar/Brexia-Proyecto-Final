@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="El ​cáncer de hígado es un ​tumor que se origina en el tejido del ​hígado (tejido hepático). Dependiendo del tipo de célula cancerosa, existen diversos tipos de ​cáncer de hígado​. El tipo más frecuente es el carcinoma hepatocelular, que constituye el 90 % de todos los cánceres de hígado; comienza en los hepatocitos, las células más importantes del hígado.">
     <title>Cáncer de Higado - diagnóstico y tratamiento</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" rel="preload" href="/css/normalize.css">
